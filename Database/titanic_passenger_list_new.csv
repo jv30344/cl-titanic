@@ -1,0 +1,2185 @@
+passenger_id,LastName,FirstName,Other_Info,Age,Gender,Hometown,Boarded,Lifeboat,Body,Class,Survived,Passenger,Crew,crew_responsibility
+passenger_id,Allen,Miss Elisabeth Walton,,29,F,,Southampton,,,1,1,1,0,
+passenger_id,Allison,Mr Hudson Joshua Creighton,,30,M,,Southampton,,,1,0,1,0,
+passenger_id,Allison,Mrs Bessie Waldo,,25,F,,Southampton,,,1,0,1,0,
+passenger_id,Allison,Miss Helen Loraine,,2,F,,Southampton,,,1,0,1,0,
+passenger_id,Allison,Master Hudson Trevor,,0.9166,M,,Southampton,,,1,1,1,0,
+passenger_id,Anderson,Mr Harry,,47,M,,Southampton,,,1,1,1,0,
+passenger_id,Andrews,Miss Kornelia Theodosia,,62,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Andrews,Mr Thomas,,39,M,,Belfast,,,1,0,1,0,
+passenger_id,Appleton,Mrs Charlotte,,53,F,,Southampton,,,1,1,1,0,
+passenger_id,Artagaveytia,Mr Ramon,,71,M,,Cherbourg,,,1,0,1,0,
+passenger_id,Astor,Colonel John Jacob,,47,M,,Cherbourg,,,1,0,1,0,
+passenger_id,Astor,Mrs Madeleine Talmage,,18,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Aubart,"Mme. Leontine Pauline ""Ninette""",,24,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Barber,Miss Ellen Mary      ,(Maid to Mrs Tyrell William Cavendish),26,F,,Southampton,,,1,1,1,0,
+passenger_id,Barkworth,Mr Algernon Henry,,47,M,,Southampton,,,1,1,1,0,
+passenger_id,Bassani,Mrs Albina    ,(Maid to Mrs William Robert Bucknell),32,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Baumann,Mr John D.,,60,M,,Cherbourg,,,1,0,1,0,
+passenger_id,Baxter,Mrs Helene,,50,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Baxter,Mr Quigg Edmond,,24,M,,Cherbourg,,,1,0,1,0,
+passenger_id,Beattie,Mr Thomson,,36,F,,Southampton,,,1,0,1,0,
+passenger_id,Beckwith,Mr Richard Leonard,,37,M,,Southampton,,,1,1,1,0,
+passenger_id,Beckwith,Mrs Sallie,,46,F,,Southampton,,,1,1,1,0,
+passenger_id,Behr,Mr Karl Howell,,26,M,,Cherbourg,,,1,1,1,0,
+passenger_id,Bessette,Miss Nellie Mayo      ,(Maid to Mrs Ella Holmes White),39,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Bidois,Miss Rosalie    ,(Maid to Mrs John Jacob Astor),46,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Bird,Miss Ellen    ,(Maid to Mr & Mrs Isodor Straus),31,F,,Southampton,,,1,1,1,0,
+passenger_id,Birnbaum,Mr Jakob,,24,M,,Cherbourg,,,1,0,1,0,
+passenger_id,Bishop,Mr Dickinson H.,,25,M,,Cherbourg,,,1,1,1,0,
+passenger_id,Bishop,Mrs Helen,,19,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Bjornstrom-Steffansson,Mr Mauritz Hokan,,28,M,,Southampton,,,1,1,1,0,
+passenger_id,Blackwell,Mr Stephen Weart,,45,M,,Southampton,,,1,0,1,0,
+passenger_id,Blank,Mr Henry,,39,M,,Cherbourg,,,1,1,1,0,
+passenger_id,Bonnell,Miss Caroline,,30,F,,Southampton,,,1,1,1,0,
+passenger_id,Bonnell,Miss Elizabeth,,61,F,,Southampton,,,1,1,1,0,
+passenger_id,Borebank,Mr John James,,42,M,,Southampton,,,1,0,1,0,
+passenger_id,Bowen,Miss Grace Scott    ,(Maid to Mr & Mrs Arthur Ryerson),45,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Bowerman,Miss Elsie Edith,,22,F,,Southampton,,,1,1,1,0,
+passenger_id,Brady,Mr John Bertram,,41,M,,Southampton,,,1,0,1,0,
+passenger_id,Brandeis,Mr Emil Franklin,,48,M,,Cherbourg,,,1,0,1,0,
+passenger_id,Brereton,Mr George Andrew,,37,M,,Southampton,,,1,1,1,0,
+passenger_id,Brewe,Dr Arthur Jackson,,45,M,,Cherbourg,,,1,0,1,0,
+passenger_id,Brown,Mrs Caroline Lane,,59,F,,Southampton,,,1,1,1,0,
+passenger_id,Brown,Mrs Margaret,,44,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Bucknell,Mrs Emma Eliza,,58,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Burns,Miss Elizabeth Margaret    ,(Nanny to Master Robert Douglas Spedden),41,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Butt,Major Archibald Willingham,,46,M,,Southampton,,,1,0,1,0,
+passenger_id,Cairns,Mr Alexander Milne    ,(Manservant to Mr William Ernest Carter),28,M,,Southampton,,,1,0,1,0,
+passenger_id,Calderhead,Mr Edward Pennington,,42,M,,Southampton,,,1,1,1,0,
+passenger_id,Candee,Mrs Helen Churchill,,52,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Cardeza,Mrs Charlotte Wardle,,58,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Cardeza,Mr Thomas Drake Martinez,,36,M,,Cherbourg,,,1,1,1,0,
+passenger_id,Carlsson,Mr Frans Olof,,33,M,,Southampton,,,1,0,1,0,
+passenger_id,Carrae-Esteves,Mr Jose Pedro,,17,M,,Southampton,,,1,0,1,0,
+passenger_id,Carrau,Mr Francisco Mauro Severiano,,27,M,,Southampton,,,1,0,1,0,
+passenger_id,Carter,Mr William Ernest,,36,M,,Southampton,,,1,1,1,0,
+passenger_id,Carter,Mrs Lucile,,36,F,,Southampton,,,1,1,1,0,
+passenger_id,Carter,Miss Lucile Polk,,13,F,,Southampton,,,1,1,1,0,
+passenger_id,Carter,Master William Thornton II,,11,M,,Southampton,,,1,1,1,0,
+passenger_id,Case,Mr Howard Brown,,49,M,,Southampton,,,1,0,1,0,
+passenger_id,Cassebeer,Mrs Eleanor Genevieve,,36,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Cavendish,Mr Tyrell William,,36,M,,Southampton,,,1,0,1,0,
+passenger_id,Cavendish,Mrs Julia Florence,,25,F,,Southampton,,,1,1,1,0,
+passenger_id,Chaffee,Mr Herbert Fuller,,46,M,,Southampton,,,1,0,1,0,
+passenger_id,Chaffee,Mrs Carrie Constance,,47,F,,Southampton,,,1,1,1,0,
+passenger_id,Chambers,Mr Norman Campbell,,27,M,,Southampton,,,1,1,1,0,
+passenger_id,Chambers,Mrs Bertha,,32,F,,Southampton,,,1,1,1,0,
+passenger_id,Chaudanson,Miss Victorine    ,(Maid to Mrs Emily Ryerson),36,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Cherry,Miss Gladys,,30,F,,Southampton,,,1,1,1,0,
+passenger_id,Chevre,Mr Paul Romaine Marie Leonce,,45,M,,Cherbourg,,,1,1,1,0,
+passenger_id,Chibnall,Mrs Edith Martha Bowerman,,48,F,,Southampton,,,1,1,1,0,
+passenger_id,Chisholm,Mr Roderick Robert Crispin,,43,M,,Belfast,,,1,0,1,0,
+passenger_id,Clark,Mr Walter Miller,,27,M,,Cherbourg,,,1,0,1,0,
+passenger_id,Clark,Mrs Virginia Estelle,,26,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Cleaver,Miss Alice Catherine    ,(Nanny to Master Hudson Trevor Allison),22,F,,Southampton,,,1,1,1,0,
+passenger_id,Clifford,Mr George Quincy,,40,M,,Southampton,,,1,0,1,0,
+passenger_id,Colley,Mr Edward Pomeroy,,37,M,,Southampton,,,1,0,1,0,
+passenger_id,Compton,Mrs Mary Eliza,,64,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Compton,Miss Sara Rebecca,,39,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Compton,Mr Alexander Taylor Jr,,37,M,,Cherbourg,,,1,0,1,0,
+passenger_id,Cornell,Mrs Malvina Helen,,55,F,,Southampton,,,1,1,1,0,
+passenger_id,Crafton,Mr John Bertram,,59,M,,Southampton,,,1,0,1,0,
+passenger_id,Crosby,Captain Edward Gifford,,70,M,,Southampton,,,1,0,1,0,
+passenger_id,Crosby,Mrs Catherine Elizabeth,,64,F,,Southampton,,,1,1,1,0,
+passenger_id,Crosby,Miss Harriette Rebecca,,39,F,,Southampton,,,1,1,1,0,
+passenger_id,Cumings,Mr John Bradley,,39,M,,Cherbourg,,,1,0,1,0,
+passenger_id,Cumings,Mrs Florence Briggs,,35,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Daly,Mr Peter Dennis,,51,M,,Southampton,,,1,0,1,0,
+passenger_id,Daniel,Mr Robert Williams,,27,M,,Southampton,,,1,1,1,0,
+passenger_id,Daniels,Miss Sarah Rebecca    ,(Maid to Mr & Mrs Allison),33,F,,Southampton,,,1,1,1,0,
+passenger_id,Davidson,Mr Thornton,,31,M,,Cherbourg,,,1,0,1,0,
+passenger_id,Davidson,Mrs Orian,,27,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Dick,Mr Albert Adrian,,31,M,,Southampton,,,1,1,1,0,
+passenger_id,Dick,Mrs Vera,,17,F,,Southampton,,,1,1,1,0,
+passenger_id,Dodge,Dr Washington,,52,M,,Southampton,,,1,1,1,0,
+passenger_id,Dodge,Mrs Ruth,,34,F,,Southampton,,,1,1,1,0,
+passenger_id,Dodge,Master Washington,,4,M,,Southampton,,,1,1,1,0,
+passenger_id,Douglas,Mr Walter Donald,,50,M,,Cherbourg,,,1,0,1,0,
+passenger_id,Douglas,Mrs Mahala,,48,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Douglas,Mrs Mary Helene,,27,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Duff Gordon,Sir Cosmo Edmund,,49,M,,Cherbourg,,,1,1,1,0,
+passenger_id,Duff Gordon,"Lucy Christiana, Lady",,48,M,,Cherbourg,,,1,1,1,0,
+passenger_id,Dulles,Mr William Crothers,,39,M,,Cherbourg,,,1,0,1,0,
+passenger_id,Earnshaw,Mrs Olive,,23,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Endres,Miss Caroline Louise    ,(Nurse to Mrs Madeleine Astor),39,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Eustis,Miss Elizabeth Mussey,,54,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Evans,Miss Edith Corse,,36,F,,Cherbourg,,,1,0,1,0,
+passenger_id,Farthing,Mr John    ,(Manservant to Mr & Mrs Straus),57,M,,Southampton,,,1,0,1,0,
+passenger_id,Flegenheim,Mrs Antoinette,,48,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Fleming,Miss Margaret    ,(Maid to Mr & Mrs Thayer),42,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Flynn,Mr John Irwin,,36,M,,Southampton,,,1,1,1,0,
+passenger_id,Foreman,Mr Benjamin Laventall,,30,M,,Southampton,,,1,0,1,0,
+passenger_id,Fortune,Mr Mark,,64,M,,Southampton,,,1,0,1,0,
+passenger_id,Fortune,Mrs Mary,,60,F,,Southampton,,,1,1,1,0,
+passenger_id,Fortune,Miss Ethel Flora,,28,F,,Southampton,,,1,1,1,0,
+passenger_id,Fortune,Miss Alice Elizabeth,,24,F,,Southampton,,,1,1,1,0,
+passenger_id,Fortune,Miss Mabel Helen,,23,F,,Southampton,,,1,1,1,0,
+passenger_id,Fortune,Mr Charles Alexander,,19,M,,Southampton,,,1,0,1,0,
+passenger_id,Francatelli,Miss Laura Mabel    ,(Secretary to Lady Duff-Gordon),31,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Franklin,Mr Thomas Parnham,,37,M,,Southampton,,,1,0,1,0,
+passenger_id,Frauenthal,Mr Isaac Gerald,,43,M,,Cherbourg,,,1,1,1,0,
+passenger_id,Frauenthal,Dr Henry William,,49,M,,Southampton,,,1,1,1,0,
+passenger_id,Frauenthal,Mrs Clara,,42,F,,Southampton,,,1,1,1,0,
+passenger_id,Frolicher,Miss Hedwig Margaritha,,22,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Frolicher-Stehli,Mr Maximilian Josef,,60,M,,Cherbourg,,,1,1,1,0,
+passenger_id,Frolicher-Stehli,Mrs Margaretha Emerentia,,48,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Fry,Mr Richard    ,(Valet to Mr Joseph Bruce Ismay),39,M,,Southampton,,,1,0,1,0,
+passenger_id,Futrelle,Mr Jacques Heath,,37,M,,Southampton,,,1,0,1,0,
+passenger_id,Futrelle,Mrs Lily May,,35,F,,Southampton,,,1,1,1,0,
+passenger_id,Gee,Mr Arthur H.,,47,M,,Southampton,,,1,0,1,0,
+passenger_id,Gibson,Mrs Pauline Caroline,,44,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Gibson,Miss Dorothy Winifred,,22,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Gieger,Miss Amalie    ,(Maid to Mrs George Dunton Widener),35,F,,Southampton,,,1,1,1,0,
+passenger_id,Giglio,Mr Victor Gaitan Andrea    ,(Valet to Mr Benjamin Guggenheim),23,M,,Cherbourg,,,1,0,1,0,
+passenger_id,Goldenberg,Mr Samuel L.,,47,M,,Cherbourg,,,1,1,1,0,
+passenger_id,Goldenberg,Mrs Nella,,40,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Goldschmidt,Mr George B.,,71,M,,Cherbourg,,,1,0,1,0,
+passenger_id,Gracie,Colonel Archibald,,53,M,,Southampton,,,1,1,1,0,
+passenger_id,Graham,Mr George Edward,,38,M,,Southampton,,,1,0,1,0,
+passenger_id,Graham,Mrs Edith,,59,F,,Southampton,,,1,1,1,0,
+passenger_id,Graham,Miss Margaret Edith,,19,F,,Southampton,,,1,1,1,0,
+passenger_id,Greenfield,Mrs Blanche,,45,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Greenfield,Mr William Bertram,,23,M,,Cherbourg,,,1,1,1,0,
+passenger_id,Guggenheim,Mr Benjamin,,46,M,,Cherbourg,,,1,0,1,0,
+passenger_id,Harder,Mr George Achilles,,25,M,,Cherbourg,,,1,1,1,0,
+passenger_id,Harder,Mrs Dorothy,,21,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Harper,Mr Henry Sleeper,,48,M,,Cherbourg,,,1,1,1,0,
+passenger_id,Harper,Mrs Myra Raymond,,49,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Harrington,Mr Charles Henry    ,(Manservant to Mr Clarence Bloomfield Moore),37,M,,Southampton,,,1,0,1,0,
+passenger_id,Harris,Mr Henry Birkhardt,,45,M,,Southampton,,,1,0,1,0,
+passenger_id,Harris,Mrs Irene,,35,F,,Southampton,,,1,1,1,0,
+passenger_id,Harrison,Mr William Henry    ,(Private secretary to Mr Joseph Bruce Ismay),45,M,,Southampton,,,1,0,1,0,
+passenger_id,Hassab,Mr Hammad    ,(Interpreter to Mr Henry Sleeper Harper),27,M,,Cherbourg,,,1,1,1,0,
+passenger_id,Hawksford,Mr Walter James,,45,M,,Southampton,,,1,1,1,0,
+passenger_id,Hays,Mr Charles Melville,,55,M,,Southampton,,,1,0,1,0,
+passenger_id,Hays,Mrs Clara Jennings,,52,F,,Southampton,,,1,1,1,0,
+passenger_id,Hays,Miss Margaret Bechstein,,24,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Head,Mr Christopher,,42,M,,Southampton,,,1,0,1,0,
+passenger_id,Hilliard,Mr Herbert Henry,,44,M,,Southampton,,,1,0,1,0,
+passenger_id,Hipkins,Mr William Edward,,55,M,,Southampton,,,1,0,1,0,
+passenger_id,Hippach,Mrs Ida Sophia,,44,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Hippach,Miss Jean Gertrude,,17,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Hogeboom,Mrs Anna Louisa,,51,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Holverson,Mr Alexander Oskar,,42,M,,Southampton,,,1,0,1,0,
+passenger_id,Holverson,Mrs Mary Aline,,35,F,,Southampton,,,1,1,1,0,
+passenger_id,Homer,Mr Harry,,40,M,,Southampton,,,1,1,1,0,
+passenger_id,Hoyt,Mr Frederick Maxfield,,38,M,,Southampton,,,1,1,1,0,
+passenger_id,Hoyt,Mrs Jane Anne,,31,F,,Southampton,,,1,1,1,0,
+passenger_id,Hoyt,Mr William Fisher,,42,M,,Cherbourg,,,1,1,1,0,
+passenger_id,Icard,Miss Rose Amelie    ,(Maid to Mrs George Nelson Stone),39,F,,Southampton,,,1,1,1,0,
+passenger_id,Isham,Miss Ann Elizabeth,,50,F,,Cherbourg,,,1,0,1,0,
+passenger_id,Ismay,Mr Joseph Bruce,,49,M,,Southampton,,,1,1,1,0,
+passenger_id,Jones,Mr Charles Cresson,,46,M,,Southampton,,,1,0,1,0,
+passenger_id,Julian,Mr Henry Forbes,,50,M,,Southampton,,,1,0,1,0,
+passenger_id,Keeping,Mr Edwin Herbert    ,(Manservant to Mr & Mrs Widener),33,M,,Southampton,,,1,0,1,0,
+passenger_id,Kent,Mr Edward Austin,,58,M,,Cherbourg,,,1,0,1,0,
+passenger_id,Kenyon,Mr Frederick Roland,,41,M,,Southampton,,,1,0,1,0,
+passenger_id,Kenyon,Mrs Marion Estelle,,40,F,,Southampton,,,1,1,1,0,
+passenger_id,Kimball,Mr Edwin Nelson Jr.,,42,M,,Southampton,,,1,1,1,0,
+passenger_id,Kimball,Mrs Susan Gertrude,,45,F,,Southampton,,,1,1,1,0,
+passenger_id,Klaber,Mr Herman,,41,M,,Southampton,,,1,0,1,0,
+passenger_id,Kreuchen,Miss Emilie    ,(Maid to Mrs Edward Scott Robert),29,F,,Southampton,,,1,1,1,0,
+passenger_id,Leader,Dr Alice May,,49,M,,Southampton,,,1,1,1,0,
+passenger_id,Leroy,Miss Berthe    ,(Maid to Mrs Walter Donald Douglas),27,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Lesueur,Mr Gustave J.    ,(Manservant to Mr Thomas Cardeza),35,M,,Cherbourg,,,1,1,1,0,
+passenger_id,Lewy,Mr Ervin G.,,30,M,,Cherbourg,,,1,0,1,0,
+passenger_id,Lindeberg-Lind,Mr Erik Gustaf,,42,M,,Southampton,,,1,0,1,0,
+passenger_id,Lindstrom,Mrs Sigrid,,55,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Lines,Mrs Elizabeth Lindsey,,50,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Lines,Miss Mary Conover,,16,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Long,Mr Milton Clyde,,29,M,,Southampton,,,1,0,1,0,
+passenger_id,Longley,Miss Gretchen Fiske,,21,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Loring,Mr Joseph Holland,,30,M,,Southampton,,,1,0,1,0,
+passenger_id,Lurette,Miss Eugenie Elise    ,(Maid to Mr & Mrs Spencer),59,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Madill,Miss Georgette Alexandra,,16,F,,Southampton,,,1,1,1,0,
+passenger_id,Maguire,Mr John Edward,,30,M,,Southampton,,,1,0,1,0,
+passenger_id,Maioni,Miss Roberta Elizabeth Mary    ,(Maid to the Countess of Rothes),19,F,,Southampton,,,1,1,1,0,
+passenger_id,Marechal,Mr Pierre,,29,M,,Cherbourg,,,1,1,1,0,
+passenger_id,Marvin,Mr Daniel Warner,,18,M,,Southampton,,,1,0,1,0,
+passenger_id,Marvin,Mrs Mary Graham Carmichael,,18,F,,Southampton,,,1,1,1,0,
+passenger_id,Mayne,Mlle Berthe Antonine,,24,M,,Cherbourg,,,1,1,1,0,
+passenger_id,McCaffry,Mr Thomas Francis,,46,M,,Southampton,,,1,0,1,0,
+passenger_id,McCarthy,Mr Timothy J.,,54,M,,Southampton,,,1,0,1,0,
+passenger_id,McGough,Mr James Robert,,35,M,,Southampton,,,1,1,1,0,
+passenger_id,Meyer,Mr Edgar Joseph,,28,M,,Cherbourg,,,1,0,1,0,
+passenger_id,Meyer,Mrs Leila,,25,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Millet,Mr Francis Davis,,65,M,,Cherbourg,,,1,0,1,0,
+passenger_id,Minahan,Dr William Edward,,44,M,,Queenstown,,,1,0,1,0,
+passenger_id,Minahan,Mrs Lillian E.,,37,F,,Queenstown,,,1,1,1,0,
+passenger_id,Minahan,Miss Daisy E.,,33,F,,Queenstown,,,1,1,1,0,
+passenger_id,Mock,Mr Philipp Edmund,,30,M,,Cherbourg,,,1,1,1,0,
+passenger_id,Molson,Mr Harry Markland,,55,M,,Southampton,,,1,0,1,0,
+passenger_id,Moore,Mr Clarence Bloomfield,,47,M,,Southampton,,,1,0,1,0,
+passenger_id,Natsch,Mr Charles,,36,M,,Cherbourg,,,1,0,1,0,
+passenger_id,Newell,Mr Arthur Webster,,58,M,,Cherbourg,,,1,0,1,0,
+passenger_id,Newell,Miss Marjorie Anne,,23,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Newell,Miss Madeleine,,31,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Newsom,Miss Helen Monypeny,,19,F,,Southampton,,,1,1,1,0,
+passenger_id,Nicholson,Mr Arthur Ernest,,59,M,,Southampton,,,1,0,1,0,
+passenger_id,Nourney,Mr Alfred,,20,M,,Cherbourg,,,1,1,1,0,
+passenger_id,Oliva Y Ocana,Doea Fermina    ,(Maid to Mrs Victor de Satode Peeasco y Castellana),39,M,,Cherbourg,,,1,1,1,0,
+passenger_id,Omont,Mr Alfred Fernand,,29,M,,Cherbourg,,,1,1,1,0,
+passenger_id,Ostby,Mr Engelhart Cornelius,,64,M,,Southampton,,,1,0,1,0,
+passenger_id,ostby,Miss Helen Ragnhild,,22,F,,Southampton,,,1,1,1,0,
+passenger_id,Ovies Y Rodreguez,Mr Servando Jose Florentino,,36,M,,Cherbourg,,,1,0,1,0,
+passenger_id,Parr,Mr William Henry Marsh,,29,M,,Belfast,,,1,0,1,0,
+passenger_id,Partner,Mr Austin,,40,M,,Southampton,,,1,0,1,0,
+passenger_id,Payne,Mr Vivian Ponsonby    ,(Private secretary to Mr Charles Melville Hays),22,M,,Southampton,,,1,0,1,0,
+passenger_id,Pears,Mr Thomas Clinton,,29,M,,Southampton,,,1,0,1,0,
+passenger_id,Pears,Mrs Edith,,22,F,,Southampton,,,1,1,1,0,
+passenger_id,Peeasco Y Castellana,Mr Victor,,24,M,,Cherbourg,,,1,0,1,0,
+passenger_id,Peeasco Y Castellana,Mrs Maria Josefa Perezde Soto y Vallejo,,22,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Perreault,Miss Mary Anne    ,(Maid to Mrs Charles Melville Hays),33,F,,Southampton,,,1,1,1,0,
+passenger_id,Peuchen,Major Arthur Godfrey,,52,M,,Southampton,,,1,1,1,0,
+passenger_id,Porter,Mr Walter Chamberlain,,46,M,,Southampton,,,1,0,1,0,
+passenger_id,Potter,Mrs Lily Alexenia,,56,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Reuchlin,Mr Jonkheer Johan George,,38,M,,Cherbourg,,,1,0,1,0,
+passenger_id,Rheims,Mr George Alexander Lucien,,33,M,,Cherbourg,,,1,1,1,0,
+passenger_id,Righini,Mr Sante    ,(Manservant to Mrs John Stewart White),22,M,,Cherbourg,,,1,0,1,0,
+passenger_id,Robert,Mrs Elisabeth Walton,,43,F,,Southampton,,,1,1,1,0,
+passenger_id,Robins,Mr Victor    ,(Valet to Mr John Jacob Astor),42,M,,Cherbourg,,,1,0,1,0,
+passenger_id,Roebling,Mr Washington Augustus II,,31,M,,Southampton,,,1,0,1,0,
+passenger_id,Romaine,Mr Charles Hallace,,45,M,,Southampton,,,1,1,1,0,
+passenger_id,Rood,Mr Hugh Roscoe,,39,M,,Southampton,,,1,0,1,0,
+passenger_id,Rosenbaum,Miss Edith Louise,,33,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Rosenshine,Mr George,,46,M,,Cherbourg,,,1,0,1,0,
+passenger_id,Ross,Mr John Hugo,,36,M,,Southampton,,,1,0,1,0,
+passenger_id,Rothes,"Lucy Noel Martha, Countess of",,33,M,,Southampton,,,1,1,1,0,
+passenger_id,Rothschild,Mr Martin,,46,M,,Cherbourg,,,1,0,1,0,
+passenger_id,Rothschild,Mrs Elizabeth Jane Anne,,54,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Rowe,Mr Alfred G.,,59,M,,Southampton,,,1,0,1,0,
+passenger_id,Ryerson,Mr Arthur Larned,,61,M,,Cherbourg,,,1,0,1,0,
+passenger_id,Ryerson,Mrs Emily Maria,,48,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Ryerson,Miss Emily Borie,,18,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Ryerson,"Miss Susan Parker ""Suzette""",,21,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Ryerson,Master John Borie,,13,M,,Cherbourg,,,1,1,1,0,
+passenger_id,Saalfeld,Mr Adolphe,,47,M,,Southampton,,,1,1,1,0,
+passenger_id,Salomon,Mr Abraham Lincoln,,43,M,,Cherbourg,,,1,1,1,0,
+passenger_id,Sagesser,Mlle Emma    ,(Maid to Mme. Leontine Pauline Aubart),24,M,,Cherbourg,,,1,1,1,0,
+passenger_id,Schabert,Mrs Emma,,35,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Serreplan,Miss Auguste    ,(Maid to Mrs William Carter),30,F,,Southampton,,,1,1,1,0,
+passenger_id,Seward,Mr Frederic Kimber,,34,M,,Southampton,,,1,1,1,0,
+passenger_id,Shutes,Miss Elizabeth Weed    ,(Governess to Miss Margaret Edith Graham),40,F,,Southampton,,,1,1,1,0,
+passenger_id,Silverthorne,Mr Spencer Victor,,35,M,,Southampton,,,1,1,1,0,
+passenger_id,Silvey,Mr William Baird,,51,M,,Cherbourg,,,1,0,1,0,
+passenger_id,Silvey,Mrs Alice Gray,,39,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Simonius-Blumer,Mr Colonel    ,(Oberst) Alfons,56,M,,Southampton,,,1,1,1,0,
+passenger_id,Sloper,Mr William Thompson,,28,M,,Southampton,,,1,1,1,0,
+passenger_id,Smart,Mr John Montgomery,,56,M,,Southampton,,,1,0,1,0,
+passenger_id,Smith,Mr James Clinch,,56,M,,Cherbourg,,,1,0,1,0,
+passenger_id,Smith,Mr Richard William,,57,M,,Southampton,,,1,0,1,0,
+passenger_id,Smith,Mr Lucian Philip,,24,M,,Cherbourg,,,1,0,1,0,
+passenger_id,Smith,Mrs Mary Eloise,,18,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Snyder,Mr John Pillsbury,,24,M,,Southampton,,,1,1,1,0,
+passenger_id,Snyder,Mrs Nelle,,23,F,,Southampton,,,1,1,1,0,
+passenger_id,Spedden,Mr Frederic Oakley,,45,M,,Cherbourg,,,1,1,1,0,
+passenger_id,Spedden,"Mrs Margaretta Corning ""Daisy""",,39,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Spedden,Master Robert Douglas,,6,M,,Cherbourg,,,1,1,1,0,
+passenger_id,Spencer,Mr William Augustus,,57,M,,Cherbourg,,,1,0,1,0,
+passenger_id,Spencer,Mrs Marie Eugenie,,45,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Stahelin-Maeglin,Dr Max,,32,M,,Southampton,,,1,1,1,0,
+passenger_id,Stead,Mr William Thomas,,62,M,,Southampton,,,1,0,1,0,
+passenger_id,Stengel,Mr Charles Emil Henry,,54,M,,Cherbourg,,,1,1,1,0,
+passenger_id,Stengel,Mrs Annie May,,44,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Stephenson,Mrs Martha,,52,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Stewart,Mr Albert Ankeny,,64,M,,Cherbourg,,,1,0,1,0,
+passenger_id,Stone,Mrs Martha Evelyn,,62,F,,Southampton,,,1,1,1,0,
+passenger_id,Straus,Mr Isidor,,67,M,,Southampton,,,1,0,1,0,
+passenger_id,Straus,Mrs Rosalie Ida,,63,F,,Southampton,,,1,0,1,0,
+passenger_id,Sutton,Mr Frederick,,61,M,,Southampton,,,1,0,1,0,
+passenger_id,Swift,Mrs Margaret Welles,,46,F,,Southampton,,,1,1,1,0,
+passenger_id,Taussig,Mr Emil,,52,M,,Southampton,,,1,0,1,0,
+passenger_id,Taussig,Mrs Tillie,,39,F,,Southampton,,,1,1,1,0,
+passenger_id,Taussig,Miss Ruth,,18,F,,Southampton,,,1,1,1,0,
+passenger_id,Taylor,Mr Elmer Zebley,,48,M,,Southampton,,,1,1,1,0,
+passenger_id,Taylor,Mrs Juliet Cummins,,49,F,,Southampton,,,1,1,1,0,
+passenger_id,Thayer,Mr John Borland,,49,M,,Cherbourg,,,1,0,1,0,
+passenger_id,Thayer,Mrs Marian Longstreth,,39,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Thayer,Mr John Borland Jr,,17,M,,Cherbourg,,,1,1,1,0,
+passenger_id,Thorne,Miss Gertrude Maybelle,,38,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Tucker,Mr Gilbert Milligan Jr,,31,M,,Cherbourg,,,1,1,1,0,
+passenger_id,Uruchurtu,Don. Manuel Ramirez,,39,M,,Cherbourg,,,1,0,1,0,
+passenger_id,Van Der Hoef,Mr Wyckoff,,61,M,,Belfast,,,1,0,1,0,
+passenger_id,Walker,Mr William Anderson,,48,M,,Southampton,,,1,0,1,0,
+passenger_id,Ward,Miss Annie Moore    ,(Maid to Mrs Charlotte Cardeza),35,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Warren,Mr Frank Manley,,63,M,,Cherbourg,,,1,0,1,0,
+passenger_id,Warren,Mrs Anna Sophia,,60,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Weir,Colonel John,,59,M,,Southampton,,,1,0,1,0,
+passenger_id,White,Mr Percival Wayland,,54,M,,Southampton,,,1,0,1,0,
+passenger_id,White,Mr Richard Frasar,,21,M,,Southampton,,,1,0,1,0,
+passenger_id,White,Mrs Ella,,55,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Wick,Colonel George Dennick,,57,M,,Southampton,,,1,0,1,0,
+passenger_id,Wick,Mrs Mary Peebles,,45,F,,Southampton,,,1,1,1,0,
+passenger_id,Wick,Miss Mary Natalie,,31,F,,Southampton,,,1,1,1,0,
+passenger_id,Widener,Mr George Dunton,,50,M,,Southampton,,,1,0,1,0,
+passenger_id,Widener,Mrs Eleanor,,50,F,,Southampton,,,1,1,1,0,
+passenger_id,Widener,Mr Harry Elkins,,27,M,,Southampton,,,1,0,1,0,
+passenger_id,Willard,Miss Constance,,21,F,,Southampton,,,1,1,1,0,
+passenger_id,Williams,Mr Fletcher Fellowes Lambert,,43,M,,Southampton,,,1,0,1,0,
+passenger_id,Williams,Mr Charles Duane,,51,M,,Cherbourg,,,1,0,1,0,
+passenger_id,Williams,Mr Richard Norris II,,21,M,,Cherbourg,,,1,1,1,0,
+passenger_id,Wilson,Miss Helen Alice    ,(Maid to Mrs Frederic Oakley Spedden),31,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Woolner,Mr Hugh,,45,M,,Southampton,,,1,1,1,0,
+passenger_id,Wright,Mr George,,62,M,,Southampton,,,1,0,1,0,
+passenger_id,Young,Miss Marie Grice,,36,F,,Cherbourg,,,1,1,1,0,
+passenger_id,Abelson,MreSamuel,,30,M,,Cherbourg,,,2,0,1,0,
+passenger_id,Abelson,MrseHannah,,28,F,,Cherbourg,,,2,1,1,0,
+passenger_id,Aldworth,Mr Augustus Henry,,34,M,,Southampton,,,2,0,1,0,
+passenger_id,Andrew,MreFrank Thomas,,25,M,,Southampton,,,2,0,1,0,
+passenger_id,Andrew,MreEdgar Samuel,,17,M,,Southampton,,,2,0,1,0,
+passenger_id,Angle,MrseFlorence Agnes,,36,F,,Southampton,,,2,1,1,0,
+passenger_id,Angle,MreWilliam,,32,M,,Southampton,,,2,0,1,0,
+passenger_id,Ashby,MreJohn,,57,M,,Southampton,,,2,0,1,0,
+passenger_id,Bailey,MrePercy,,15,M,,Southampton,,,2,0,1,0,
+passenger_id,Baimbrigge,MreCharles Robert,,22,M,,Southampton,,,2,0,1,0,
+passenger_id,Balls,MrseAda E.,,36,F,,Southampton,,,2,1,1,0,
+passenger_id,Banfield,MreFrederick James,,28,M,,Southampton,,,2,0,1,0,
+passenger_id,Bateman,ReverendeRobert James,,51,M,,Southampton,,,2,0,1,0,
+passenger_id,Beane,MreEdward,,32,M,,Southampton,,,2,1,1,0,
+passenger_id,Beane,MrseEthel,,22,F,,Southampton,,,2,1,1,0,
+passenger_id,Beauchamp,MreHenry James,,28,M,,Southampton,,,2,0,1,0,
+passenger_id,Becker,MrseNellie E.,,35,F,,Southampton,,,2,1,1,0,
+passenger_id,Becker,MisseRuth Elizabeth,,12,F,,Southampton,,,2,1,1,0,
+passenger_id,Becker,MisseMarion Louise,,4,F,,Southampton,,,2,1,1,0,
+passenger_id,Becker,MastereRichard F.,,1,M,,Southampton,,,2,1,1,0,
+passenger_id,Beesley,MreLawrence,,34,M,,Southampton,,,2,1,1,0,
+passenger_id,Bentham,MisseLillian W.,,19,F,,Southampton,,,2,1,1,0,
+passenger_id,Berriman,MreWilliam John,,23,M,,Southampton,,,2,0,1,0,
+passenger_id,Botsford,MreWilliam Hull,,25,M,,Southampton,,,2,0,1,0,
+passenger_id,Bowenur,MreSolomon,,42,M,,Southampton,,,2,0,1,0,
+passenger_id,Bracken,MreJames Hollen,,29,M,,Southampton,,,2,0,1,0,
+passenger_id,Brailey,MreWilliam Theodore Ronald,,24,M,,Southampton,,,2,0,1,0,
+passenger_id,Bricoux,MreRoger Marie,,20,M,,Southampton,,,2,0,1,0,
+passenger_id,Brito,MreJose Joaquim de,,32,M,,Southampton,,,2,0,1,0,
+passenger_id,Brown,MreThomas William Solomon,,60,M,,Southampton,,,2,0,1,0,
+passenger_id,Brown,MrseElizabeth Catherine,,40,F,,Southampton,,,2,1,1,0,
+passenger_id,Brown,MisseAmelia Mary,,18,F,,Southampton,,,2,1,1,0,
+passenger_id,Brown,MisseEdith Eileen,,15,F,,Southampton,,,2,1,1,0,
+passenger_id,Bryhl,MreKurt Arnold Gottfrid,,25,M,,Southampton,,,2,0,1,0,
+passenger_id,Bryhl,MisseDagmar Jenny Ingeborg,,20,F,,Southampton,,,2,1,1,0,
+passenger_id,Buss,MisseKate,,36,F,,Southampton,,,2,1,1,0,
+passenger_id,Butler,MreReginald Fenton,,25,M,,Southampton,,,2,0,1,0,
+passenger_id,Byles,FathereThomas Roussel Davids,,42,M,,Southampton,,,2,0,1,0,
+passenger_id,Bystrom,MrseKarolina,,40,F,,Southampton,,,2,0,1,0,
+passenger_id,Caldwell,MrseSylvia Mae,,28,F,,Southampton,,,2,1,1,0,
+passenger_id,Caldwell,MreAlbert Francis,,26,M,,Southampton,,,2,1,1,0,
+passenger_id,Caldwell,MastereAlden Gates,,0.8333,M,,Southampton,,,2,1,1,0,
+passenger_id,Cameron,MisseClear Annie,,35,F,,Southampton,,,2,1,1,0,
+passenger_id,Campbell,MreWilliam Henry,,21,M,,Belfast,,,2,0,1,0,
+passenger_id,Carbines,MreWilliam,,19,M,,Southampton,,,2,0,1,0,
+passenger_id,Carter,FathereErnest Courtenay,,54,M,,Southampton,,,2,0,1,0,
+passenger_id,Carter,MrseLilian,,45,F,,Southampton,,,2,0,1,0,
+passenger_id,Chapman,MreCharles Henry,,52,M,,Southampton,,,2,0,1,0,
+passenger_id,Chapman,MreJohn Henry,,36,M,,Southampton,,,2,0,1,0,
+passenger_id,Chapman,MrseSara Elizabeth,,28,F,,Southampton,,,2,0,1,0,
+passenger_id,Christy,MrseAlice Frances,,45,F,,Southampton,,,2,1,1,0,
+passenger_id,Christy,MisseRachel Juli Cohen,,25,F,,Southampton,,,2,1,1,0,
+passenger_id,Clarke,MreCharles Valentine,,29,M,,Southampton,,,2,0,1,0,
+passenger_id,Clarke,MreJohn Frederick Preston,,28,M,,Southampton,,,2,0,1,0,
+passenger_id,Clarke,MrseAda Maria,,28,F,,Southampton,,,2,1,1,0,
+passenger_id,Coleridge,MreReginald Charles,,29,M,,Southampton,,,2,0,1,0,
+passenger_id,Collander,MreErik Gustaf,,27,M,,Southampton,,,2,0,1,0,
+passenger_id,Collett,MreSidney Clarence Stuart,,25,M,,Southampton,,,2,1,1,0,
+passenger_id,Collyer,MrseCharlotte Caroline,,31,F,,Southampton,,,2,1,1,0,
+passenger_id,Collyer,MreHarvey,,31,M,,Southampton,,,2,0,1,0,
+passenger_id,Collyer,MisseMarjorie Lottie,,8,F,,Southampton,,,2,1,1,0,
+passenger_id,Cook,MrseSelena,,22,F,,Southampton,,,2,1,1,0,
+passenger_id,Corbett,MrseIrene,,30,F,,Southampton,,,2,0,1,0,
+passenger_id,Corey,MrseMary Emma,,30,F,,Southampton,,,2,0,1,0,
+passenger_id,Cotterill,MreHenry,,20,M,,Southampton,,,2,0,1,0,
+passenger_id,Cunningham,MreAlfred Fleming,,21,M,,Belfast,,,2,0,1,0,
+passenger_id,Davies,MrseAgnes,,48,F,,Southampton,,,2,1,1,0,
+passenger_id,Davies,MreCharles Henry,,19,M,,Southampton,,,2,0,1,0,
+passenger_id,Davies,MastereJohn Morgan Jr,,8,M,,Southampton,,,2,1,1,0,
+passenger_id,Davis,MisseMary Ann Charlotte,,28,F,,Southampton,,,2,1,1,0,
+passenger_id,Deacon,MrePercy William,,18,M,,Southampton,,,2,0,1,0,
+passenger_id,Del Carlo,MreSebastiano,,29,M,,Cherbourg,,,2,0,1,0,
+passenger_id,Del Carlo,MrseArgene,,24,F,,Cherbourg,,,2,1,1,0,
+passenger_id,Denbuoy,MreAlbert Joseph,,25,M,,Southampton,,,2,0,1,0,
+passenger_id,Dibden,MreWilliam,,18,M,,Southampton,,,2,0,1,0,
+passenger_id,Doling,MrseAda Julia Elizabeth,,34,F,,Southampton,,,2,0,1,0,
+passenger_id,Doling,MisseElsie,,18,F,,Southampton,,,2,0,1,0,
+passenger_id,Douton,MreWilliam Joseph,,55,M,,Southampton,,,2,0,1,0,
+passenger_id,Drew,MreJames Vivian,,42,M,,Southampton,,,2,0,1,0,
+passenger_id,Drew,MrseMaria Louisa Thorne,,34,F,,Southampton,,,2,1,1,0,
+passenger_id,Drew,MastereMarshall Brines,,8,M,,Southampton,,,2,1,1,0,
+passenger_id,Duren I Mone,SeeoraeFlorentina,,30,M,,Cherbourg,,,2,1,1,0,
+passenger_id,Duren I Mone,SeeoraeAsuncion,,27,M,,Cherbourg,,,2,1,1,0,
+passenger_id,Eitemiller,MreGeorge Floyd,,25,M,,Southampton,,,2,0,1,0,
+passenger_id,Enander,MreIngvar,,21,M,,Southampton,,,2,0,1,0,
+passenger_id,Fahlstrom,MreArne Joma,,18,M,,Southampton,,,2,0,1,0,
+passenger_id,Faunthorpe,MreHarry Bartram,,41,M,,Southampton,,,2,0,1,0,
+passenger_id,Fillbrook,MreJoseph Charles,,18,M,,Southampton,,,2,0,1,0,
+passenger_id,Fox,MreStanley Harrington,,38,M,,Southampton,,,2,0,1,0,
+passenger_id,Frost,MreAnthony Wood,,38,M,,Belfast,,,2,0,1,0,
+passenger_id,Funk,MisseAnnie Clemmer,,38,F,,Southampton,,,2,0,1,0,
+passenger_id,Fynney,MreJoseph J.,,35,M,,Southampton,,,2,0,1,0,
+passenger_id,Gale,MreHarry,,38,M,,Southampton,,,2,0,1,0,
+passenger_id,Gale,MreShadrach,,33,M,,Southampton,,,2,0,1,0,
+passenger_id,Garside,MisseEthel,,39,F,,Southampton,,,2,1,1,0,
+passenger_id,Gaskell,MreWilliam Alfred,,19,M,,Southampton,,,2,0,1,0,
+passenger_id,Gavey,MreLaurence,,26,M,,Southampton,,,2,0,1,0,
+passenger_id,Gilbert,MreWilliam,,47,M,,Southampton,,,2,0,1,0,
+passenger_id,Giles,MreRalph,,24,M,,Southampton,,,2,0,1,0,
+passenger_id,Giles,MreEdgar,,21,M,,Southampton,,,2,0,1,0,
+passenger_id,Giles,MreFrederick Edward,,20,M,,Southampton,,,2,0,1,0,
+passenger_id,Gill,MreJohn,,24,M,,Southampton,,,2,0,1,0,
+passenger_id,Gillespie,MreWilliam Henry,,31,M,,Southampton,,,2,0,1,0,
+passenger_id,Givard,MreHans Kristensen,,30,M,,Southampton,,,2,0,1,0,
+passenger_id,Greenberg,MreSamuel,,52,M,,Southampton,,,2,0,1,0,
+passenger_id,Hamalainen,MrseAnna,,23,F,,Southampton,,,2,1,1,0,
+passenger_id,Hamalainen,MastereViljo Unto Johannes,,0.5833,M,,Southampton,,,2,1,1,0,
+passenger_id,Hale,MreReginald,,30,M,,Southampton,,,2,0,1,0,
+passenger_id,Harbeck,MreWilliam H.,,44,M,,Southampton,,,2,0,1,0,
+passenger_id,Harper,ReverendeJohn,,39,M,,Southampton,,,2,0,1,0,
+passenger_id,Harper,MisseAnnie Jessie,,6,F,,Southampton,,,2,1,1,0,
+passenger_id,Harris,MreGeorge,,62,M,,Southampton,,,2,1,1,0,
+passenger_id,Harris,MreWalter,,44,M,,Southampton,,,2,0,1,0,
+passenger_id,Hart,MrseEsther Ada,,48,F,,Southampton,,,2,1,1,0,
+passenger_id,Hart,MreBenjamin,,47,M,,Southampton,,,2,0,1,0,
+passenger_id,Hart,MisseEva Miriam,,7,F,,Southampton,,,2,1,1,0,
+passenger_id,Hartley,MreWallace Henry,,33,M,,Southampton,,,2,0,1,0,
+passenger_id,Herman,MreSamuel,,49,M,,Southampton,,,2,0,1,0,
+passenger_id,Herman,MrseJane,,48,F,,Southampton,,,2,1,1,0,
+passenger_id,Herman,MisseAlice,,23,F,,Southampton,,,2,1,1,0,
+passenger_id,Herman,MisseKate,,23,F,,Southampton,,,2,1,1,0,
+passenger_id,Hewlett,MrseMary Dunbar,,56,F,,Southampton,,,2,1,1,0,
+passenger_id,Hickman,MreLewis,,30,M,,Southampton,,,2,0,1,0,
+passenger_id,Hickman,MreLeonard Mark,,24,M,,Southampton,,,2,0,1,0,
+passenger_id,Hickman,MreStanley George,,20,M,,Southampton,,,2,0,1,0,
+passenger_id,Hiltunen,MisseMarta,,18,F,,Southampton,,,2,0,1,0,
+passenger_id,Hocking,MrseEliza,,54,F,,Southampton,,,2,1,1,0,
+passenger_id,Hocking,MreSamuel James Metcalfe,,36,M,,Southampton,,,2,0,1,0,
+passenger_id,Hocking,MreRichard George,,23,M,,Southampton,,,2,0,1,0,
+passenger_id,Hocking,MisseEllen,,20,F,,Southampton,,,2,1,1,0,
+passenger_id,Hodges,MreHenry Price,,50,M,,Southampton,,,2,0,1,0,
+passenger_id,Hold,MreStephen,,44,M,,Southampton,,,2,0,1,0,
+passenger_id,Hold,MrseAnnie Margaret,,29,F,,Southampton,,,2,1,1,0,
+passenger_id,Hood,MreAmbrose Jr,,21,M,,Southampton,,,2,0,1,0,
+passenger_id,Hosono,MreMasabumi,,41,M,,Southampton,,,2,1,1,0,
+passenger_id,Howard,MreBenjamin,,63,M,,Southampton,,,2,0,1,0,
+passenger_id,Howard,MrseEllen Truelove,,61,F,,Southampton,,,2,0,1,0,
+passenger_id,Hume,MreJohn Law,,21,M,,Southampton,,,2,0,1,0,
+passenger_id,Hunt,MreGeorge Henry,,33,M,,Southampton,,,2,0,1,0,
+passenger_id,Ilett,MisseBertha,,17,F,,Southampton,,,2,0,1,0,
+passenger_id,Jacobsohn,MreSidney Samuel,,42,M,,Southampton,,,2,0,1,0,
+passenger_id,Jacobsohn,MrseAmy Frances Christy,,24,F,,Southampton,,,2,1,1,0,
+passenger_id,Jarvis,MreDenzil John,,47,M,,Southampton,,,2,0,1,0,
+passenger_id,Jefferys,MreClifford Thomas,,24,M,,Southampton,,,2,0,1,0,
+passenger_id,Jefferys,MreErnest Wilfred,,22,M,,Southampton,,,2,0,1,0,
+passenger_id,Jenkin,MreStephen Curnow,,32,M,,Southampton,,,2,0,1,0,
+passenger_id,Jerwan,MrseMarie Marthe,,23,F,,Cherbourg,,,2,1,1,0,
+passenger_id,Kantor,MreSinai,,34,M,,Southampton,,,2,0,1,0,
+passenger_id,Kantor,MrseMiriam,,24,F,,Southampton,,,2,1,1,0,
+passenger_id,Karnes,MrseClaire,,28,F,,Southampton,,,2,0,1,0,
+passenger_id,Keane,MisseNora Agnes,,46,F,,Queenstown,,,2,1,1,0,
+passenger_id,Keane,MreDaniel,,35,M,,Queenstown,,,2,0,1,0,
+passenger_id,Kelly,MrseFanny Maria,,45,F,,Southampton,,,2,1,1,0,
+passenger_id,Kirkland,FathereCharles Leonard,,52,M,,Queenstown,,,2,0,1,0,
+passenger_id,Knight,MreRobert,,39,M,,Belfast,,,2,0,1,0,
+passenger_id,Krins,MreGeorges Alexandre,,23,M,,Southampton,,,2,0,1,0,
+passenger_id,Kvillner,MreJohan Henrik Johannesson,,31,M,,Southampton,,,2,0,1,0,
+passenger_id,Levy,MreRene Jacques,,36,M,,Southampton,,,2,0,1,0,
+passenger_id,Lahtinen,FathereWilliam,,35,M,,Southampton,,,2,0,1,0,
+passenger_id,Lahtinen,MrseAnna Amelia,,34,F,,Southampton,,,2,0,1,0,
+passenger_id,Lamb,MreJohn J.,,30,M,,Queenstown,,,2,0,1,0,
+passenger_id,Laroche,MreJoseph Philippe Lemercier,,25,M,,Cherbourg,,,2,0,1,0,
+passenger_id,Laroche,MrseJuliette Marie Louise,,22,F,,Cherbourg,,,2,1,1,0,
+passenger_id,Laroche,MisseSimonne Marie Anne Andree,,3,F,,Cherbourg,,,2,1,1,0,
+passenger_id,Laroche,MisseLouise,,1,F,,Cherbourg,,,2,1,1,0,
+passenger_id,Lehmann,MisseBertha,,17,F,,Cherbourg,,,2,1,1,0,
+passenger_id,Leitch,MisseJessie Wills,,31,F,,Southampton,,,2,1,1,0,
+passenger_id,Lemore,MrseAmelia,,46,F,,Southampton,,,2,1,1,0,
+passenger_id,Leyson,MreRobert William Norman,,25,M,,Southampton,,,2,0,1,0,
+passenger_id,Lingane,MreJohn,,61,M,,Queenstown,,,2,0,1,0,
+passenger_id,Louch,MreCharles,,50,M,,Southampton,,,2,0,1,0,
+passenger_id,Louch,MrseAlice Adelaide,,42,F,,Southampton,,,2,0,1,0,
+passenger_id,Mack,MrseMary,,57,F,,Southampton,,,2,0,1,0,
+passenger_id,Malachard,MreJean-Noel,,25,M,,Cherbourg,,,2,0,1,0,
+passenger_id,Mallet,MreAlbert Denis Pierre,,45,M,,Cherbourg,,,2,0,1,0,
+passenger_id,Mallet,MrseAntonine Marie,,24,F,,Cherbourg,,,2,1,1,0,
+passenger_id,Mallet,MastereAndre Clement,,1,M,,Cherbourg,,,2,1,1,0,
+passenger_id,Mangiavacchi,MreSerafino Emilio,,30,M,,Cherbourg,,,2,0,1,0,
+passenger_id,Matthews,MreWilliam John,,23,M,,Southampton,,,2,0,1,0,
+passenger_id,Maybery,MreFrank Hubert,,36,M,,Southampton,,,2,0,1,0,
+passenger_id,McCrae,MreArthur Gordon,,32,M,,Southampton,,,2,0,1,0,
+passenger_id,McCrie,MreJames Matthew,,32,M,,Southampton,,,2,0,1,0,
+passenger_id,McKane,MrePeter Daniel,,46,M,,Southampton,,,2,0,1,0,
+passenger_id,Mellinger,MrseElizabeth Anne,,41,F,,Southampton,,,2,1,1,0,
+passenger_id,Mellinger,MisseViolet Madeline,,13,F,,Southampton,,,2,1,1,0,
+passenger_id,Mellors,MreWilliam John,,19,M,,Southampton,,,2,1,1,0,
+passenger_id,Meyer,MreAugust,,31,M,,Southampton,,,2,0,1,0,
+passenger_id,Milling,MreJacob Christian,,48,M,,Southampton,,,2,0,1,0,
+passenger_id,Mitchell,MreHenry Michael,,71,M,,Southampton,,,2,0,1,0,
+passenger_id,Montvila,FathereJuozas,,27,M,,Southampton,,,2,0,1,0,
+passenger_id,Moraweck,DreErnest,,54,M,,Southampton,,,2,0,1,0,
+passenger_id,Morley,MreHenry Samuel,,38,M,,Southampton,,,2,0,1,0,
+passenger_id,Mudd,MreThomas Cupper,,16,M,,Southampton,,,2,0,1,0,
+passenger_id,Myles,MreThomas Francis,,63,M,,Queenstown,,,2,0,1,0,
+passenger_id,Nasser,MreNicholas,,28,M,,Cherbourg,,,2,0,1,0,
+passenger_id,Nasser,MrseAdele,,14,F,,Cherbourg,,,2,0,1,0,
+passenger_id,Navratil,MreMichel,,32,M,,Southampton,,,2,0,1,0,
+passenger_id,Navratil,MastereMichel Marcel,,3,M,,Southampton,,,2,1,1,0,
+passenger_id,Navratil,MastereEdmond Roger,,2,M,,Southampton,,,2,1,1,0,
+passenger_id,Nesson,MreIsrael,,26,M,,Southampton,,,2,0,1,0,
+passenger_id,Nicholls,MreJoseph Charles,,19,M,,Southampton,,,2,0,1,0,
+passenger_id,Norman,MreRobert Douglas,,27,M,,Southampton,,,2,0,1,0,
+passenger_id,Nye,MrseElizabeth,,29,F,,Southampton,,,2,1,1,0,
+passenger_id,Otter,MreRichard,,38,M,,Southampton,,,2,0,1,0,
+passenger_id,Oxenham,MrePercy Thomas,,22,M,,Southampton,,,2,1,1,0,
+passenger_id,Padron Manent,MreJulian,,26,M,,Cherbourg,,,2,1,1,0,
+passenger_id,Pain,DreAlfred,,23,M,,Southampton,,,2,0,1,0,
+passenger_id,Pallas I Castelle,SeeoreEmili,,29,M,,Cherbourg,,,2,1,1,0,
+passenger_id,Parker,MreClifford Richard,,17,M,,Southampton,,,2,0,1,0,
+passenger_id,Parkes,MreFrancis,,21,M,,Belfast,,,2,0,1,0,
+passenger_id,Parrish,MrseLutie Davis,,59,F,,Southampton,,,2,1,1,0,
+passenger_id,Pengelly,MreFrederick William,,19,M,,Southampton,,,2,0,1,0,
+passenger_id,Pernot,MreRene,,39,M,,Cherbourg,,,2,0,1,0,
+passenger_id,Peruschitz,FathereJosef,,41,M,,Southampton,,,2,0,1,0,
+passenger_id,Phillips,MreEscott Robert,,42,M,,Southampton,,,2,0,1,0,
+passenger_id,Phillips,MisseAlice Frances Louisa,,21,F,,Southampton,,,2,1,1,0,
+passenger_id,Phillips,MisseKate Florence,,19,F,,Southampton,,,2,1,1,0,
+passenger_id,Pinsky,MrseRosa,,32,F,,Southampton,,,2,1,1,0,
+passenger_id,Ponesell,MreMartin,,24,M,,Southampton,,,2,0,1,0,
+passenger_id,Portaluppi,MreEmilio Ilario Giuseppe,,30,M,,Cherbourg,,,2,1,1,0,
+passenger_id,Pulbaum,MreFranz,,27,M,,Cherbourg,,,2,0,1,0,
+passenger_id,Quick,MrseJane,,33,F,,Southampton,,,2,1,1,0,
+passenger_id,Quick,MisseWinifred Vera,,8,F,,Southampton,,,2,1,1,0,
+passenger_id,Quick,MissePhyllis May,,2,F,,Southampton,,,2,1,1,0,
+passenger_id,Reeves,MreDavid,,36,M,,Southampton,,,2,0,1,0,
+passenger_id,Renouf,MrePeter Henry,,33,M,,Southampton,,,2,0,1,0,
+passenger_id,Renouf,MrseLillian,,30,F,,Southampton,,,2,0,1,0,
+passenger_id,Reynalds,SeeoraeEncarnacien,,28,M,,Southampton,,,2,1,1,0,
+passenger_id,Richard,MreEmile Phillippe,,23,M,,Cherbourg,,,2,0,1,0,
+passenger_id,Richards,MrseEmily,,24,F,,Southampton,,,2,1,1,0,
+passenger_id,Richards,MastereSibley George,,0.75,M,,Southampton,,,2,1,1,0,
+passenger_id,Richards,MastereWilliam Rowe,,3,M,,Southampton,,,2,1,1,0,
+passenger_id,Ridsdale,MisseLucy,,58,F,,Southampton,,,2,1,1,0,
+passenger_id,Rogers,MreReginald Harry,,18,M,,Southampton,,,2,0,1,0,
+passenger_id,Rugg,MisseEmily,,21,F,,Southampton,,,2,1,1,0,
+passenger_id,Schmidt,MreAugustus,,21,M,,Southampton,,,2,0,1,0,
+passenger_id,Sedgwick,MreCharles Frederick Waddington,,28,M,,Southampton,,,2,0,1,0,
+passenger_id,Sharp,MrePercival,,27,M,,Southampton,,,2,0,1,0,
+passenger_id,Shelley,MrseImanita Parrish,,25,F,,Southampton,,,2,1,1,0,
+passenger_id,Silven,MisseLyyli Karoliina,,17,F,,Southampton,,,2,1,1,0,
+passenger_id,Sincock,MisseMaude,,20,F,,Southampton,,,2,1,1,0,
+passenger_id,Sinkkonen,MisseAnna,,29,F,,Southampton,,,2,1,1,0,
+passenger_id,Sjostedt,MreErnst Adolf,,59,M,,Southampton,,,2,0,1,0,
+passenger_id,Slayter,MisseHilda Mary,,30,F,,Queenstown,,,2,1,1,0,
+passenger_id,Slemen,MreRichard James,,35,M,,Southampton,,,2,0,1,0,
+passenger_id,Smith,MisseMarion Elsie,,39,F,,Southampton,,,2,1,1,0,
+passenger_id,Sobey,MreSamuel James Hayden,,25,M,,Southampton,,,2,0,1,0,
+passenger_id,Stanton,MreSamuel Ward,,42,M,,Cherbourg,,,2,0,1,0,
+passenger_id,Stokes,MrePhilip Joseph,,25,M,,Southampton,,,2,0,1,0,
+passenger_id,Swane,MreGeorge,,19,M,,Southampton,,,2,0,1,0,
+passenger_id,Sweet,MreGeorge Frederick,,14,M,,Southampton,,,2,0,1,0,
+passenger_id,Taylor,MrePercy Cornelius,,32,M,,Southampton,,,2,0,1,0,
+passenger_id,Toomey,MisseEllen Mary,,48,F,,Southampton,,,2,1,1,0,
+passenger_id,Troupiansky,MreMoses Aaron,,23,M,,Southampton,,,2,0,1,0,
+passenger_id,Trout,MrseJessie Laird,,27,F,,Southampton,,,2,1,1,0,
+passenger_id,Troutt,MisseEdwina Celia,,27,F,,Southampton,,,2,1,1,0,
+passenger_id,Turpin,MreWilliam John,,29,M,,Southampton,,,2,0,1,0,
+passenger_id,Turpin,MrseDorothy Ann,,26,F,,Southampton,,,2,0,1,0,
+passenger_id,Veal,MreJames,,40,M,,Southampton,,,2,0,1,0,
+passenger_id,Wallcroft,"MisseEllen ""Nellie""",,36,F,,Southampton,,,2,1,1,0,
+passenger_id,Ware,MreJohn James,,45,M,,Southampton,,,2,0,1,0,
+passenger_id,Ware,MrseFlorence Louise,,31,F,,Southampton,,,2,1,1,0,
+passenger_id,Ware,MreWilliam Jeffery,,23,M,,Southampton,,,2,0,1,0,
+passenger_id,Watson,MreEnnis Hastings,,19,M,,Belfast,,,2,0,1,0,
+passenger_id,Watt,MrseElizabeth,,40,F,,Southampton,,,2,1,1,0,
+passenger_id,Watt,MisseRobertha Josephine,,12,F,,Southampton,,,2,1,1,0,
+passenger_id,Webber,MisseSusan,,37,F,,Southampton,,,2,1,1,0,
+passenger_id,Weisz,MreLeopold,,37,M,,Southampton,,,2,0,1,0,
+passenger_id,Weisz,MrseMathilde Franeoise,,37,F,,Southampton,,,2,1,1,0,
+passenger_id,Wells,MrseAddie Dart,,29,F,,Southampton,,,2,1,1,0,
+passenger_id,Wells,MisseJoan,,4,F,,Southampton,,,2,1,1,0,
+passenger_id,Wells,MastereRalph Lester,,2,M,,Southampton,,,2,1,1,0,
+passenger_id,West,MreEdwy Arthur,,36,M,,Southampton,,,2,0,1,0,
+passenger_id,West,MrseAda Mary,,33,F,,Southampton,,,2,1,1,0,
+passenger_id,West,MisseBarbara Joyce,,0.8333,F,,Southampton,,,2,1,1,0,
+passenger_id,West,MisseConstance Mirium,,4,F,,Southampton,,,2,1,1,0,
+passenger_id,Wheadon,MreEdward Henry,,65,M,,Southampton,,,2,0,1,0,
+passenger_id,Wheeler,MreEdwin Charles,,24,M,,Southampton,,,2,0,1,0,
+passenger_id,Whilems,MreCharles,,31,M,,Southampton,,,2,1,1,0,
+passenger_id,Wilkinson,MrseElizabeth Anne,,35,F,,Southampton,,,2,1,1,0,
+passenger_id,Williams,MreCharles Eugene,,23,M,,Southampton,,,2,1,1,0,
+passenger_id,Woodward,MreJohn Wesley,,32,M,,Southampton,,,2,0,1,0,
+passenger_id,Wright,MisseMarion,,26,F,,Southampton,,,2,1,1,0,
+passenger_id,Yvois,MisseHenriette,,24,F,,Southampton,,,2,0,1,0,
+passenger_id,Abu-Al-Muna,MreNas af Qasim,,26,M,,Cherbourg,,,3,1,1,0,
+passenger_id,Abbing,MreAnthony,,42,M,,Southampton,,,3,0,1,0,
+passenger_id,Abbott,"MrseRhoda Mary ""Rosa""",,39,F,,Southampton,,,3,1,1,0,
+passenger_id,Abbott,MreRossmore Edward,,16,M,,Southampton,,,3,0,1,0,
+passenger_id,Abbott,MreEugene Joseph,,14,M,,Southampton,,,3,0,1,0,
+passenger_id,Abelseth,MisseKaren Marie,,16,F,,Southampton,,,3,1,1,0,
+passenger_id,Abelseth,MreOlaus Jorgensen,,25,M,,Southampton,,,3,1,1,0,
+passenger_id,Abrahamsson,MreAbraham August Johannes,,20,M,,Southampton,,,3,1,1,0,
+passenger_id,adahl,MreMauritz,,30,M,,Southampton,,,3,0,1,0,
+passenger_id,Adams,MreJohn,,26,M,,Southampton,,,3,0,1,0,
+passenger_id,Ahlin,MrseJohanna Persdotter,,40,F,,Southampton,,,3,0,1,0,
+passenger_id,Aks,MrseLeah,,18,F,,Southampton,,,3,1,1,0,
+passenger_id,Aks,MastereFrank Philip,,0.8333,M,,Southampton,,,3,1,1,0,
+passenger_id,Al-Muna,MreFar ad Husayn Qasim,,18,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Alexander,MreWilliam Albert,,23,M,,Southampton,,,3,0,1,0,
+passenger_id,Alhomaki,MreIlmari Rudolf,,19,M,,Southampton,,,3,0,1,0,
+passenger_id,Ali,MreAhmed,,24,M,,Southampton,,,3,0,1,0,
+passenger_id,Ali,MreWilliam,,25,M,,Southampton,,,3,0,1,0,
+passenger_id,Allen,MreWilliam Henry,,38,M,,Southampton,,,3,0,1,0,
+passenger_id,Allum,MreOwen George,,15,M,,Southampton,,,3,0,1,0,
+passenger_id,Andersen,MreAlbert Karvin,,33,M,,Southampton,,,3,0,1,0,
+passenger_id,Andersen-Jensen,MisseCarla Christine Nielsine,,19,F,,Southampton,,,3,1,1,0,
+passenger_id,Andersson,MisseErna Alexandra,,17,F,,Southampton,,,3,1,1,0,
+passenger_id,Andersson,MreJohan Samuel,,26,M,,Southampton,,,3,0,1,0,
+passenger_id,Andersson,MisseIda Augusta Margareta,,38,F,,Southampton,,,3,0,1,0,
+passenger_id,Andersson,MreAnders Johan,,39,M,,Southampton,,,3,0,1,0,
+passenger_id,Andersson,MrseAlfrida Konstantia Brogren,,39,F,,Southampton,,,3,0,1,0,
+passenger_id,Andersson,MisseSigrid Elisabeth,,11,F,,Southampton,,,3,0,1,0,
+passenger_id,Andersson,MisseIngeborg Constanzia,,9,F,,Southampton,,,3,0,1,0,
+passenger_id,Andersson,MisseEbba Iris Alfrida,,6,F,,Southampton,,,3,0,1,0,
+passenger_id,Andersson,MastereSigvard Harald Elias,,4,M,,Southampton,,,3,0,1,0,
+passenger_id,Andersson,MisseEllis Anna Maria,,2,F,,Southampton,,,3,0,1,0,
+passenger_id,Andreasson,MrePal Edvin,,20,M,,Southampton,,,3,0,1,0,
+passenger_id,Angheloff,MreMinko,,26,M,,Southampton,,,3,0,1,0,
+passenger_id,Arnold-Franchi,MreJosef,,25,M,,Southampton,,,3,0,1,0,
+passenger_id,Arnold-Franchi,MrseJosefine,,18,F,,Southampton,,,3,0,1,0,
+passenger_id,Aronsson,MreErnst Axel Algot,,24,M,,Southampton,,,3,0,1,0,
+passenger_id,Asim,MreAdola,,35,M,,Southampton,,,3,0,1,0,
+passenger_id,Asplund,MastereEdvin Rojj Felix,,3,M,,Southampton,,,3,1,1,0,
+passenger_id,Asplund,MreJohan Charles,,23,M,,Southampton,,,3,1,1,0,
+passenger_id,Asplund,MreCarl Oscar Vilhelm Gustafsson,,40,M,,Southampton,,,3,0,1,0,
+passenger_id,Asplund,MrseSelma Augusta Emilia,,38,F,,Southampton,,,3,1,1,0,
+passenger_id,Asplund,MastereCarl Edgar,,5,M,,Southampton,,,3,0,1,0,
+passenger_id,Asplund,MastereFilip Oscar,,13,M,,Southampton,,,3,0,1,0,
+passenger_id,Asplund,MastereClarence Gustaf Hugo,,9,M,,Southampton,,,3,0,1,0,
+passenger_id,Asplund,MisseLillian Gertrud,,5,F,,Southampton,,,3,1,1,0,
+passenger_id,Assaf,MrseMariana,,45,F,,Cherbourg,,,3,1,1,0,
+passenger_id,Assam,MreAli,,23,M,,Southampton,,,3,0,1,0,
+passenger_id,Attala,MreSleiman,,27,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Attalah,MisseMalake,,17,F,,Cherbourg,,,3,0,1,0,
+passenger_id,Augustsson,MreAlbert,,23,M,,Southampton,,,3,0,1,0,
+passenger_id,Ayoub Daher,MisseBanoura,,15,F,,Cherbourg,,,3,1,1,0,
+passenger_id,Backstrom,MreKarl Alfred,,32,M,,Southampton,,,3,0,1,0,
+passenger_id,Backstrom,MrseMaria Mathilda,,33,F,,Southampton,,,3,0,1,0,
+passenger_id,Baclini,MrseLatifa,,24,F,,Cherbourg,,,3,1,1,0,
+passenger_id,Baclini,MisseMarie Catherine,,5,F,,Cherbourg,,,3,1,1,0,
+passenger_id,Baclini,MisseEugenie,,3,F,,Cherbourg,,,3,1,1,0,
+passenger_id,Baclini,MisseHelene Barbara,,0.75,F,,Cherbourg,,,3,1,1,0,
+passenger_id,Badman,MisseEmily Louisa,,18,F,,Southampton,,,3,1,1,0,
+passenger_id,Badt,MreMohamed,,40,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Balkic,MreCerin,,26,M,,Southampton,,,3,0,1,0,
+passenger_id,Banski,MrseMara,,31,F,,Southampton,,,3,0,1,0,
+passenger_id,Barbara,MrseCatherine David,,45,F,,Cherbourg,,,3,0,1,0,
+passenger_id,Barbara,MisseSaiide,,18,F,,Cherbourg,,,3,0,1,0,
+passenger_id,Barry,MisseJulia,,26,F,,Queenstown,,,3,0,1,0,
+passenger_id,Barton,MreDavid John,,22,M,,Southampton,,,3,0,1,0,
+passenger_id,Batoshev,MreHristo Lalev,,23,M,,Southampton,,,3,0,1,0,
+passenger_id,B?lus,MrseSultanah,,40,F,,Cherbourg,,,3,0,1,0,
+passenger_id,B?lus,MisseNur-al-Ayn,,7,F,,Cherbourg,,,3,0,1,0,
+passenger_id,B?lus,MastereAkar,,9,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Beavan,MreWilliam Thomas,,20,M,,Southampton,,,3,0,1,0,
+passenger_id,Bengtsson,MreJohan Viktor,,26,M,,Southampton,,,3,0,1,0,
+passenger_id,Berglund,MreKarl Ivar Sven,,22,M,,Southampton,,,3,0,1,0,
+passenger_id,Bing,MreLee,,32,M,,Southampton,,,3,1,1,0,
+passenger_id,Birkeland,MreHans Martin Monsen,,21,M,,Southampton,,,3,0,1,0,
+passenger_id,Bjorklund,MreErnst Herbert,,18,M,,Southampton,,,3,0,1,0,
+passenger_id,Bostandyeff,MreGuentcho,,26,M,,Southampton,,,3,0,1,0,
+passenger_id,Bourke,MreJohn,,42,M,,Queenstown,,,3,0,1,0,
+passenger_id,Bourke,MrseCatherine,,32,F,,Queenstown,,,3,0,1,0,
+passenger_id,Bourke,MisseMary,,40,F,,Queenstown,,,3,0,1,0,
+passenger_id,Bowen,"MreDavid John ""Dai""",,26,M,,Southampton,,,3,0,1,0,
+passenger_id,Bradley,MisseBridget Delia,,22,F,,Queenstown,,,3,1,1,0,
+passenger_id,Braf,MisseElin Ester Maria,,20,F,,Southampton,,,3,0,1,0,
+passenger_id,Braund,MreLewis Richard,,29,M,,Southampton,,,3,0,1,0,
+passenger_id,Braund,MreOwen Harris,,22,M,,Southampton,,,3,0,1,0,
+passenger_id,Broback,MreKarl Rudolf,,22,M,,Southampton,,,3,0,1,0,
+passenger_id,Brocklebank,MreWilliam Alfred,,35,M,,Southampton,,,3,0,1,0,
+passenger_id,Buckley,MreDaniel,,21,M,,Queenstown,,,3,1,1,0,
+passenger_id,Buckley,MisseKatherine,,22,F,,Queenstown,,,3,0,1,0,
+passenger_id,Burke,MreJeremiah,,19,M,,Queenstown,,,3,0,1,0,
+passenger_id,Burns,MisseMary Delia,,17,F,,Queenstown,,,3,0,1,0,
+passenger_id,Butrus-Ka'W i,MreTann?s,,21,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Cacic,MreJego Grga,,18,M,,Southampton,,,3,0,1,0,
+passenger_id,Cacic,MreLuka,,38,M,,Southampton,,,3,0,1,0,
+passenger_id,Cacic,MisseMarija,,30,F,,Southampton,,,3,0,1,0,
+passenger_id,Cacic,MisseManda,,21,F,,Southampton,,,3,0,1,0,
+passenger_id,Calic,MrePetar,,17,M,,Southampton,,,3,0,1,0,
+passenger_id,Calic,MreJovo,,17,M,,Southampton,,,3,0,1,0,
+passenger_id,Canavan,MisseMary,,22,F,,Queenstown,,,3,0,1,0,
+passenger_id,Canavan,MrePatrick,,21,M,,Queenstown,,,3,0,1,0,
+passenger_id,Cann,MreErnest,,21,M,,Southampton,,,3,0,1,0,
+passenger_id,Caram,MreJoseph,,28,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Caram,MrseMaria Elias,,18,F,,Cherbourg,,,3,0,1,0,
+passenger_id,Carlsson,MreCarl Robert,,24,M,,Southampton,,,3,0,1,0,
+passenger_id,Carlsson,MreAugust Sigfrid,,28,M,,Southampton,,,3,0,1,0,
+passenger_id,Carr,MisseJane,,45,F,,Queenstown,,,3,0,1,0,
+passenger_id,Carver,MreAlfred John,,28,M,,Southampton,,,3,0,1,0,
+passenger_id,Celotti,MreFrancesco,,24,M,,Southampton,,,3,0,1,0,
+passenger_id,Charters,MreDavid,,20,M,,Queenstown,,,3,0,1,0,
+passenger_id,Chip,MreChang,,32,M,,Southampton,,,3,1,1,0,
+passenger_id,Christmann,MreEmil,,29,M,,Southampton,,,3,0,1,0,
+passenger_id,Chronopoulos,MreApostolos M.,,26,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Chronopoulos,MreDimitrios M.,,21,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Coelho,MreDomingos Fernandeo,,20,M,,Southampton,,,3,0,1,0,
+passenger_id,Cohen,MreGurshon,,18,M,,Southampton,,,3,1,1,0,
+passenger_id,Colbert,MrePatrick,,24,M,,Queenstown,,,3,0,1,0,
+passenger_id,Coleff,MreSatio,,24,M,,Southampton,,,3,0,1,0,
+passenger_id,Coltcheff,MrePeju,,36,M,,Southampton,,,3,0,1,0,
+passenger_id,Conlin,MreThomas Henry,,31,M,,Queenstown,,,3,0,1,0,
+passenger_id,Connaughton,MreMichael,,40,M,,Queenstown,,,3,0,1,0,
+passenger_id,Connolly,MisseCatherine,,23,F,,Queenstown,,,3,1,1,0,
+passenger_id,Connolly,MisseKate,,41,F,,Queenstown,,,3,0,1,0,
+passenger_id,Connors,MrePatrick,,66,M,,Queenstown,,,3,0,1,0,
+passenger_id,Cook,MreJacob,,43,M,,Southampton,,,3,0,1,0,
+passenger_id,Cor,MreBartol,,35,M,,Southampton,,,3,0,1,0,
+passenger_id,Cor,MreIvan,,27,M,,Southampton,,,3,0,1,0,
+passenger_id,Cor,MreLiudevit,,19,M,,Southampton,,,3,0,1,0,
+passenger_id,Cornblatt,MreHarris,,30,M,,Southampton,,,3,0,1,0,
+passenger_id,Corr,MisseEllen,,16,F,,Queenstown,,,3,1,1,0,
+passenger_id,Coutts,MrseWinnie,,36,F,,Southampton,,,3,1,1,0,
+passenger_id,Coutts,MastereWilliam Loch,,9,M,,Southampton,,,3,1,1,0,
+passenger_id,Coutts,MastereNeville Leslie,,3,M,,Southampton,,,3,1,1,0,
+passenger_id,Coxon,MreDaniel,,59,M,,Southampton,,,3,0,1,0,
+passenger_id,Crease,MreErnest James,,19,M,,Southampton,,,3,0,1,0,
+passenger_id,Cribb,MreJohn Hatfield,,44,M,,Southampton,,,3,0,1,0,
+passenger_id,Cribb,MisseLaura Mae,,16,F,,Southampton,,,3,1,1,0,
+passenger_id,Culumovic,MreJeso,,17,M,,Southampton,,,3,0,1,0,
+passenger_id,Daher,MreTannous,,28,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Dahl,MreCharles Edward,,45,M,,Southampton,,,3,1,1,0,
+passenger_id,Dahlberg,MisseGerda Ulrika,,22,F,,Southampton,,,3,0,1,0,
+passenger_id,Dakic,MreBranko,,19,M,,Southampton,,,3,0,1,0,
+passenger_id,Daly,MisseMargaret Marcella,,33,F,,Queenstown,,,3,1,1,0,
+passenger_id,Daly,MreEugene Patrick,,29,M,,Queenstown,,,3,1,1,0,
+passenger_id,Danbom,MreErnst Gilbert,,34,M,,Southampton,,,3,0,1,0,
+passenger_id,Danbom,MrseAnna Sigrid Maria,,28,F,,Southampton,,,3,0,1,0,
+passenger_id,Danbom,MastereGilbert Sigvard Emanuel,,0.333,M,,Southampton,,,3,0,1,0,
+passenger_id,Danoff,MreYoto,,27,M,,Southampton,,,3,0,1,0,
+passenger_id,Davies,MreEvan,,22,M,,Southampton,,,3,0,1,0,
+passenger_id,Davies,MreAlfred James,,24,M,,Southampton,,,3,0,1,0,
+passenger_id,Davies,MreJohn,,21,M,,Southampton,,,3,0,1,0,
+passenger_id,Davies,MreJoseph,,17,M,,Southampton,,,3,0,1,0,
+passenger_id,Davison,MreThomas Henry,,32,M,,Southampton,,,3,0,1,0,
+passenger_id,Davison,MrseMary Elizabeth,,34,F,,Southampton,,,3,1,1,0,
+passenger_id,De Messemaeker,MreGuillaume Joseph,,36,M,,Southampton,,,3,1,1,0,
+passenger_id,De Messemaeker,MrseAnna,,36,F,,Southampton,,,3,1,1,0,
+passenger_id,De Mulder,MreTheodoor,,30,M,,Southampton,,,3,1,1,0,
+passenger_id,De Pelsmaeker,MreAlfons,,16,M,,Southampton,,,3,0,1,0,
+passenger_id,Dean,MreBertram Frank,,25,M,,Southampton,,,3,0,1,0,
+passenger_id,Dean,MrseEva Georgetta,,32,F,,Southampton,,,3,1,1,0,
+passenger_id,Dean,MastereBertram Vere,,1,M,,Southampton,,,3,1,1,0,
+passenger_id,Dean,"MisseElizabeth Gladys ""Millvina""",,0.166,F,,Southampton,,,3,1,1,0,
+passenger_id,Delalic,MreRedjo,,25,M,,Southampton,,,3,0,1,0,
+passenger_id,Denkoff,MreMitto,,30,M,,Southampton,,,3,0,1,0,
+passenger_id,Dennis,MreSamuel,,22,M,,Southampton,,,3,0,1,0,
+passenger_id,Dennis,MreWilliam,,26,M,,Southampton,,,3,0,1,0,
+passenger_id,Devaney,MisseMargaret Delia,,19,F,,Queenstown,,,3,1,1,0,
+passenger_id,Dika,MreMirko,,17,M,,Southampton,,,3,0,1,0,
+passenger_id,Dimic,MreJovan,,42,M,,Southampton,,,3,0,1,0,
+passenger_id,Dintcheff,MreValtcho,,43,M,,Southampton,,,3,0,1,0,
+passenger_id,Donohoe,MisseBridget,,21,F,,Queenstown,,,3,0,1,0,
+passenger_id,Dooly,MrePatrick,,38,M,,Queenstown,,,3,0,1,0,
+passenger_id,Dorking,MreEdward Arthur,,18,M,,Southampton,,,3,1,1,0,
+passenger_id,Dougherty,MreWilliam John,,22,M,,Queenstown,,,3,0,1,0,
+passenger_id,Dowdell,MisseElizabeth,,31,F,,Southampton,,,3,1,1,0,
+passenger_id,Doyle,MisseElizabeth,,28,F,,Queenstown,,,3,0,1,0,
+passenger_id,Drazenovic,MreJozef,,33,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Driscoll,MisseBridget,,27,F,,Queenstown,,,3,1,1,0,
+passenger_id,Dropkin,MisseJennie,,24,F,,Southampton,,,3,0,1,0,
+passenger_id,Duquemin,MreJoseph Pierre,,24,M,,Southampton,,,3,1,1,0,
+passenger_id,Dwan,MreFrank,,65,M,,Queenstown,,,3,0,1,0,
+passenger_id,Dyker,MreAdolf Fredrik,,23,M,,Southampton,,,3,0,1,0,
+passenger_id,Dyker,MrseAnna Elisabeth Judith,,22,F,,Southampton,,,3,1,1,0,
+passenger_id,Edvardsson,MreGustaf Hjalmar,,18,M,,Southampton,,,3,0,1,0,
+passenger_id,Eklund,MreHans Linus,,16,M,,Southampton,,,3,0,1,0,
+passenger_id,Ekstrom,MreAmandus,,45,M,,Southampton,,,3,0,1,0,
+passenger_id,Elias,MreDibo,,29,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Elias,MreJoseph jr.,,15,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Elias Nasrallah,MreTannous,,22,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Elsbury,MreWilliam James,,48,M,,Southampton,,,3,0,1,0,
+passenger_id,Emanuel,MisseVirginia Ethel,,5,F,,Southampton,,,3,1,1,0,
+passenger_id,Estanislau,MreManuel Gonealves,,37,M,,Southampton,,,3,0,1,0,
+passenger_id,Everett,MreThomas James,,38,M,,Southampton,,,3,0,1,0,
+passenger_id,Fardon,MreCharles Richard,,45,M,,Southampton,,,3,0,1,0,
+passenger_id,Farrell,MreJames,,25,M,,Queenstown,,,3,0,1,0,
+passenger_id,Finoli,MreLuigi,,34,M,,Southampton,,,3,1,1,0,
+passenger_id,Fischer,MreEberhard Thelander,,18,M,,Southampton,,,3,0,1,0,
+passenger_id,Fleming,MisseHonor,,22,F,,Queenstown,,,3,0,1,0,
+passenger_id,Flynn,MreJames,,28,M,,Queenstown,,,3,0,1,0,
+passenger_id,Flynn,MreJohn,,42,M,,Queenstown,,,3,0,1,0,
+passenger_id,Foley,MreJoseph,,19,M,,Queenstown,,,3,0,1,0,
+passenger_id,Foley,MreWilliam,,20,M,,Queenstown,,,3,0,1,0,
+passenger_id,Foo,MreChoong,,32,M,,Southampton,,,3,1,1,0,
+passenger_id,Ford,MreArthur,,22,M,,Southampton,,,3,0,1,0,
+passenger_id,Ford,MrseMargaret Ann Watson,,54,F,,Southampton,,,3,0,1,0,
+passenger_id,Ford,MisseDollina Margaret,,20,F,,Southampton,,,3,0,1,0,
+passenger_id,Ford,MreEdward Watson,,18,M,,Southampton,,,3,0,1,0,
+passenger_id,Ford,MreWilliam Neal Thomas,,16,M,,Southampton,,,3,0,1,0,
+passenger_id,Ford,MisseRobina Maggie,,7,F,,Southampton,,,3,0,1,0,
+passenger_id,Fox,MrePatrick,,28,M,,Queenstown,,,3,0,1,0,
+passenger_id,Gallagher,MreMartin,,29,M,,Queenstown,,,3,0,1,0,
+passenger_id,Garfirth,MreJohn,,21,M,,Southampton,,,3,0,1,0,
+passenger_id,George/Joseph,MrseShawneene,,38,F,,Cherbourg,,,3,1,1,0,
+passenger_id,Gerios Thamah,MreAssaf,,21,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Gheorgheff,MreStanio,,0,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Gilinski,MreEliezer,,22,M,,Southampton,,,3,0,1,0,
+passenger_id,Gilnagh,MisseKatherine,,17,F,,Queenstown,,,3,1,1,0,
+passenger_id,Glynn,MisseMary Agatha,,19,F,,Queenstown,,,3,1,1,0,
+passenger_id,Goldsmith,MreFrank John,,33,M,,Southampton,,,3,0,1,0,
+passenger_id,Goldsmith,MrseEmily Alice,,31,F,,Southampton,,,3,1,1,0,
+passenger_id,Goldsmith,MastereFrank John William,,9,M,,Southampton,,,3,1,1,0,
+passenger_id,Goldsmith,MreNathan,,41,M,,Southampton,,,3,0,1,0,
+passenger_id,Goodwin,MreFrederick Joseph,,42,M,,Southampton,,,3,0,1,0,
+passenger_id,Goodwin,MrseAugusta,,43,F,,Southampton,,,3,0,1,0,
+passenger_id,Goodwin,MisseLillian Amy,,16,F,,Southampton,,,3,0,1,0,
+passenger_id,Goodwin,MreCharles Edward,,14,M,,Southampton,,,3,0,1,0,
+passenger_id,Goodwin,MastereWilliam Frederick,,11,M,,Southampton,,,3,0,1,0,
+passenger_id,Goodwin,MisseJessie Allis,,10,F,,Southampton,,,3,0,1,0,
+passenger_id,Goodwin,MastereHarold Victor,,9,M,,Southampton,,,3,0,1,0,
+passenger_id,Goodwin,MastereSidney Leslie,,1,M,,Southampton,,,3,0,1,0,
+passenger_id,Gronnestad,MreDaniel Danielsen,,32,M,,Southampton,,,3,0,1,0,
+passenger_id,Green,MreGeorge,,40,M,,Southampton,,,3,0,1,0,
+passenger_id,Guest,MreRobert,,23,M,,Southampton,,,3,0,1,0,
+passenger_id,Gustafsson,MreKarl Gideon,,19,M,,Southampton,,,3,0,1,0,
+passenger_id,Gustafsson,MreAlfred Ossian,,19,M,,Southampton,,,3,0,1,0,
+passenger_id,Gustafsson,MreAnders Vilhelm,,37,M,,Southampton,,,3,0,1,0,
+passenger_id,Gustafsson,MreJohan Birger,,28,M,,Southampton,,,3,0,1,0,
+passenger_id,Haas,MisseAloisia,,24,F,,Southampton,,,3,0,1,0,
+passenger_id,Hagland,MreIngvald Olai Olsen,,28,M,,Southampton,,,3,0,1,0,
+passenger_id,Hagland,MreKonrad Mathias Reiersen,,19,M,,Southampton,,,3,0,1,0,
+passenger_id,Hakkarainen,MrePekka Pietari,,28,M,,Southampton,,,3,0,1,0,
+passenger_id,Hakkarainen,MrseElin Matilda,,24,F,,Southampton,,,3,1,1,0,
+passenger_id,Hampe,MreLeon Jerome,,19,M,,Southampton,,,3,0,1,0,
+passenger_id,Hanna,MreBoulos,,18,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Hanna,MreMansour,,35,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Hannah,MreBorak,,27,M,,Cherbourg,,,3,1,1,0,
+passenger_id,Hansen,MreClaus Peter,,41,M,,Southampton,,,3,0,1,0,
+passenger_id,Hansen,MrseJennie Louise,,45,F,,Southampton,,,3,1,1,0,
+passenger_id,Hansen,MreHenry Damsgaard,,21,M,,Southampton,,,3,0,1,0,
+passenger_id,Hansen,MreHenrik Juul,,26,M,,Southampton,,,3,0,1,0,
+passenger_id,Hargadon,MisseCatherine,,17,F,,Queenstown,,,3,0,1,0,
+passenger_id,Harknett,MisseAlice Phoebe,,21,F,,Southampton,,,3,0,1,0,
+passenger_id,Hart,MreHenry,,28,M,,Queenstown,,,3,0,1,0,
+passenger_id,Healy,MisseHonor,,29,F,,Queenstown,,,3,1,1,0,
+passenger_id,Hedman,MreOskar Arvid,,27,M,,Southampton,,,3,1,1,0,
+passenger_id,Hee,MreLing,,24,M,,Southampton,,,3,1,1,0,
+passenger_id,Hegarty,MisseHanora,,18,F,,Queenstown,,,3,0,1,0,
+passenger_id,Heikkinen,MisseLaina,,26,F,,Southampton,,,3,0,1,0,
+passenger_id,Heininen,MisseWendla Maria,,23,F,,Southampton,,,3,0,1,0,
+passenger_id,Hellstrom,MisseHilda Maria,,22,F,,Southampton,,,3,1,1,0,
+passenger_id,Hendekovic,MreIgnjac,,28,M,,Southampton,,,3,0,1,0,
+passenger_id,Henriksson,MisseJenny Lovisa,,28,F,,Southampton,,,3,0,1,0,
+passenger_id,Henry,MisseBridget Delia,,21,F,,Queenstown,,,3,0,1,0,
+passenger_id,Hirvonen,MrseHelga Elisabeth Lindqvist,,22,F,,Southampton,,,3,1,1,0,
+passenger_id,Hirvonen,MisseHildur Elisabeth,,2,F,,Southampton,,,3,1,1,0,
+passenger_id,Holm,MreJohn Fredrik Alexander,,43,M,,Southampton,,,3,0,1,0,
+passenger_id,Holthen,MreJohan Martin,,28,M,,Southampton,,,3,0,1,0,
+passenger_id,Honkanen,MisseEliina,,27,F,,Southampton,,,3,0,1,0,
+passenger_id,Horgan,MreJohn,,22,M,,Queenstown,,,3,0,1,0,
+passenger_id,Howard,MisseMay Elizabeth,,26,F,,Southampton,,,3,1,1,0,
+passenger_id,Humblen,MreAdolf Mathias Nicolai Olsen,,42,M,,Southampton,,,3,0,1,0,
+passenger_id,Hyman,MreAbraham Joseph,,34,M,,Southampton,,,3,1,1,0,
+passenger_id,Ibrahim Shawah,MreYousseff,,33,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Ibr?h?m,MrseS?fiyah,,18,F,,Cherbourg,,,3,1,1,0,
+passenger_id,Ibr?h?m,MreHusayn Mahm?d Husayn,,11,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Ilieff,MreYlio,,32,M,,Southampton,,,3,0,1,0,
+passenger_id,Ilmakangas,MisseIda Livija,,27,F,,Southampton,,,3,0,1,0,
+passenger_id,Ilmakangas,MissePieta Sofia,,25,F,,Southampton,,,3,0,1,0,
+passenger_id,Ivanoff,MreKanio,,20,M,,Southampton,,,3,0,1,0,
+passenger_id,Jabbur    ,(Zabour),,19,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Jabbur    #(Zabour),MisseHileni,,16,F,,Cherbourg,,,3,0,1,0,
+passenger_id,Jaleevac,MreIvan,,29,M,,Cherbourg,,,3,1,1,0,
+passenger_id,Jansson,MreCarl Olof,,21,M,,Southampton,,,3,1,1,0,
+passenger_id,Jardim,MreJose Neto,,21,M,,Southampton,,,3,0,1,0,
+passenger_id,Jonsson,MreNils Hilding,,27,M,,Southampton,,,3,0,1,0,
+passenger_id,Jensen,MreHans Peder,,20,M,,Southampton,,,3,0,1,0,
+passenger_id,Jensen,MreSvend Lauritz,,17,M,,Southampton,,,3,0,1,0,
+passenger_id,Jensen,MreNiels Rasmus,,48,M,,Southampton,,,3,0,1,0,
+passenger_id,Jermyn,MisseAnnie Jane,,26,F,,Queenstown,,,3,1,1,0,
+passenger_id,Johannesen,MreBernt Johannes,,29,M,,Southampton,,,3,1,1,0,
+passenger_id,Johanson,MreJakob Alfred,,34,M,,Southampton,,,3,0,1,0,
+passenger_id,Johansson,MreNils,,29,M,,Southampton,,,3,0,1,0,
+passenger_id,Johansson,MreErik,,22,M,,Southampton,,,3,0,1,0,
+passenger_id,Johansson,MreGustaf Joel,,33,M,,Southampton,,,3,0,1,0,
+passenger_id,Johansson,MreKarl Johan,,31,M,,Southampton,,,3,0,1,0,
+passenger_id,Johansson Palmquist,MreOskar Leander,,26,M,,Southampton,,,3,1,1,0,
+passenger_id,Johnson,MreAugust,,49,M,,Southampton,,,3,0,1,0,
+passenger_id,Johnson,MreWilliam Cahoone Jr.,,19,M,,Southampton,,,3,0,1,0,
+passenger_id,Johnson,MreMalkolm Joackim,,33,M,,Southampton,,,3,0,1,0,
+passenger_id,Johnson,MrseElisabeth Vilhelmina,,26,F,,Southampton,,,3,1,1,0,
+passenger_id,Johnson,MastereHarold Theodor,,4,M,,Southampton,,,3,1,1,0,
+passenger_id,Johnson,MisseEleanor Ileen,,1,F,,Southampton,,,3,1,1,0,
+passenger_id,Johnston,MreAndrew Emslie,,35,F,,Southampton,,,3,0,1,0,
+passenger_id,Johnston,MrseEliza,,36,F,,Southampton,,,3,0,1,0,
+passenger_id,Johnston,MastereWilliam Andrew,,8,M,,Southampton,,,3,0,1,0,
+passenger_id,Johnston,MisseCatherine Nellie,,7,F,,Southampton,,,3,0,1,0,
+passenger_id,Jonkoff,MreLalio,,23,M,,Southampton,,,3,0,1,0,
+passenger_id,Jonsson,MreCarl,,25,M,,Southampton,,,3,1,1,0,
+passenger_id,Joseph (Shahin),MreElias,,39,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Jussila,MisseKatriina,,20,F,,Southampton,,,3,0,1,0,
+passenger_id,Jussila,MisseMari Aina,,21,F,,Southampton,,,3,0,1,0,
+passenger_id,Jussila,MreEiriik,,32,M,,Southampton,,,3,1,1,0,
+passenger_id,Kallio,MreNikolai Erland,,17,M,,Southampton,,,3,0,1,0,
+passenger_id,Kalvik,MreJohannes Halvorsen,,21,M,,Southampton,,,3,0,1,0,
+passenger_id,Karajic,MreMilan,,30,M,,Southampton,,,3,0,1,0,
+passenger_id,Karlsson,MreEinar Gervasius,,21,M,,Southampton,,,3,1,1,0,
+passenger_id,Karlsson,MreJulius Konrad Eugen,,33,M,,Southampton,,,3,0,1,0,
+passenger_id,Karlsson,MreNils August,,22,M,,Southampton,,,3,0,1,0,
+passenger_id,Karun,MreFranz,,39,M,,Cherbourg,,,3,1,1,0,
+passenger_id,Karun,MisseManca,,4,F,,Cherbourg,,,3,1,1,0,
+passenger_id,Katavelos,MreVasilios G.,,19,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Keane,MreAndrew,,23,M,,Queenstown,,,3,0,1,0,
+passenger_id,Keefe,MreArthur,,39,M,,Southampton,,,3,0,1,0,
+passenger_id,Kelly,MreJames,,19,M,,Southampton,,,3,0,1,0,
+passenger_id,Kelly,MreJames,,44,M,,Queenstown,,,3,0,1,0,
+passenger_id,Kelly,MisseAnna Katherine,,20,F,,Queenstown,,,3,1,1,0,
+passenger_id,Kelly,MisseMary,,22,F,,Queenstown,,,3,1,1,0,
+passenger_id,Kennedy,MreJohn,,24,M,,Queenstown,,,3,0,1,0,
+passenger_id,Khalil,MreBetros,,25,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Khalil,MrseZahie,,20,F,,Cherbourg,,,3,0,1,0,
+passenger_id,Kiernan,MreJohn Joseph,,25,M,,Queenstown,,,3,0,1,0,
+passenger_id,Kiernan,MrePhilip,,22,M,,Queenstown,,,3,0,1,0,
+passenger_id,Kilgannon,MreThomas,,22,M,,Queenstown,,,3,0,1,0,
+passenger_id,Kink,MreAnton,,29,M,,Southampton,,,3,1,1,0,
+passenger_id,Kink,MisseMaria,,22,F,,Southampton,,,3,0,1,0,
+passenger_id,Kink,MreVincenz,,26,M,,Southampton,,,3,0,1,0,
+passenger_id,Kink-Heilmann,MrseLuise,,26,F,,Southampton,,,3,1,1,0,
+passenger_id,Kink-Heilmann,MisseLuise Gretchen,,4,F,,Southampton,,,3,1,1,0,
+passenger_id,Klasen,MreKlas Albin,,18,M,,Southampton,,,3,0,1,0,
+passenger_id,Klasen,MisseGertrud Emilia,,1,F,,Southampton,,,3,0,1,0,
+passenger_id,Klasen,MrseHulda Kristina Eugenia,,36,F,,Southampton,,,3,0,1,0,
+passenger_id,Kraeff,MreTheodor,,0,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Krekorian,MreNeshan,,25,M,,Cherbourg,,,3,1,1,0,
+passenger_id,Kutscher    #(Lithman),MreSimon,,26,M,,Southampton,,,3,0,1,0,
+passenger_id,Lahhud Ishaq Mu'Awwad,Mr Sark is,,30,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Laitinen,MisseKristina Sofia,,37,F,,Southampton,,,3,0,1,0,
+passenger_id,Lam,MreAli,,38,M,,Southampton,,,3,1,1,0,
+passenger_id,Lam,MreLen,,23,M,,Southampton,,,3,0,1,0,
+passenger_id,Landergren,MisseAurora Adelia,,22,F,,Southampton,,,3,1,1,0,
+passenger_id,Lane,MrePatrick,,16,M,,Queenstown,,,3,0,1,0,
+passenger_id,Lang,MreFang,,32,M,,Southampton,,,3,1,1,0,
+passenger_id,Larsson,MreAugust Viktor,,29,M,,Southampton,,,3,0,1,0,
+passenger_id,Larsson,MreBengt Edvin,,29,M,,Southampton,,,3,0,1,0,
+passenger_id,Larsson,MreEdvard,,22,M,,Southampton,,,3,0,1,0,
+passenger_id,Lefebvre,MrseFrances Marie,,40,F,,Southampton,,,3,0,1,0,
+passenger_id,Lefebvre,MastereHenry,,5,M,,Southampton,,,3,0,1,0,
+passenger_id,Lefebvre,MisseIda,,3,F,,Southampton,,,3,0,1,0,
+passenger_id,Lefebvre,MisseJeannie,,8,F,,Southampton,,,3,0,1,0,
+passenger_id,Lefebvre,MisseMathilde,,12,F,,Southampton,,,3,0,1,0,
+passenger_id,Leinonen,MreAntti Gustaf,,32,M,,Southampton,,,3,0,1,0,
+passenger_id,Lennon,MreDenis,,20,M,,Queenstown,,,3,0,1,0,
+passenger_id,Lester,MreJames,,26,M,,Southampton,,,3,0,1,0,
+passenger_id,Lievens,MreRene Aime,,24,M,,Southampton,,,3,0,1,0,
+passenger_id,Lindahl,MisseAgda Thorilda Viktoria,,25,F,,Southampton,,,3,0,1,0,
+passenger_id,Lindblom,MisseAugusta Charlotta,,45,F,,Southampton,,,3,0,1,0,
+passenger_id,Lindell,MreEdvard Bengtsson,,36,M,,Southampton,,,3,1,1,0,
+passenger_id,Lindell,MrseElin Gerda,,30,F,,Southampton,,,3,1,1,0,
+passenger_id,Lindqvist,MreEino William,,20,M,,Southampton,,,3,1,1,0,
+passenger_id,Linehan,MreMichael,,21,M,,Queenstown,,,3,0,1,0,
+passenger_id,Ling,MreLee,,28,M,,Southampton,,,3,0,1,0,
+passenger_id,Linhart,MreWenzel,,27,M,,Southampton,,,3,0,1,0,
+passenger_id,Livshin,MreDavid,,25,M,,Southampton,,,3,1,1,0,
+passenger_id,Lobb,MreWilliam Arthur,,30,M,,Southampton,,,3,0,1,0,
+passenger_id,Lobb,MrseCordelia K.,,26,F,,Southampton,,,3,0,1,0,
+passenger_id,Lockyer,MreEdward Thomas,,19,M,,Southampton,,,3,0,1,0,
+passenger_id,Lovell,MreJohn Hall,,20,M,,Southampton,,,3,0,1,0,
+passenger_id,Lulic,MreNikola,,29,M,,Southampton,,,3,1,1,0,
+passenger_id,Lundahl,MreJohan Svensson,,51,M,,Southampton,,,3,0,1,0,
+passenger_id,Lundin,MisseOlga Elida,,23,F,,Southampton,,,3,1,1,0,
+passenger_id,Lundstrom,MreThure Edvin,,32,M,,Southampton,,,3,1,1,0,
+passenger_id,Lymperopoulus,MrePanagiotis K.,,30,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Lyntakoff,MreStanko,,44,M,,Southampton,,,3,0,1,0,
+passenger_id,Mackay,MreGeorge William,,20,M,,Southampton,,,3,0,1,0,
+passenger_id,Madigan,MisseMargaret,,21,F,,Queenstown,,,3,1,1,0,
+passenger_id,Madsen,MreFridtjof Arne,,24,M,,Southampton,,,3,1,1,0,
+passenger_id,Mahon,MisseBridget Delia,,20,F,,Queenstown,,,3,0,1,0,
+passenger_id,Maisner,MreSimon,,34,M,,Southampton,,,3,0,1,0,
+passenger_id,Mangan,MisseMary,,32,F,,Queenstown,,,3,0,1,0,
+passenger_id,Mannion,MisseMargaret,,28,F,,Queenstown,,,3,1,1,0,
+passenger_id,Mardirosian,MreSarkis,,25,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Marinko,MreDmitri,,23,M,,Southampton,,,3,0,1,0,
+passenger_id,Markoff,MreMarin,,35,M,,Southampton,,,3,0,1,0,
+passenger_id,Markun,MreJohann,,33,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Matinoff,MreNicola,,30,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Mama,MreHanna Mika' il,,18,M,,Cherbourg,,,3,1,1,0,
+passenger_id,Maenpaa,MreMatti Alexanteri,,22,M,,Southampton,,,3,0,1,0,
+passenger_id,Makinen,MreKalle Edvard,,29,M,,Southampton,,,3,0,1,0,
+passenger_id,McCarthy,MisseCatherine,,24,F,,Queenstown,,,3,1,1,0,
+passenger_id,McCormack,MreThomas Joseph,,19,M,,Queenstown,,,3,0,1,0,
+passenger_id,McCoy,MisseAgnes,,29,F,,Queenstown,,,3,1,1,0,
+passenger_id,McCoy,MisseAlice,,26,F,,Queenstown,,,3,1,1,0,
+passenger_id,McCoy,MreBernard,,24,M,,Queenstown,,,3,1,1,0,
+passenger_id,McDermott,MisseBridget Delia,,31,F,,Queenstown,,,3,1,1,0,
+passenger_id,McEvoy,MreMichael,,19,M,,Queenstown,,,3,0,1,0,
+passenger_id,McGovern,MseMary,,22,F,,Queenstown,,,3,1,1,0,
+passenger_id,McGowan,MisseCatherine,,42,F,,Queenstown,,,3,0,1,0,
+passenger_id,McGowan,MisseAnna Louise,,17,F,,Queenstown,,,3,0,1,0,
+passenger_id,Mamahon,MreMartin,,19,M,,Queenstown,,,3,0,1,0,
+passenger_id,McNamee,MreNeal,,27,M,,Southampton,,,3,0,1,0,
+passenger_id,McNamee,MrseEileen,,19,F,,Southampton,,,3,0,1,0,
+passenger_id,McNeill,MisseBridget,,32,F,,Queenstown,,,3,0,1,0,
+passenger_id,Meanwell,MrseMarian,,62,F,,Southampton,,,3,0,1,0,
+passenger_id,Meehan,MreJohn,,22,M,,Queenstown,,,3,0,1,0,
+passenger_id,Meek,MrseAnnie Louisa,,31,F,,Southampton,,,3,0,1,0,
+passenger_id,Meo    #(Martino),MreAlfonzo,,48,M,,Southampton,,,3,0,1,0,
+passenger_id,Mernagh,MreRobert,,28,M,,Queenstown,,,3,0,1,0,
+passenger_id,Midtsjo,MreKarl Albert,,21,M,,Southampton,,,3,1,1,0,
+passenger_id,Mihoff,MreStoytcho,,28,M,,Southampton,,,3,0,1,0,
+passenger_id,Miles,MreFrank,,23,M,,Southampton,,,3,0,1,0,
+passenger_id,Mineff,MreIvan,,24,M,,Southampton,,,3,0,1,0,
+passenger_id,Minkoff,MreLazar,,21,M,,Southampton,,,3,0,1,0,
+passenger_id,Mitkoff,MreMito,,23,M,,Southampton,,,3,0,1,0,
+passenger_id,Mockler,MisseEllen Mary,,23,F,,Queenstown,,,3,1,1,0,
+passenger_id,Moen,MreSigurd Hansen,,27,M,,Southampton,,,3,0,1,0,
+passenger_id,Moor,MrseBeila,,29,F,,Southampton,,,3,1,1,0,
+passenger_id,Moor,MastereMeier,,7,M,,Southampton,,,3,1,1,0,
+passenger_id,Moore,MreLeonard Charles,,19,M,,Southampton,,,3,0,1,0,
+passenger_id,Moran,MisseBridget,,28,F,,Queenstown,,,3,1,1,0,
+passenger_id,Moran,MreDaniel J.,,27,M,,Queenstown,,,3,0,1,0,
+passenger_id,Morley,MreWilliam,,34,M,,Southampton,,,3,0,1,0,
+passenger_id,Morrow,MreThomas Rowan,,30,M,,Queenstown,,,3,0,1,0,
+passenger_id,Moss,MreAlbert Johan,,29,M,,Southampton,,,3,1,1,0,
+passenger_id,Moussa,MrseMantoura Boulos,,35,F,,Cherbourg,,,3,0,1,0,
+passenger_id,Moutal,MreRahamin Haim,,28,M,,Southampton,,,3,0,1,0,
+passenger_id,Mub?rik,MrseAm inah,,24,F,,Cherbourg,,,3,1,1,0,
+passenger_id,Mub?rik,MastereJirjis,,7,M,,Cherbourg,,,3,1,1,0,
+passenger_id,Mub?rik,MastereHal im,,4,M,,Cherbourg,,,3,1,1,0,
+passenger_id,Mullin,MisseCatherine,,21,F,,Queenstown,,,3,1,1,0,
+passenger_id,Mullin,MisseMary    ,(Lennon),18,F,,Queenstown,,,3,0,1,0,
+passenger_id,Mulvihill,MisseBridget Elizabeth,,25,F,,Queenstown,,,3,1,1,0,
+passenger_id,Murdlin,MreJoseph,,22,M,,Southampton,,,3,0,1,0,
+passenger_id,Murphy,MisseNora,,34,F,,Queenstown,,,3,1,1,0,
+passenger_id,Murphy,MisseMargaret Jane,,25,F,,Queenstown,,,3,1,1,0,
+passenger_id,Murphy,MisseCatherine,,18,F,,Queenstown,,,3,1,1,0,
+passenger_id,Muslaman i,MrseFat imah Muhammad,,22,F,,Cherbourg,,,3,1,1,0,
+passenger_id,Myhrman,MrePehr Fabian Oliver Malkolm,,18,M,,Southampton,,,3,0,1,0,
+passenger_id,Naidenoff,MrePenko,,22,M,,Southampton,,,3,0,1,0,
+passenger_id,Najib Kiamie,MisseAdele,,15,F,,Cherbourg,,,3,1,1,0,
+passenger_id,Nakhli,MreToufik,,17,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Nakid,MreSahid,,20,M,,Cherbourg,,,3,1,1,0,
+passenger_id,Nakid,MrseWaika,,19,F,,Cherbourg,,,3,1,1,0,
+passenger_id,Nakid,MisseMaria,,1,F,,Cherbourg,,,3,1,1,0,
+passenger_id,Nancarrow,MreWilliam Henry,,36,M,,Southampton,,,3,0,1,0,
+passenger_id,Nankoff,MreMinko,,32,M,,Southampton,,,3,0,1,0,
+passenger_id,Nasr 'Alma,MreMustafa,,20,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Nassr Rizq,MreSaade,,20,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Naughton,MisseHannah,,21,F,,Queenstown,,,3,0,1,0,
+passenger_id,N ?q?la Y?rid,MisseJamilah,,14,F,,Cherbourg,,,3,1,1,0,
+passenger_id,N ?q?la Y?rid,MastereIly?s,,11,M,,Cherbourg,,,3,1,1,0,
+passenger_id,Nenkov,MreHristo,,22,M,,Southampton,,,3,0,1,0,
+passenger_id,Nieminen,MisseManta Josefina,,29,F,,Southampton,,,3,0,1,0,
+passenger_id,Niklasson,MreSamuel,,28,M,,Southampton,,,3,0,1,0,
+passenger_id,Nilsson,MreAugust Ferdinand,,21,M,,Southampton,,,3,0,1,0,
+passenger_id,Nilsson,MisseBerta Olivia,,18,F,,Southampton,,,3,1,1,0,
+passenger_id,Nilsson,MisseHelmina Josefina,,26,F,,Southampton,,,3,1,1,0,
+passenger_id,Nirva,MreIisakki Antino aijo,,41,M,,Southampton,,,3,0,1,0,
+passenger_id,Niskanen,MreJuha,,39,M,,Southampton,,,3,1,1,0,
+passenger_id,Nofal,MreMansouer,,20,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Nosworthy,MreRichard Cater,,21,M,,Southampton,,,3,0,1,0,
+passenger_id,Nysten,MisseAnna Sofia,,22,F,,Southampton,,,3,1,1,0,
+passenger_id,Nysveen,MreJohan Hansen,,60,M,,Southampton,,,3,0,1,0,
+passenger_id,O'Brien,MreDenis,,21,M,,Queenstown,,,3,0,1,0,
+passenger_id,O'Brien,MreThomas,,27,M,,Queenstown,,,3,0,1,0,
+passenger_id,O'Brien,MrseJohanna,,26,F,,Queenstown,,,3,0,1,0,
+passenger_id,O'Connell,MrePatrick Denis,,17,M,,Queenstown,,,3,0,1,0,
+passenger_id,O'Connor,MreMaurice,,16,M,,Queenstown,,,3,0,1,0,
+passenger_id,O'Connor,MrePatrick,,23,M,,Queenstown,,,3,0,1,0,
+passenger_id,O'Dwyer,MisseEllen,,25,F,,Queenstown,,,3,1,1,0,
+passenger_id,O'Keefe,MrePatrick,,21,M,,Queenstown,,,3,1,1,0,
+passenger_id,O'Leary,MisseHanora,,16,F,,Queenstown,,,3,1,1,0,
+passenger_id,O'Sullivan,MisseBridget Mary,,21,F,,Queenstown,,,3,0,1,0,
+passenger_id,odahl,MreNils Martin,,23,M,,Southampton,,,3,0,1,0,
+passenger_id,ohman,MisseVelin,,22,F,,Southampton,,,3,1,1,0,
+passenger_id,Olsen,MreKarl Siegwart Andreas,,42,M,,Southampton,,,3,0,1,0,
+passenger_id,Olsen,MastereArtur Karl,,9,M,,Southampton,,,3,1,1,0,
+passenger_id,Olsen,MreHenry Margido,,28,M,,Southampton,,,3,0,1,0,
+passenger_id,Olsen,MreOle Martin,,27,M,,Southampton,,,3,0,1,0,
+passenger_id,Olsson,MreOscar Wilhelm,,32,M,,Southampton,,,3,1,1,0,
+passenger_id,Olsson,MreNils Johan Goransson,,28,M,,Southampton,,,3,0,1,0,
+passenger_id,Olsson,MisseElina,,31,F,,Southampton,,,3,0,1,0,
+passenger_id,Olsvigen,MreThor Anderson,,20,M,,Southampton,,,3,0,1,0,
+passenger_id,Oreskovic,MreLuka,,20,M,,Southampton,,,3,0,1,0,
+passenger_id,Oreskovic,MisseJelka,,23,F,,Southampton,,,3,0,1,0,
+passenger_id,Oreskovic,MisseMarija,,20,F,,Southampton,,,3,0,1,0,
+passenger_id,Osen,MreOlaf Elon,,16,M,,Southampton,,,3,0,1,0,
+passenger_id,Panula,MrseMaija Emelia Abrahamintytar,,41,F,,Southampton,,,3,0,1,0,
+passenger_id,Panula,MastereJaako Arnold,,14,M,,Southampton,,,3,0,1,0,
+passenger_id,Panula,MreErnesti Arvid,,16,M,,Southampton,,,3,0,1,0,
+passenger_id,Panula,MastereJuha Niilo,,7,M,,Southampton,,,3,0,1,0,
+passenger_id,Panula,MastereUrho Abraham,,2,M,,Southampton,,,3,0,1,0,
+passenger_id,Panula,MastereEino Viljam,,1,M,,Southampton,,,3,0,1,0,
+passenger_id,Pasic,MreJakob,,21,M,,Southampton,,,3,0,1,0,
+passenger_id,Patchett,MreGeorge,,19,M,,Southampton,,,3,0,1,0,
+passenger_id,Pavlovic,MreStefo,,32,M,,Southampton,,,3,0,1,0,
+passenger_id,Palsson,MrseAlma Cornelia,,29,F,,Southampton,,,3,0,1,0,
+passenger_id,Palsson,MastereGosta Leonard,,2,M,,Southampton,,,3,0,1,0,
+passenger_id,Palsson,MasterePaul Folke,,6,M,,Southampton,,,3,0,1,0,
+passenger_id,Palsson,MisseStina Viola,,3,F,,Southampton,,,3,0,1,0,
+passenger_id,Palsson,MisseTorborg Danira,,8,F,,Southampton,,,3,0,1,0,
+passenger_id,Peacock,MrseEdith,,26,F,,Southampton,,,3,0,1,0,
+passenger_id,Peacock,MastereAlbert Edward,,0.5833,M,,Southampton,,,3,0,1,0,
+passenger_id,Peacock,MisseTreasteall,,3,F,,Southampton,,,3,0,1,0,
+passenger_id,Pearce,MreErnest,,32,M,,Southampton,,,3,0,1,0,
+passenger_id,Pedersen,MreOlaf,,28,M,,Southampton,,,3,0,1,0,
+passenger_id,Peduzzi,MreGiuseppe,,24,M,,Southampton,,,3,0,1,0,
+passenger_id,Pekoniemi,MreEdvard,,21,M,,Southampton,,,3,0,1,0,
+passenger_id,Peltomaki,MreNikolai Johannes,,25,M,,Southampton,,,3,0,1,0,
+passenger_id,Perkin,MreJohn Henry,,22,M,,Southampton,,,3,0,1,0,
+passenger_id,Persson,MreErnst Ulrik,,25,M,,Southampton,,,3,1,1,0,
+passenger_id,Peter/Joseph,MastereMichael J.,,4,M,,Cherbourg,,,3,1,1,0,
+passenger_id,Peter/Joseph,MisseAnna,,2,F,,Cherbourg,,,3,1,1,0,
+passenger_id,Peteranec,MisseMathilda,,28,F,,Southampton,,,3,0,1,0,
+passenger_id,Peters,MisseCatherine,,26,F,,Queenstown,,,3,0,1,0,
+passenger_id,Petersen,MreMarius,,24,M,,Southampton,,,3,0,1,0,
+passenger_id,Petroff,MreNedialco,,19,M,,Southampton,,,3,0,1,0,
+passenger_id,Petroff,MrePastcho,,29,M,,Southampton,,,3,0,1,0,
+passenger_id,Pettersson,MreJohan Emil,,25,M,,Southampton,,,3,0,1,0,
+passenger_id,Pettersson,MisseElin Natalia,,18,F,,Southampton,,,3,0,1,0,
+passenger_id,Picard,MreBenoet,,32,M,,Southampton,,,3,1,1,0,
+passenger_id,Plotcharsky,MreVasil,,27,M,,Southampton,,,3,0,1,0,
+passenger_id,Pokrnic,MreMate,,17,M,,Southampton,,,3,0,1,0,
+passenger_id,Pokrnic,MreTome,,24,M,,Southampton,,,3,0,1,0,
+passenger_id,Pulner,MreUscher,,16,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Radeff,MreAlexander,,27,M,,Southampton,,,3,0,1,0,
+passenger_id,Raf?l-B?lus,MreB?kh?s,,20,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Rasmussen,MrseLena Jakobsen,,63,F,,Southampton,,,3,0,1,0,
+passenger_id,Razi,MreRaihed,,30,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Reed,MreJames George,,19,M,,Southampton,,,3,0,1,0,
+passenger_id,Rekic,MreTido,,38,M,,Southampton,,,3,0,1,0,
+passenger_id,Reynolds,MreHarold,,21,M,,Southampton,,,3,0,1,0,
+passenger_id,Rice,MrseMargaret,,39,F,,Queenstown,,,3,0,1,0,
+passenger_id,Rice,MastereAlbert,,10,M,,Queenstown,,,3,0,1,0,
+passenger_id,Rice,MastereGeorge Hugh,,8,M,,Queenstown,,,3,0,1,0,
+passenger_id,Rice,MastereEric,,7,M,,Queenstown,,,3,0,1,0,
+passenger_id,Rice,MastereArthur,,4,M,,Queenstown,,,3,0,1,0,
+passenger_id,Rice,MastereEugene Francis,,2,M,,Queenstown,,,3,0,1,0,
+passenger_id,Riihivuori,MisseSusanna Juhantytar,,22,F,,Southampton,,,3,0,1,0,
+passenger_id,Rintamaki,MreMatti,,35,M,,Southampton,,,3,0,1,0,
+passenger_id,Riordan,MisseHannah,,18,F,,Queenstown,,,3,1,1,0,
+passenger_id,Risien,MreSamuel Beard,,69,M,,Southampton,,,3,0,1,0,
+passenger_id,Risien,MrseEmma Jane,,58,F,,Southampton,,,3,0,1,0,
+passenger_id,Robins,MreAlexander A.,,50,M,,Southampton,,,3,0,1,0,
+passenger_id,Robins,MrseCharity,,47,F,,Southampton,,,3,0,1,0,
+passenger_id,Rogers,MreWilliam John,,29,M,,Southampton,,,3,0,1,0,
+passenger_id,Rommetvedt,MreKnud Paust,,49,M,,Southampton,,,3,0,1,0,
+passenger_id,Rosblom,MrseHelena Wilhelmina,,41,F,,Southampton,,,3,0,1,0,
+passenger_id,Rosblom,MisseSalli Helena,,2,F,,Southampton,,,3,0,1,0,
+passenger_id,Rosblom,MreViktor Richard,,18,M,,Southampton,,,3,0,1,0,
+passenger_id,Roth,MisseSarah,,31,F,,Southampton,,,3,1,1,0,
+passenger_id,Rouse,MreRichard Henry,,53,M,,Southampton,,,3,0,1,0,
+passenger_id,Rush,MreAlfred George John,,17,M,,Southampton,,,3,0,1,0,
+passenger_id,Ryan,MrePatrick,,30,M,,Queenstown,,,3,0,1,0,
+passenger_id,Ryan,MreEdward,,24,M,,Queenstown,,,3,1,1,0,
+passenger_id,Saad,MreAmin,,30,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Saad,MreKhalil,,27,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Sadlier,MreMatthew,,18,M,,Queenstown,,,3,0,1,0,
+passenger_id,Sadowitz,MreHenry,,17,M,,Southampton,,,3,0,1,0,
+passenger_id,Sage,MreJohn George,,44,M,,Southampton,,,3,0,1,0,
+passenger_id,Sage,MrseAnnie Elizabeth,,44,F,,Southampton,,,3,0,1,0,
+passenger_id,Sage,MisseStella Anne,,20,F,,Southampton,,,3,0,1,0,
+passenger_id,Sage,MreGeorge John,,19,M,,Southampton,,,3,0,1,0,
+passenger_id,Sage,MreDouglas Bullen,,18,M,,Southampton,,,3,0,1,0,
+passenger_id,Sage,MreFrederick,,16,M,,Southampton,,,3,0,1,0,
+passenger_id,Sage,MisseDorothy,,14,F,,Southampton,,,3,0,1,0,
+passenger_id,Sage,MastereAnthony William,,12,M,,Southampton,,,3,0,1,0,
+passenger_id,Sage,MisseElizabeth Ada,,10,F,,Southampton,,,3,0,1,0,
+passenger_id,Sage,MisseConstance Gladys,,7,F,,Southampton,,,3,0,1,0,
+passenger_id,Sage,MastereThomas Henry,,4,M,,Southampton,,,3,0,1,0,
+passenger_id,Salander,MreKarl Johan,,24,M,,Southampton,,,3,0,1,0,
+passenger_id,Salkjelsvik,MisseAnna Kristine,,21,F,,Southampton,,,3,1,1,0,
+passenger_id,Salonen,MreJohan Werner,,29,M,,Southampton,,,3,0,1,0,
+passenger_id,Samaan,MreHanna Elias,,40,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Samaan,MreElias,,17,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Samaan,MreYoussef,,16,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Sandstrom,MrseAgnes Charlotta,,24,F,,Southampton,,,3,1,1,0,
+passenger_id,Sandstrom,MisseBeatrice Irene,,1,F,,Southampton,,,3,1,1,0,
+passenger_id,Sandstrom,MisseMarguerite Rut,,4,F,,Southampton,,,3,1,1,0,
+passenger_id,Sap,MreJulius,,21,M,,Southampton,,,3,1,1,0,
+passenger_id,Saundercock,MreWilliam Henry,,19,M,,Southampton,,,3,0,1,0,
+passenger_id,Sawyer,MreFrederick Charles,,33,M,,Southampton,,,3,0,1,0,
+passenger_id,Sether,MreSimon Sivertsen,,43,M,,Southampton,,,3,0,1,0,
+passenger_id,Soholt,MrePeter Andreas Lauritz Andersen,,19,M,,Southampton,,,3,0,1,0,
+passenger_id,Scanlan,MreJames,,22,M,,Queenstown,,,3,0,1,0,
+passenger_id,Scheerlinck,MreJean,,29,M,,Southampton,,,3,1,1,0,
+passenger_id,Sdycoff,MreTodor,,42,M,,Southampton,,,3,0,1,0,
+passenger_id,Seman,MastereBetros,,10,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Shannon,MreAndrew John,,36,M,,Southampton,,,3,0,1,0,
+passenger_id,Shaughnessy,MrePatrick,,24,M,,Queenstown,,,3,0,1,0,
+passenger_id,Shedid,MreDaher,,19,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Shellard,MreFrederick William Blainey,,55,M,,Southampton,,,3,0,1,0,
+passenger_id,Shihab,MreAl-Am ir Faris,,29,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Shine,MisseEllen,,20,F,,Queenstown,,,3,0,1,0,
+passenger_id,Shorney,MreCharles Joseph,,22,M,,Southampton,,,3,0,1,0,
+passenger_id,Simmons,MreJohn,,40,M,,Southampton,,,3,0,1,0,
+passenger_id,Sirayanian,MreOrsen,,22,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Sirota,MreMorris,,20,M,,Southampton,,,3,0,1,0,
+passenger_id,Sivic,MreHusein,,40,M,,Southampton,,,3,0,1,0,
+passenger_id,Sivola,MreAntti Wilhelm,,21,M,,Southampton,,,3,0,1,0,
+passenger_id,Sjoblom,MisseAnna Sofia,,18,F,,Southampton,,,3,1,1,0,
+passenger_id,Skoog,MreWilhelm Johansson,,40,M,,Southampton,,,3,0,1,0,
+passenger_id,Skoog,MrseAnna Bernhardina,,43,F,,Southampton,,,3,0,1,0,
+passenger_id,Skoog,MastereKarl Thorsten,,11,M,,Southampton,,,3,0,1,0,
+passenger_id,Skoog,MastereHarald,,5,M,,Southampton,,,3,0,1,0,
+passenger_id,Skoog,MisseMabel,,9,F,,Southampton,,,3,0,1,0,
+passenger_id,Skoog,MisseMargit Elizabeth,,2,F,,Southampton,,,3,0,1,0,
+passenger_id,Slabenoff,MrePetco,,42,M,,Southampton,,,3,0,1,0,
+passenger_id,Slocovski,MreSelman Francis,,20,M,,Southampton,,,3,0,1,0,
+passenger_id,Smiljanic,MreMile,,37,M,,Southampton,,,3,0,1,0,
+passenger_id,Smyth,MreThomas,,26,M,,Queenstown,,,3,0,1,0,
+passenger_id,Smyth,MisseJulia,,17,F,,Queenstown,,,3,1,1,0,
+passenger_id,Somerton,MreFrancis William,,30,M,,Southampton,,,3,0,1,0,
+passenger_id,Spector,MreWoolf,,23,M,,Southampton,,,3,0,1,0,
+passenger_id,Spinner,MreHenry John,,32,M,,Southampton,,,3,0,1,0,
+passenger_id,Staneff,MreIvan,,23,M,,Southampton,,,3,0,1,0,
+passenger_id,Stankovic,MreIvan,,33,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Stanley,MisseAmy Zillah Elsie,,24,F,,Southampton,,,3,1,1,0,
+passenger_id,Stanley,MreEdward Roland,,21,M,,Southampton,,,3,0,1,0,
+passenger_id,Storey,MreThomas,,51,M,,Southampton,,,3,0,1,0,
+passenger_id,Stoytcheff,MreIlia,,19,M,,Southampton,,,3,0,1,0,
+passenger_id,Stranden,MreJuho Niilosson,,31,M,,Southampton,,,3,1,1,0,
+passenger_id,Strandberg,MisseIda Sofia,,22,F,,Southampton,,,3,0,1,0,
+passenger_id,Strom,MrseElna Matilda,,29,F,,Southampton,,,3,0,1,0,
+passenger_id,Strom,MisseTelma Matilda,,2,F,,Southampton,,,3,0,1,0,
+passenger_id,Strilic,MreIvan,,27,M,,Southampton,,,3,0,1,0,
+passenger_id,Sunderland,MreVictor Francis,,20,M,,Southampton,,,3,1,1,0,
+passenger_id,Sundman,MreJohan Julian,,44,M,,Southampton,,,3,1,1,0,
+passenger_id,Sutehall,MreHenry Jr,,25,M,,Southampton,,,3,0,1,0,
+passenger_id,Svensson,MreOlof,,24,M,,Southampton,,,3,0,1,0,
+passenger_id,Svensson,MreJohan,,74,M,,Southampton,,,3,0,1,0,
+passenger_id,Svensson,MreJohan Cervin,,14,M,,Southampton,,,3,1,1,0,
+passenger_id,Tannus,MreBash ir,,31,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Tannus,MrseTham in,,16,F,,Cherbourg,,,3,1,1,0,
+passenger_id,Tannus,MastereAs'ad,,0.166,M,,Cherbourg,,,3,1,1,0,
+passenger_id,Torber,MreErnst Wilhelm,,41,M,,Southampton,,,3,0,1,0,
+passenger_id,Tornquist,MreWilliam Henry,,25,M,,Southampton,,,3,1,1,0,
+passenger_id,Tenglin,MreGunnar Isidor,,25,M,,Southampton,,,3,1,1,0,
+passenger_id,Theobald,MreThomas Leonard,,34,M,,Southampton,,,3,0,1,0,
+passenger_id,Thomas-Tannous,MreTannous,,16,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Thomas-Tannous,MreJohn,,34,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Thompson,MreAlexander Morrison,,36,M,,Southampton,,,3,0,1,0,
+passenger_id,Thorneycroft,MrePercival,,36,M,,Southampton,,,3,0,1,0,
+passenger_id,Thorneycroft,MrseFlorence Kate,,32,F,,Southampton,,,3,1,1,0,
+passenger_id,Tikkanen,MreJuho,,32,M,,Southampton,,,3,0,1,0,
+passenger_id,Tobin,MreRoger,,20,M,,Queenstown,,,3,0,1,0,
+passenger_id,Todoroff,MreLalio,,23,M,,Southampton,,,3,0,1,0,
+passenger_id,Tomlin,MreErnest Portage,,22,M,,Southampton,,,3,0,1,0,
+passenger_id,Torfa,MreAssad,,20,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Totevski,MreHristo Danchev,,25,M,,Southampton,,,3,0,1,0,
+passenger_id,Tu'Mah,MrseHinnah,,27,F,,Cherbourg,,,3,1,1,0,
+passenger_id,Tu'Mah,MisseMariyam,,9,F,,Cherbourg,,,3,1,1,0,
+passenger_id,Tu'Mah,MastereJirjis Y?suf,,8,M,,Cherbourg,,,3,1,1,0,
+passenger_id,Turcin,MreStjepan,,36,M,,Southampton,,,3,0,1,0,
+passenger_id,Turja,MisseAnna Sofia,,18,F,,Southampton,,,3,1,1,0,
+passenger_id,Turkula,MrseHedwig,,63,F,,Southampton,,,3,1,1,0,
+passenger_id,Van Billiard,MreAustin Blyler,,35,M,,Southampton,,,3,0,1,0,
+passenger_id,Van Billiard,MastereJames William,,10,M,,Southampton,,,3,0,1,0,
+passenger_id,Van Billiard,MastereWalter John,,9,M,,Southampton,,,3,0,1,0,
+passenger_id,Van De Velde,MreJohannes Josef,,35,M,,Southampton,,,3,0,1,0,
+passenger_id,Van Den Steen,MreLeo Peter,,28,M,,Southampton,,,3,0,1,0,
+passenger_id,Van Impe,MreJean Baptiste,,36,M,,Southampton,,,3,0,1,0,
+passenger_id,Van Impe,MrseRosalie Paula,,30,F,,Southampton,,,3,0,1,0,
+passenger_id,Van Impe,MisseCatharina,,10,F,,Southampton,,,3,0,1,0,
+passenger_id,Van Melckebeke,MrePhilemon,,23,M,,Southampton,,,3,0,1,0,
+passenger_id,Vandercruyssen,MreVictor,,46,M,,Southampton,,,3,0,1,0,
+passenger_id,Vanderplancke,MreJulius,,31,M,,Southampton,,,3,0,1,0,
+passenger_id,Vanderplancke,MrseEmelie Maria,,31,F,,Southampton,,,3,0,1,0,
+passenger_id,Vanderplancke,MisseAugusta Maria,,18,F,,Southampton,,,3,0,1,0,
+passenger_id,Vanderplancke,MreLeo Edmondus,,15,M,,Southampton,,,3,0,1,0,
+passenger_id,Vandewalle,MreNestor Cyriel,,28,M,,Southampton,,,3,0,1,0,
+passenger_id,Vartanian,MreDavid,,22,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Vendel,MreOlof Edvin,,20,M,,Southampton,,,3,0,1,0,
+passenger_id,Vestrom,MisseHulda Amanda Adolfina,,14,F,,Southampton,,,3,0,1,0,
+passenger_id,Vovk,MreJanko,,21,M,,Southampton,,,3,0,1,0,
+passenger_id,Waelens,MreAchille,,22,M,,Southampton,,,3,0,1,0,
+passenger_id,Ware,MreFrederick,,34,M,,Southampton,,,3,0,1,0,
+passenger_id,Warren,MreCharles William,,30,M,,Southampton,,,3,0,1,0,
+passenger_id,Wazli,MreYousif Ahmed,,23,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Webber,MreJames,,66,M,,Southampton,,,3,0,1,0,
+passenger_id,Wennerstrom,MreAugust,,27,M,,Southampton,,,3,1,1,0,
+passenger_id,Widegren,MreCarl Peter,,51,M,,Southampton,,,3,0,1,0,
+passenger_id,Wiklund,MreKarl Johan,,21,M,,Southampton,,,3,0,1,0,
+passenger_id,Wiklund,MreJakob Alfred,,18,M,,Southampton,,,3,0,1,0,
+passenger_id,Wilkes,MrseEllen,,47,F,,Southampton,,,3,1,1,0,
+passenger_id,Willer,MreAaron,,37,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Willey,MreEdward John,,18,M,,Southampton,,,3,0,1,0,
+passenger_id,Williams,MreHoward Hugh,,28,M,,Southampton,,,3,0,1,0,
+passenger_id,Williams,MreLeslie,,28,M,,Southampton,,,3,0,1,0,
+passenger_id,Windelov,MreEinar,,21,M,,Southampton,,,3,0,1,0,
+passenger_id,Wirz,MreAlbert,,27,M,,Southampton,,,3,0,1,0,
+passenger_id,Wiseman,MrePhilippe,,54,M,,Southampton,,,3,0,1,0,
+passenger_id,Wittevrongel,MreCamilius Aloysius,,36,M,,Southampton,,,3,0,1,0,
+passenger_id,Yasbeck,MreAntoni,,27,M,,Cherbourg,,,3,1,1,0,
+passenger_id,Yazbeck,MrseSelini,,15,F,,Cherbourg,,,3,0,1,0,
+passenger_id,Yousef,MrseKatr in,,24,F,,Cherbourg,,,3,1,1,0,
+passenger_id,Yousseff    #(Abi Saab),MreGerios,,26,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Youssiff    #(Sam'Aan),MreGerios,,45,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Zakarian,MreOrtin,,27,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Zakarian,MreMapriededer,,22,M,,Cherbourg,,,3,0,1,0,
+passenger_id,Zenni,MrePhilip,,22,M,,Cherbourg,,,3,1,1,0,
+passenger_id,Zimmermann,MreLeo,,29,M,,Southampton,,,3,0,1,0,
+passenger_id,Smith, Commander Edward John  RNR    ,(Retd),62,M,"Hanley, Stoke-on-Trent, Staffordshire, England",Southampton,,,0,0,0,1,Captain
+passenger_id,Wilde, Lieutenant Henry Tingle RNR,,39,M,"Walton, Lancashire, England",Southampton,,,0,1,0,1,Chief Officer
+passenger_id,Murdoch, Lieutenant WilliaMamaMaster  RNR,,39,M,"Dalbeattie, Kirkcudbrightshire, Scotland",Belfast,,,0,1,0,1,First Officer
+passenger_id,Lightoller, Sub-Lieutenant Charles Herbert  RNR,,38,M,"Netley, Hampshire, England",Belfast,B,,0,0,0,1,Second Officer
+passenger_id,Pitman, Mr. Herbert John  RNR,,34,M,"Castle Cary, Somerset, England",Belfast,5,,0,0,0,1,Third Officer
+passenger_id,Boxhall, Sub-Lieutenant Joseph Groves  RNR,,28,M,"Hull, Yorkshire, England",Belfast,2,,0,0,0,1,Fourth Officer
+passenger_id,Lowe, Sub-Lieutenant Harold Godfrey  RNR,,29,M,"Barmouth, Merionethshire, Wales",Belfast,14,,0,0,0,1,Fifth Officer
+passenger_id,Moody, Mr. James Paul,,24,M,"Grimsby, Lincolnshire, England",Belfast,,,0,1,0,1,Sixth Officer
+passenger_id,Anderson, Mr. James,,40,M,"Southampton, Hampshire, England",Southampton,16,,0,0,0,1,Able Seaman
+passenger_id,Anderson, Mr. John,,41,M,"Southampton, Hampshire, England",Southampton,16,,0,0,0,1,Able Seaman
+passenger_id,Archer, Mr. Ernest Edward,,36,M,"Southampton, Hampshire, England",Southampton,3,,0,0,0,1,Able Seaman
+passenger_id,Bailey, Mr. Joseph Henry,,43,M,"Southampton, Hampshire, England",Southampton,16,,0,0,0,1,Master-at-arms
+passenger_id,Bradley, Mr. T.,,29,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Able Seaman
+passenger_id,Brice, Mr. Walter T.,,42,M,"Southampton, Hampshire, England",Southampton,11,,0,0,0,1,Able Seaman
+passenger_id,Bright, Mr. Arthur John,,41,M,"Woolston, Hampshire, England",Southampton,D,,0,0,0,1,Quartermaster
+passenger_id,Buley, Mr. Edward John,,27,M,"Southampton, Hampshire, England",Southampton,10,,0,0,0,1,Able Seaman
+passenger_id,Clench, Mr. Frederick,,34,M,"Southampton, Hampshire, England",Southampton,12,,0,0,0,1,Able Seaman
+passenger_id,Clench, Mr. George James,,31,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Able Seaman
+passenger_id,Couch, Mr. Frank,,28,M,"Port Isaac, Cornwall",Southampton,,253MB,0,0,0,1,Able Seaman
+passenger_id,Davis, Mr. Stephen James,,39,M,"Landport, Hampshire, England",Southampton,,,0,1,0,1,Able Seaman
+passenger_id,Evans, Mr. Alfred Frank,,24,M,"Southampton, Hampshire, England",Southampton,15,,0,0,0,1,Lookout
+passenger_id,Evans, Mr. Frank Oliver,,24,M,"Southampton, Hampshire, England",Southampton,10,,0,0,0,1,Able Seaman
+passenger_id,Fleet, Mr. Frederick,,24,M,"Southampton, Hampshire, England",Belfast,6,,0,0,0,1,Lookout
+passenger_id,Foley, Mr. John,,44,M,"Southampton, Hampshire, England",Belfast,4,,0,0,0,1,Storekeeper
+passenger_id,Forward, Mr. James,,27,M,"Southampton, Hampshire, England",Southampton,16,,0,0,0,1,Able Seaman
+passenger_id,Haines, Mr. Albert M.,,31,M,"Southampton, Hampshire, England",Belfast,9,,0,0,0,1,Boatswain
+passenger_id,Harder, Mr. William,,39,M,"Southampton, Hampshire, England",Southampton,14,,0,0,0,1,Window Cleaner
+passenger_id,Hemming, Mr. Samuel Ernest,,43,M,"Southampton, Hampshire, England",Belfast,4,,0,0,0,1,Lamp Trimmer
+passenger_id,Hichens, Mr. Robert,,29,M,"Southampton, Hampshire, England",Southampton,6,,0,0,0,1,Quartermaster
+passenger_id,Hogg, Mr. George Alfred,,29,M,"Southampton, Hampshire, England",Belfast,7,,0,0,0,1,Lookout
+passenger_id,Holman, Mr. Harry,,27,M,"Southampton, Hampshire, England",Belfast,7,,0,1,0,1,Able Seaman
+passenger_id,Hopkins, Mr. Robert John,,40,M,"Southampton, Hampshire, England",Southampton,13,,0,0,0,1,Able Seaman
+passenger_id,Horswill, Mr. Albert Edward James,,33,M,"Southampton, Hampshire, England",Southampton,1,,0,0,0,1,Able Seaman
+passenger_id,Humphreys, Mr. Sidney James,,48,M,"Southampton, Hampshire, England",Southampton,11,,0,0,0,1,Quartermaster
+passenger_id,Hutchinson, Mr. John Hall,,26,M,"Southampton, Hampshire, England",Belfast,,170MB,0,0,0,1,Carpenter/Joiner
+passenger_id,Jewell, Mr. Archie,,23,M,"Southampton, Hampshire, England",Belfast,7,,0,0,0,1,Lookout
+passenger_id,Jones, Mr. Thomas William,,32,M,"Liverpool, Lancashire, England",Southampton,8,,0,0,0,1,Able Seaman
+passenger_id,King, Mr. Thomas W.,,43,M,"Portsmouth, Hampshire, England",Southampton,,,0,1,0,1,Master-at-arms
+passenger_id,Lee, Mr. Reginald Robinson,,41,M,"Southampton, Hampshire, England",Southampton,13,,0,0,0,1,Lookout
+passenger_id,Lucas, Mr. William A.,,25,M,"Southampton, Hampshire, England",Southampton,D,,0,0,0,1,Able Seaman
+passenger_id,Lyons, Mr. William Henry,,26,M,"Southampton, Hampshire, England",Southampton,4,,0,1,0,1,Able Seaman
+passenger_id,Matherson, Mr. David,,30,M,"Southampton, Hampshire, England",Southampton,,192MB,0,0,0,1,Able Seaman
+passenger_id,Mathais, Mr. Montague Vincent,,27,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Mess Steward
+passenger_id,Maxwell, Mr. John,,31,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Carpenter/Joiner
+passenger_id,McCarthy, Mr. William,,47,M,"Cork, County Cork, Ireland",Southampton,4,,0,0,0,1,Able Seaman
+passenger_id,McGough, Mr. James R.,,25,M,"Southampton, Hampshire, England",Southampton,9,,0,0,0,1,Able Seaman
+passenger_id,Moore, Mr. George Alfred,,32,M,"Southampton, Hampshire, England",Southampton,3,,0,0,0,1,Able Seaman
+passenger_id,Nichols, Mr. Alfred,,42,M,"Shirley, Hampshire, England",Belfast,,,0,1,0,1,Boatswain
+passenger_id,O'Loughlin, Dr. William Francis Norman,,62,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Surgeon
+passenger_id,Olliver, Mr. Alfred,,27,M,"Southampton, Hampshire, England",Belfast,5,,0,0,0,1,Quartermaster
+passenger_id,Osman, Mr. Frank,,28,M,"Itchen, Hampshire, England",Southampton,2,,0,0,0,1,Able Seaman
+passenger_id,Pascoe, Mr. Charles H.,,43,M,"Southampton, Hampshire, England",Southampton,8,,0,0,0,1,Able Seaman
+passenger_id,Perkis, Mr. Walter John,,37,M,"Southampton, Hampshire, England",Belfast,4,,0,0,0,1,Quartermaster
+passenger_id,Peters, Mr. William Chapman,,26,M,"Woolston, Hampshire, England",Southampton,9,,0,0,0,1,Able Seaman
+passenger_id,Poingdestre, Mr. John Thomas,,33,M,"Southampton, Hampshire, England",Southampton,12,,0,0,0,1,Able Seaman
+passenger_id,Rowe, Mr. George Thomas,,32,M,"Gosport, Hampshire, England",Belfast,C,,0,0,0,1,Quartermaster
+passenger_id,Sawyer, Mr. Robert James,,30,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Window Cleaner
+passenger_id,Scarrott, Mr. Joseph George,,33,M,"Southampton, Hampshire, England",Southampton,14,,0,0,0,1,Able Seaman
+passenger_id,Simpson, Dr. John Edward,,37,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Assistant Surgeon
+passenger_id,Smith, Mr. William,,26,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Able Seaman
+passenger_id,Symons, Mr. George Thomas Macdonald,,24,M,"Southampton, Hampshire, England",Southampton,1,,0,0,0,1,Lookout
+passenger_id,Tamlyn, Mr. Frederick,,23,M,"Southampton, Hampshire, England",Southampton,,123MB,0,0,0,1,Mess Steward
+passenger_id,Taylor, Mr. C.,,35,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Able Seaman
+passenger_id,Terrell, Mr. Bertram,,20,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Able Seaman
+passenger_id,Thorley, Mr. Jonathon,,15,M,"Brighton, Sussex, England",Southampton,13,,0,0,0,1,Lamp Trimmer
+passenger_id,Vigott, Mr. Philip Francis,,32,M,"Southampton, Hampshire, England",Southampton,13,,0,0,0,1,Able Seaman
+passenger_id,Weller, Mr. William Clifford,,30,M,"Southampton, Hampshire, England",Belfast,7,,0,0,0,1,Able Seaman
+passenger_id,Wynn, Mr. Walter,,41,M,"Shirley, Hampshire, England",Belfast,9,,0,0,0,1,Quartermaster
+passenger_id,Abrams, Mr. William,,33,F,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Adams, Mr. R.,,26,F,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Allen, Mr. Henry,,32,M,"Southampton, Hampshire, England",Southampton,,145MB,0,0,0,1,Fireman/Stoker
+passenger_id,Allen, Mr. Ernest Frederick,,24,M,"Southampton, Hampshire, England",Southampton,B,,0,0,0,1,Trimmer
+passenger_id,Allsop, Mr. Alfred Samuel,,34,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Electrician
+passenger_id,Avery, Mr. James Frank,,22,M,"Southampton, Hampshire, England",Southampton,15,,0,0,0,1,Trimmer
+passenger_id,Bailey, Mr. George W.,,46,M,"Woolston, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Baines, Mr. Richard,,24,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Greaser
+passenger_id,Bannon, Mr. John,,32,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Greaser
+passenger_id,Barlow, Mr. Charles,,30,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Barnes, Mr. Charles,,29,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Barnes, Mr. Frederick,,29,M,"Woolston, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Barrett, Mr. Frederick,,28,M,"Southampton, Hampshire, England",Southampton,13,,0,0,0,1,Leading Fireman
+passenger_id,Barrett, Mr. Frederick William,,33,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Beattie, Mr. Joseph,,34,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Greaser
+passenger_id,Beauchamp, Mr. George William,,24,M,"Southampton, Hampshire, England",Southampton,13,,0,0,0,1,Fireman/Stoker
+passenger_id,Bell, Mr. Joseph,,50,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Chief Engineer
+passenger_id,Bendell, Mr. F.,,24,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Bennett, Mr. George Alfred,,30,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Benville, Mr. E.,,42,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Bessant, Mr. William Edward,,39,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Bevis, Mr. Joseph Henry,,22,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+passenger_id,Biddlecombe, Mr. Charles,,33,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Biggs, Mr. Edward Charles,,21,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Billow, Mr. J.,,20,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+passenger_id,Binstead, Mr. Walter,,19,M,"Southampton, Hampshire, England",Southampton,3,,0,0,0,1,Trimmer
+passenger_id,Black, Mr. Alexander,,28,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Black, Mr. D.,,41,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Blackman, Mr. H.,,24,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Blake, Mr. Percival Albert,,22,M,"Southampton, Hampshire, England",Southampton,15,,0,0,0,1,Trimmer
+passenger_id,Blake, Mr. Seaton,,26,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Mess Steward
+passenger_id,Blake, Mr. Thomas,,36,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Blaney, Mr. James,,29,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Blann, Mr. Eustace Horatius,,21,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Bott, Mr. W.,,44,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Greaser
+passenger_id,Bradley, Mr. Patrick Joseph,,39,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Brewer," Mr. Henry ""Harry""",,30,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+passenger_id,Briant, Mr. Albert,,34,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Greaser
+passenger_id,Brooks, Mr. J.,,25,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+passenger_id,Brown, Mr. John,,25,M,"Southampton, Hampshire, England",Southampton,,267MB,0,0,0,1,Fireman/Stoker
+passenger_id,Brown, Mr. Joseph James,,25,M,"Eastleigh, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Burroughs, Mr. Arthur,,35,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Burton, Mr. Edward John,,32,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Butt, Mr. William John,,30,M,"Freemantle, Hampshire, England",Southampton,,77MB,0,0,0,1,Fireman/Stoker
+passenger_id,Calderwood, Mr. Hugh,,30,M,"Belfast, Ireland",Belfast,,,0,1,0,1,Trimmer
+passenger_id,Canner, Mr. J.,,40,M,"Woolston, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Carr, Mr. Richard Stephen,,37,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+passenger_id,Carter, Mr. James,,46,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Casey, Mr. T.,,28,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+passenger_id,Castleman, Mr. Edward,,37,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Greaser
+passenger_id,Cavell, Mr. George Henry,,22,M,"Sholing Hampshire, England",Southampton,15,,0,0,0,1,Trimmer
+passenger_id,Cherrett, Mr. William Victor,,24,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Chisnall, Mr. George Alexander,,35,M,"Itchen, Hampshire, England",Belfast,,111MB,0,0,0,1,Boilermaker
+passenger_id,Chorley, Mr. John,,25,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Clark, Mr. William,,39,M,"Southampton, Hampshire, England",Southampton,15,,0,0,0,1,Fireman/Stoker
+passenger_id,Coe, Mr. Harry,,21,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+passenger_id,Coleman, Mr. John,,57,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Mess Steward
+passenger_id,Collins, Mr. Samuel,,35,M,"Southampton, Hampshire, England",Southampton,1,,0,0,0,1,Fireman/Stoker
+passenger_id,Combes, Mr. George,,21,M,"Southampton, Hampshire, England",Southampton,3,,0,0,0,1,Fireman/Stoker
+passenger_id,Cooper, Mr. Harry,,26,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Cooper, Mr. James,,25,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+passenger_id,Copperthwaite, Mr. B.,,22,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+passenger_id,Corcoran, Mr. Dennis,,33,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Cotton, Mr. A.,,26,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+passenger_id,Couch, Mr. Joseph Henry,,45,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Greaser
+passenger_id,Couper, Mr. Robert,,30,M,"Southampton, Hampshire, England",Southampton,3,,0,0,0,1,Fireman/Stoker
+passenger_id,Coy, Mr. Francis Ernest George,,26,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Junior Assistant 3rd Engineer
+passenger_id,Crabb, Mr. H.,,23,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+passenger_id,Creese, Mr. Henry Philip,,44,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Deck Engineer
+passenger_id,Crimmins, Mr. James,,21,M,"Southampton, Hampshire, England",Southampton,13,,0,0,0,1,Fireman/Stoker
+passenger_id,Cross, Mr. W.,,39,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Cunningham, Mr. B.,,30,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Curtis, Mr. Arthur,,25,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Davies, Mr. Thomas,,33,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Leading Fireman
+passenger_id,Dawson, Mr. Joseph[16],,23,M,"Dublin, Ireland",Southampton,,227MB,0,0,0,1,Trimmer
+passenger_id,Diaper, Mr. J.,,25,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Fireman/Stoker
+passenger_id,Dickson, Mr. W.,,36,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+passenger_id,Dilley, Mr. John,,30,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Fireman/Stoker
+passenger_id,Dillon, Mr. Thomas Patrick,,25,M,"Southampton, Hampshire, England",Southampton,4,,0,0,0,1,Trimmer
+passenger_id,Dodd, Mr. Edward Charles,,38,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Junior 3rd Engineer
+passenger_id,Dodds, Mr. Henry Watson,,27,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Junior Assistant 4th Engineer
+passenger_id,Doel, Mr. Frederick,,22,M,"Southampton, Hampshire, England",Southampton,C,,0,0,0,1,Fireman/Stoker
+passenger_id,Dore, Mr. A.,,22,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Trimmer
+passenger_id,Doyle, Mr. Laurence,,27,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Duffy, Mr. William Luke,,28,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Writer/Engineer's Clerk
+passenger_id,Dyer, Mr. Henry Ryland,,24,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Senior Assistant 4th Engineer
+passenger_id,Dymond, Mr. Frank,,25,M,"Itchen, Hampshire, England",Southampton,15,,0,0,0,1,Fireman/Stoker
+passenger_id,Eagle, Mr. Alfred James,,22,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+passenger_id,Eastman, Mr. Charles,,44,M,"Millbrook, Hampshire, England",Southampton,,,0,1,0,1,Greaser
+passenger_id,Elliott, Mr. Everett Edward,,23,M,"Edmonton, London, England",London,,,0,1,0,1,Trimmer
+passenger_id,Ervine, Mr. Albert George,,18,M,"Belfast, Ireland",Belfast,,,0,1,0,1,Assistant Electrician
+passenger_id,Evans, Mr. Williams,,32,M,"Southampton, Hampshire, England",Southampton,,31MB,0,0,0,1,Trimmer
+passenger_id,Farquharson, Mr. William Edward,,39,M,"Belfast, Ireland,",Southampton,,,0,1,0,1,Senior 2nd Engineer
+passenger_id,Fay, Mr. Thomas,,30,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Greaser
+passenger_id,Ferrary, Mr. Anton,,33,M,"Southampton, Hampshire, England",Southampton,,308M{?}[17],0,0,0,1,Trimmer
+passenger_id,Ferris, Mr. William,,38,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Leading Fireman
+passenger_id,Fitzpatrick, Mr. Charles W.N.,,30,M,"Southampton, Hampshire, England",Southampton,B,-,0,0,0,1,Mess Steward
+passenger_id,Flarty, Mr. Edward,,52,M,"Southampton, Hampshire, England",Southampton,?,,0,0,0,1,Fireman/Stoker
+passenger_id,Ford., Mr. H.,,22,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+passenger_id,Ford, Mr. Thomas,,30,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Leading Fireman
+passenger_id,Foster, Mr. A.,,37,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Engineering Storekeeper
+passenger_id,Fraser, Mr. James,,29,M,"Southampton, Hampshire, England","Belfast, Ireland",,,0,1,0,1,Junior Assistant Third Engineer
+passenger_id,Fraser, Mr. James,,29,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Fredricks, Mr. Walter Francis,,20,M,"Southampton, Hampshire, England",Southampton,15,,0,0,0,1,Trimmer
+passenger_id,Fryer, Mr. Albert Ernest,,26,M,"Southampton, Hampshire, England",Southampton,13,,0,0,0,1,Trimmer
+passenger_id,Geer, Mr. Alfred Ernest,,24,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Godley, Mr. George,,38,M,"Southampton, Hampshire, England",Southampton,?,,0,0,0,1,Fireman/Stoker
+passenger_id,Godwin, Mr. Frederick Charles,,36,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Greaser
+passenger_id,Golder, Mr. Martin W.,,32,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Gordon, Mr. J.,,29,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+passenger_id,Goree, Mr. Frank,,28,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Greaser
+passenger_id,Gosling, Mr. Bertram James,,22,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+passenger_id,Gosling, S.,,26,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+passenger_id,Gradidge, Mr. Ernest E.,,32,M,"Southampton, Hampshire, England",Southampton,,276MB,0,0,0,1,Fireman/Stoker
+passenger_id,Graham, Mr. Thomas Gibson,,28,M,"Belfast, Ireland",Belfast,,,0,0,0,1,Fireman/Stoker
+passenger_id,Green, Mr. George,,41,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+passenger_id,Gregory, Mr. David,,43,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Greaser
+passenger_id,Gumery, Mr. George,,24,M,"Birmingham, England",Southampton,,,0,1,0,1,Mess Steward
+passenger_id,Hagan, Mr. John,,30,M,"Southampton, Hampshire, England",Belfast,3,,0,0,0,1,Fireman/Stoker
+passenger_id,Hall, Mr. Joseph,,32,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Hallett, Mr. George,,23,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Hands, Mr. Bernard,,34,M,"Killeshandra, Cavan, Ireland",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Hannam, Mr. George,,30,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Harris, Mr. Edward,,29,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Harris, Mr. Frederick,,34,M,"Southampton, Hampshire, England",Southampton,14,,0,0,0,1,Fireman/Stoker
+passenger_id,Harrison, Mr. Norman,,39,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Assistant Second Engineer
+passenger_id,Harvey, Mr. Herbert Gifford,,34,M,"Belfast, Ireland",Southampton,,,0,1,0,1,Junior Assistant Second Engineer
+passenger_id,Haslin, Mr. James,,45,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+passenger_id,Hart, Mr. James,,58,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Head, Mr. Arthur,,24,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Hebb, Mr. A.,,20,M,"Southampton, Hampshire, England",Southampton,B,,0,0,0,1,Trimmer
+passenger_id,Hendrickson, Mr. Charles Osker,,29,M,"Northam, Southampton, Hampshire, England",Southampton,1,,0,0,0,1,Leading Fireman
+passenger_id,Hesketh, Mr. John Henry,,33,M,"Kirkdale, Liverpool, England",Belfast,,,0,1,0,1,Junior Second Engineer
+passenger_id,Hill, Mr. James,,25,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+passenger_id,Hinton, Mr. Steven William,,31,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+passenger_id,Hosking, Mr. George Fox,,36,M,"Southampton, England",Southampton,,,0,1,0,1,Senior Third Engineer
+passenger_id,Hunt, Mr. Albert,,22,M,"Southampton, Hampshire, England",Southampton,C,,0,0,0,1,Trimmer
+passenger_id,Hunt, Mr. T.,,28,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Hurst, Mr. Charles,,41,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Hurst, Walter,,27,M,"Southampton, Hampshire, England",Southampton,B,,0,0,0,1,Fireman/Stoker
+passenger_id,Ingram, Mr. Charles,,20,M,"Southampton, Hampshire, England",Southampton,,204MB[18],0,0,0,1,Trimmer
+passenger_id,Instance, T.,,33,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Jackopson, Mr. John Henry,,30,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Jago, Mr. Joseph,,59,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Greaser
+passenger_id,James, Mr. Thomas,,27,M,"Cardiff, Glamorgan, Wales",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Jarvis, Mr. William,,37,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Joas, Mr. N.,,38,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Judd, Mr. Charles E.,,32,M,"Southampton, Hampshire, England",Southampton,B,,0,0,0,1,Fireman/Stoker
+passenger_id,Jukes, Mr. James,,35,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Greaser
+passenger_id,Jupe, Mr. Herbert,,31,M,"Southampton, Hampshire, England",Southampton,,73MB,0,0,0,1,Assistant Electrician
+passenger_id,Kaspar, Mr. Franz V.,,40,M,"Southampton, Hampshire, England",Southampton,9,,0,0,0,1,Fireman/Stoker
+passenger_id,Kearl, Mr. Charles H.,,44,M,"Ventnor, Isle of Wight, Hampshire, England",Southampton,,,0,1,0,1,Greaser
+passenger_id,Kearl, Mr. G.,,24,M,"Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+passenger_id,Keegan, Mr. James,,38,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Leading Fireman
+passenger_id,Kelly, Mr. James,,44,M,"Co. Meath, Ireland",Southampton,,,0,1,0,1,Greaser
+passenger_id,Kelly, Mr. William,,23,M,"Dublin, Ireland",Belfast,,,0,1,0,1,Assistant Electrician
+passenger_id,Kemish, Mr. George,,22,M,"Shirley, Southampton, Hampshire, England",Southampton,9,,0,0,0,1,Fireman/Stoker
+passenger_id,Kemp, Mr. Thomas Hulman,,43,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Assistant Fourth Engineer
+passenger_id,Kenchenten, Mr. Frederick,,37,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Greaser
+passenger_id,Kerr, Mr. Thomas,,26,M,"Glasgow, Scotland",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Kinsella, Mr. Louis,,30,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Kirkham, Mr. James,,43,M,"Whittingham, Liverpool, Lancashire, England",Southampton,,,0,1,0,1,Greaser
+passenger_id,Knowles, Mr. Thomas,,39,M,"Lymington, England",Southampton,C,,0,0,0,1,Fireman's Messman
+passenger_id,Lahy, Mr. Thomas E.,,32,M,"London, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Lee, Mr. Henry,,18,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+passenger_id,Light, Mr. Charles,,23,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Light, Mr. W.,,47,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Lindsay, Mr. William Charles,,30,M,"Bristol, Avon, England",Southampton,B,,0,0,0,1,Fireman/Stoker
+passenger_id,Loyd, Mr. W.,,29,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Long, Mr. Frank,,28,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+passenger_id,Long, Mr. William,,36,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+passenger_id,Mackie, Mr. William Dickson,,32,M,"London, England",Belfast,,,0,1,0,1,Junior Fifth Engineer
+passenger_id,Major, Mr. William,,32,M,"Southampton, Hampshire, England",Southampton,13,,0,0,0,1,Fireman/Stoker
+passenger_id,Marett, Mr. George John,,27,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Marsh, Mr. Frederick Charles,,28,M,"Southampton, Hampshire, England",Southampton,,268MB,0,0,0,1,Fireman/Stoker
+passenger_id,Maskell, Mr. L.A.,,25,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+passenger_id,Mason, Mr. Frank Archibald Robert,,32,M,"Southampton, Hampshire, England",Southampton,B,,0,0,0,1,Fireman/Stoker
+passenger_id,Mason, Mr. James,,39,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Leading Fireman
+passenger_id,May Jr., Mr. Arthur William,,23,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,May Sr., Mr. Arthur William,,60,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman's Messman
+passenger_id,Mayo, Mr. William Peter,,27,M,"Southampton, Hampshire, England",Southampton,,117MB,0,0,0,1,Leading Fireman
+passenger_id,Mayzes, Mr. Thomas,,25,M,"Southampton, Hampshire, England",Southampton,3,,0,0,0,1,Fireman/Stoker
+passenger_id,McAndrew, Mr. Thomas Patrick,,38,M,"Liverpool, Merseyside, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,McAndrews, Mr. William,,23,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,McCastlen, Mr. William,,38,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,McCubbin, Mr. Lee,,0,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,McGann, Mr. James,,29,M,"Liverpool, Lancashire, England",Southampton,B,,0,0,0,1,Trimmer
+passenger_id,McGarvey, Mr. Edward Joseph,,34,M,"Liverpool, Lancashire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,McGaw, Mr. Errol Victor,,30,M,"Aldershot, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,McGregor, Mr. J.    ,(John Brown Niven),30,M,"Edinburgh, Midlothian, Scotland",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,McInerney, Mr. Thomas,,38,M,"Bootle, Lancashire, England",Southampton,,,0,1,0,1,Greaser
+passenger_id,McInytre, Mr. William,,22,M,"Southampton, Hampshire, England",Southampton,A,,0,0,0,1,Trimmer
+passenger_id,McQuillan, Mr. William,,32,M,"Belfast, Ireland",Belfast,,183MB,0,0,0,1,Fireman/Stoker
+passenger_id,McRae, Mr. William Alexander,,32,M,"Shirley, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,McReynolds, Mr. William,,22,M,"Belfast, Ireland",Belfast,,,0,1,0,1,Junior Sixth Engineer
+passenger_id,Middleton, Mr. Alfred Pirrie,,17,M,"Belfast, Ireland",Belfast,,,0,1,0,1,Assistant Electrician
+passenger_id,Milford, Mr. George,,28,M,"Ryde, Isle of Wight, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Millar, Mr. Robert,,27,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Extra Fifth Engineer
+passenger_id,Millar, Mr. Thomas,,33,M,"Belfast, Ireland",Belfast,,,0,1,0,1,Assistant Deck Engineer
+passenger_id,Mintram, Mr. William,,46,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Mitchell, Mr. Lawrence    ,(Lorenzo),19,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+passenger_id,Moore, Mr. John J.,,29,M,"Southampton, Hampshire, England",Southampton,3,,0,0,0,1,Fireman/Stoker
+passenger_id,Moore, Mr. Ralph,,21,M,"London, England",Southampton,,,0,1,0,1,Trimmer
+passenger_id,Moores, Mr. Richard Henry,,44,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Greaser
+passenger_id,Morgan, Mr. Arthur Herbert,,27,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+passenger_id,Morgan, Mr. Thomas A.,,26,M,"Southampton, Hampshire, England",Southampton,,302MB,0,0,0,1,Fireman/Stoker
+passenger_id,Morrell, Mr. R.    ,(Albert White),21,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+passenger_id,Morris, Mr. Arthur,,30,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Greaser
+passenger_id,Morris, Mr. William Edward,,23,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+passenger_id,Moyes, Mr. William Young,,23,M,"Stirling, Scotland",Belfast,,,0,1,0,1,Senior Sixth Engineer
+passenger_id,Murdock, Mr. William,,34,M,"Belfast, Ireland",Belfast,B,,0,0,0,1,Fireman/Stoker
+passenger_id,Nettleton, Mr. George Walter,,29,M,"St. Denys, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Newman, Mr. Charles Thomas,,32,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Engineering Storekeeper
+passenger_id,Noon, Mr. John,,35,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Norris, Mr. James,,22,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Noss, Mr. Bertram Arthur,,21,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Noss, Mr. Henry,,31,M,"Southampton, Hampshire, England",Southampton,15,,0,0,0,1,Fireman/Stoker
+passenger_id,Nutbean, Mr. William,,31,M,"Southampton, Hampshire, England",Southampton,3,,0,0,0,1,Fireman/Stoker
+passenger_id,O'Connor, Mr. John,,25,M,"Southampton, Hampshire, England",Southampton,B,,0,0,0,1,Trimmer
+passenger_id,Olive, Mr. Charles,,31,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Greaser
+passenger_id,Oliver, Mr. H.,,32,M,"Southampton, Hampshire, England",Southampton,3,,0,0,0,1,Fireman/Stoker
+passenger_id,Othen, Mr. Charles,,36,M,"Southampton, Hampshire, England",Southampton,11,,0,0,0,1,Fireman/Stoker
+passenger_id,Paice, Mr. Richard Charles John,,32,M,"Kingsclere, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Painter, Mr. Charles,,31,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Painter, Mr. Frank,,29,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Palles, Mr. Thomas Henry Michael,,45,M,"Liverpool, England",Southampton,,,0,1,0,1,Greaser
+passenger_id,Parsons, Mr. Frank Alfred,,27,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Senior Fifth Engineer
+passenger_id,Pearce, Mr. John,,28,M,"Southampton, Hampshire, England",Southampton,15,,0,0,0,1,Fireman/Stoker
+passenger_id,Pelham, Mr. George,,39,M,"Southampton, Hampshire, England",Southampton,16,,0,0,0,1,Trimmer
+passenger_id,Perry, Mr. Edgar Lionel,,19,M,"Southampton, Hampshire, England",Southampton,?,,0,0,0,1,Trimmer
+passenger_id,Perry, Mr. Henry Frederick,,23,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+passenger_id,Phillips, Mr. G.,,27,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Greaser
+passenger_id,Pitfield, Mr. William James,,25,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Greaser
+passenger_id,Podesta, Mr. John,,25,M,"Southampton, Hampshire, England",Southampton,3,,0,0,0,1,Fireman/Stoker
+passenger_id,Pond, Mr. George,,32,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Prangnell, Mr. George,,31,M,"Southampton, Hampshire, England",Southampton,B,,0,0,0,1,Greaser
+passenger_id,Preston, Mr. Thomas Charles Alfred,,20,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+passenger_id,Priest, Mr. Arthur J.,,23,M,"Southampton, Hampshire, England",Southampton,15,,0,0,0,1,Fireman/Stoker
+passenger_id,Proudfoot, Mr. Richard Royston,,22,M,"Plymouth, Devon, England",Southampton,,,0,1,0,1,Trimmer
+passenger_id,Pugh, Mr. Percy,,31,M,"Hampshire, England",Southampton,,,0,1,0,1,Leading Fireman
+passenger_id,Pusey, Mr. William Robert Holland,,24,M,"Hythe, Hampshire, England",Southampton,1,,0,0,0,1,Fireman/Stoker
+passenger_id,Ranger, Mr. Thomas G.,,29,M,"Southampton, Hampshire, England",Southampton,4,,0,0,0,1,Greaser
+passenger_id,Read, Mr. Joseph,,20,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+passenger_id,Reed, Mr. Robert,,30,M,"Gosport, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+passenger_id,Reeves, Mr. Robert,,30,M,"Southampton, Hampshire, England",Southampton,,280MB,0,0,0,1,Fireman/Stoker
+passenger_id,Rice, Mr. Charles,,32,M,"Southampton, Hampshire, England",Southampton,10,,0,0,0,1,Fireman/Stoker
+passenger_id,Richards, Mr. Joseph James,,30,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Rickman, Mr. George Albert,,36,M,"Milford, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Roberts, Mr. Robert George,,35,M,"Bransgore, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Rous, Mr. Arthur John,,26,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Plumber
+passenger_id,Rudd, Mr. Henry,,23,M,"Southampton, Hampshire, England",Southampton,,86MB,0,0,0,1,Engineering Storkeeper
+passenger_id,Rutter, Mr. Sidney,,27,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Sangster, Mr. Charles Edward,,30,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Saunders, Mr. Thomas,,n/a,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Saunders, Mr. W.,,30,M,"Southampton, Hampshire, England",Southampton,,184MB,0,0,0,1,Fireman/Stoker
+passenger_id,Saunders, Mr. W.,,23,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+passenger_id,Scott, Mr. Archibald,,40,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Scott, Mr. Frederick,,28,M,"Southampton, Hampshire, England",Southampton,4,,0,0,0,1,Greaser
+passenger_id,Self, Mr. Alfred Henry,,40,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Greaser
+passenger_id,Self, Mr. Edward,,25,M,"Southampton, Hampshire, England",Southampton,?,,0,0,0,1,Fireman/Stoker
+passenger_id,Senior, Mr. Henry,,31,M,"London, England",Southampton,B,,0,0,0,1,Fireman/Stoker
+passenger_id,Shea, Mr. Thomas,,29,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Sheath, Mr. Frederick,,20,M,"Southampton, Hampshire, England",Southampton,1,,0,0,0,1,Trimmer
+passenger_id,Shepherd, Mr. Johnathan,,32,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Junior Assistant Second Engineer
+passenger_id,Shiers, Mr. Alfred,,24,M,"Southampton, Hampshire, England",Southampton,5,,0,0,0,1,Fireman/Stoker
+passenger_id,Shillaber, Mr. Charles,,20,M,"Southampton, Hampshire, England",Southampton,,195MB,0,0,0,1,Trimmer
+passenger_id,Skeates, Mr. William,,26,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+passenger_id,Sloan, Mr. Peter,,31,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Chief Electrician
+passenger_id,Small, Mr. William,,40,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Leading Fireman
+passenger_id,Smith, Mr. Ernest George,,27,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+passenger_id,Smith, Mr. James Muil,,35,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Junior Fourth Engineer
+passenger_id,Smither, Mr. Harry James,,22,M,"Kilburn, Middlesex, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Snellgrove, Mr. George,,41,M,"Millbrook, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Snooks, Mr. W,,26,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+passenger_id,Snowberger, Mr. Eustace Philip,,21,M,"Southampton, Hampshire, England",Southampton,B,,0,0,0,1,Trimmer
+passenger_id,Sparkman, Mr. Henry,,36,M,"Southampton, Hampshire, England",Southampton,?,,0,0,0,1,Fireman/Stoker
+passenger_id,Stafford, Mr. Michael    ,(Albert Briant),34,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Greaser
+passenger_id,Stanbrook, Mr. Augustus,,30,M,"Southampton, Hampshire, England",Southampton,,316M,0,0,0,1,Fireman/Stoker
+passenger_id,Steel, Mr. Robert Edward,,30,M,"Guernsey, Channel Islands",Southampton,,,0,1,0,1,Trimmer
+passenger_id,Stocker, Mr. Henry Dorey,,20,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+passenger_id,Street, Mr. Henry Albert,,25,M,"Southampton, Hampshire, England",Southampton,9,,0,0,0,1,Fireman/Stoker
+passenger_id,Stubbs, Mr. James Henry,,28,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Sullivan , Mr. S.,,25,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Taylor, Mr. James,,25,M,"Southampton, Hampshire, England",Southampton,1,,0,0,0,1,Fireman/Stoker
+passenger_id,Taylor, Mr. John,,32,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Taylor, Mr. T.,,42,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Taylor, Mr. William Henry,,28,M,"Southampton, Hampshire, England",Southampton,15,,0,0,0,1,Fireman/Stoker
+passenger_id,Thomas, Mr. James,,27,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Thompson, Mr. John William,,42,M,"Liverpool, England",Southampton,A/14,,0,0,0,1,Fireman/Stoker
+passenger_id,Threlfall, Mr. Thomas,,38,M,"Liverpool, England",Southampton,14,,0,0,0,1,Leading Fireman
+passenger_id,Thresher, Mr. George,,25,M,"Southampton, Hampshire, England",Southampton,?,,0,0,0,1,Fireman/Stoker
+passenger_id,Tizard, Mr. Arthur Leopold,,31,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Tozer, Mr. James,,32,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Greaser
+passenger_id,Triggs, Mr. Robert,,41,M,"Southampton, Hampshire, England",Southampton,3,,0,0,0,1,Fireman/Stoker
+passenger_id,Turley, Mr. Richard,,37,M,"Newry, Down, Ireland",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,van der Brugge, Mr. Wessel Adrianus,,42,M,"Delfshaven, Rotterdam, Netherlands",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Veal, Mr. Arthur,,36,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Greaser
+passenger_id,Vear, Mr. Henry,,32,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Vear, Mr. W.,,32,M,"Southampton, Hampshire, England",Southampton,,59MB,0,0,0,1,Fireman/Stoker
+passenger_id,Ward, Mr. Arthur,,24,M,"Romsey, England",Belfast,,,0,1,0,1,Junior Assistant Fourth Engineer
+passenger_id,Ward, Mr. Joseph,,31,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Leading Fireman
+passenger_id,Wardner, Mr. Frederick Albert,,39,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Wateridge, Mr. Edward Lewis,,25,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Watson, Mr. W.,,27,M,"Southampton, Hampshire, England",Southampton,,158MB,0,0,0,1,Fireman/Stoker
+passenger_id,Webb, Mr. Samuel Francis,,28,M,"Salford, Manchester, Lancashire, England",Southampton,,,0,1,0,1,Trimmer
+passenger_id,Webber, Mr. Francis Albert,,31,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Leading Fireman
+passenger_id,White, Mr. Alfred,,32,M,"Southampton, Hampshire, England",Southampton,4,,0,0,0,1,Greaser
+passenger_id,White, Mr. Frank Leonard,,27,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+passenger_id,White, Mr. William George,,23,M,"Salisbury, Wiltshire, England",Southampton,15,,0,0,0,1,Trimmer
+passenger_id,Williams, Mr. Samuel Solomon,,26,F,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Wilson, Mr. Bertie,,28,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Senior Assistant Second Engineer
+passenger_id,Wilton, Mr. William,,45,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+passenger_id,Witcher, Mr. Alfred,,40,M,"Lymington, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Witt, Mr. F.,,n/a,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+passenger_id,Witt, Mr. Henry Dennis,,40,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Woodford, Mr. Frederick,,41,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Greaser
+passenger_id,Wood, Mr. Henry,,31,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+passenger_id,Wyeth, Mr. James Robert,,26,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Young, Mr. Francis James,,30,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+passenger_id,Abbott, Mr. Ernest Owen,,21,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,First Class Lounge Pantry Steward
+passenger_id,Ahier, Mr. Percy Snowden,,20,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,First Class Saloon Steward
+passenger_id,Akerman, Mr. Albert,,28,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Third ClasseSteward
+passenger_id,Akerman, Mr. Joseph Francis,,35,M,"Southampton, Hampshire, England",Southampton,,205MB,0,0,0,1,Asst. Pantry Steward
+passenger_id,Allan, Mr. Robert Spencer,,36,M,"Shirley, Hampshire, England",Southampton,,,0,1,0,1,First Class Bedroom Steward
+passenger_id,Allen, Mr. George,,26,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Scullion
+passenger_id,Allen, Mr. Frederick,,17,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Lift Steward
+passenger_id,Allsop, Mr. Frank Richard,,41,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Bedroom Steward
+passenger_id,Anderson, Mr. Walter J.,,48,M,"Southampton, Hampshire, England",Southampton,,146MB,0,0,0,1,Bedroom Steward
+passenger_id,Andrews, Mr. Charles Edward,,19,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Assistant Second Class Saloon Steward
+passenger_id,Ashcroft, Mr. Austin Aloysius,,26,M,"Seacombe, Cheshire, England",Southampton,,,0,1,0,1,Clerk
+passenger_id,Ashe, Mr. Henry Wellesley,,32,M,"Liverpool, Lancashire, England",Southampton,,34MB,0,0,0,1,Glory Hole Steward
+passenger_id,Ayling, Mr. George Edwin,,22,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Assistant Vegetable Cook
+passenger_id,Back, Mr. Charles Frederick,,32,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Assistant Lounge Steward
+passenger_id,Baggott, Mr. Allen Marden,,28,M,"Itchen, Hampshire, England",Southampton,,,0,0,0,1,First Class Saloon Steward
+passenger_id,Bagley, Mr. Edward Ernest,,31,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,First Class Saloon Steward
+passenger_id,Bailey, Mr. George Francis,,36,M,"Shepperton, London, England",Belfast,,161MB,0,0,0,1,Second Class Saloon Steward
+passenger_id,Ball, Mr. Percy,,19,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,First Class Plate Steward
+passenger_id,Barker, Mr. Albert Vale,,19,M,"Winchester, Hampshire, England",Southampton,,,0,1,0,1,Assistant Baker
+passenger_id,Barker, Mr. Ernest T.,,37,M,"London, England",Southampton,,159MB,0,0,0,1,First Class Saloon Steward
+passenger_id,Barker, Mr. Reginald Lomond,,40,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,AssistantePurser
+passenger_id,Barlow, Mr. George,,36,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Second Class Bedroom Steward
+passenger_id,Barnes, Mr. Frederick,,37,M,"Southampton, Hampshire, England",Southampton,,26{?}MB[19],0,0,0,1,Assistant Baker
+passenger_id,Barratt, Mr. Arthur,,15,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Bell Boy
+passenger_id,Barringer, Mr. Arthur William,,33,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,First Class Saloon Steward
+passenger_id,Barrow, Mr. Harry,,35,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Assistant Butcher
+passenger_id,Barrows, Mr. William,,32,M,"London, England",Southampton,,,0,1,0,1,First Class Saloon Steward
+passenger_id,Barton, Mr. Sidney John,,25,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Third Class Steward
+passenger_id,Baxter, Mr. Harry Ross,,51,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Third Class Steward
+passenger_id,Baxter, Mr. Thomas Ferguson,,48,M,"Southampton, Hampshire, England",Southampton,,235MB,0,0,0,1,Linen Steward
+passenger_id,Bedford, Mr. William Barnet,,31,M,"Itchen, Hampshire, England",Southampton,,,0,1,0,1,Assistant Roast Cook
+passenger_id,Beedem, Mr. George Arthur,,34,M,"London, England",Southampton,,,0,1,0,1,Second Class Bedroom Steward
+passenger_id,Beere, Mr. William,,19,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Kitchen Porter
+passenger_id,Benham, Mr. Frederick,,29,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Second Class Saloon Steward
+passenger_id,Bennett, Mrs Mabel,,30,F,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,First Class Stewardess
+passenger_id,Bessant, Mr. Edward William,,31,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Baggage Steward
+passenger_id,Best, Mr. Alfred,,38,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,First Class Saloon Steward
+passenger_id,Blake, Mr. Seaton,,26,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Mess Steward
+passenger_id,Bishop, Mr. Walter Alexander,,34,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,First Class Bedroom Steward
+passenger_id,Bliss, Mrs. Emma    ,(nee Junod),45,M,"London, England",Southampton,,,0,0,0,1,First Class Stewardess
+passenger_id,Bochatay, Mr. Alexis Joseph,,30,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Assistant Chef
+passenger_id,Bogie, Mr. Norman Leslie,,29,M,"Eastleigh, Hampshire, England",Southampton,,274MB,0,0,0,1,Second Class Bedroom Steward
+passenger_id,Bond, Mr. William John,,40,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,First Class Bedroom Steward
+passenger_id,Boothby, Mr. W.,,36,M,"Southampton, Hampshire, England",Southampton,,107MB,0,0,0,1,Second Class Bedroom Steward
+passenger_id,Boston, Mr. William John,,30,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Assistant Deck Steward
+passenger_id,Boughton, Mr. B.,,24,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,First Class Saloon Steward
+passenger_id,Boyd, Mr. John,,35,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,First Class Saloon Steward
+passenger_id,Boyes, Mr. John Henry,,36,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,First Class Saloon Steward
+passenger_id,Bradshaw, Mr. J.A.,,43,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,First Class Plate Steward
+passenger_id,Brewster, Mr. George H.,,48,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,First Class Bedroom Steward
+passenger_id,Bride, Mr. Harold Sydney,,22,M,"Southampton, Hampshire, England",Belfast,,,0,0,0,1,Assistant Telegraphist
+passenger_id,Bristow, Mr. Robert Charles,,31,M,"Southampton, Hampshire, England",Southampton,,290MB,0,1,0,1,Third Class Steward
+passenger_id,Bristow, Mr. Harry,,33,M,"Looe, Cornwall",Southampton,,,0,1,0,1,First Class Saloon Steward
+passenger_id,Brookman, Mr,,27,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Third Class Steward
+passenger_id,Broom, Mr. H.,,33,M,"Cowes, Isle of Wight, England",Belfast,,,0,1,0,1,Bath Steward
+passenger_id,Broome, Mr. Athol Frederick,,30,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Verandah Steward
+passenger_id,Brown, Mr. Edward,,34,M,"Southampton, Hampshire, England",Belfast,,,0,0,0,1,Saloon Steward
+passenger_id,Brown, Mr. Walter James,,28,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Saloon Steward
+passenger_id,Buckley, Mr. H.E.,,34,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Assistant Vegetable Cook
+passenger_id,Bull, Mr. W.,,30,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Scullion
+passenger_id,Bulley, Mr. Henry Ashburnham,,21,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Boots
+passenger_id,Bunnell, Mr. Wilfred,,20,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Plate Steward
+passenger_id,Burgess, Mr. Charles Reginald,,18,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Extra Third Baker
+passenger_id,Burke, Mr. Richard Edward,,30,M,"Chandler's Ford, Hampshire, England",Belfast,,,0,1,0,1,Lounge Steward
+passenger_id,Burke, Mr. William,,31,M,"Southampton, Hampshire, England",Belfast,,,0,0,0,1,Saloon Steward
+passenger_id,Burr, Mr. Ewart,,29,M,"Woolston, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+passenger_id,Burrage, Mr. Alfred,,20,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Plate Steward
+passenger_id,Butt, Mr. Robert Henry,,22,M,"Southampton, Hampshire, England",Southampton,,10MB,0,0,0,1,Saloon Steward
+passenger_id,Butterworth, Mr. John,,23,M,"Southampton, Hampshire, England",Southampton,,116MB,0,0,0,1,Saloon Steward
+passenger_id,Byrne, Mr. J.E.,,31,M,"Ilford, London, England",Southampton,,,0,1,0,1,Bedroom Steward
+passenger_id,Campbell, Mr. Donald S.,,25,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Third Class Clerk
+passenger_id,Carney, Mr. William,,31,M,"Liverpool, Lancashire, England",Southampton,,251MB,0,0,0,1,Lift Steward
+passenger_id,Cartwright, Mr. James Edward,,32,M,"Southampton, Hampshire, England",Belfast,,320M,0,0,0,1,Saloon Steward
+passenger_id,Casswill, Mr. Charles,,32,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+passenger_id,Caton, Miss Annie,,50,F,"London, England",Southampton,,,0,0,0,1,Turkish Bath Stewardess
+passenger_id,Caunt, Mr. William Ewart,,27,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Grill Cook
+passenger_id,Cave, Mr. Herbert,,34,M,"Southampton, Hampshire, England",Belfast,,218MB,0,0,0,1,Saloon Steward
+passenger_id,Cecil, Mr. C.,,20,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Steward
+passenger_id,Chapman, Mr. Joseph Charles,,32,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Boots
+passenger_id,Charman, Mr. John,,25,M,"Southampton, Hampshire, England",Southampton,,185{?}MB[20],0,0,0,1,Saloon Steward
+passenger_id,Cheverton, Mr. William Edward,,27,M,"Newport, Pembrokeshire, Wales",Belfast,,334I,0,0,0,1,Saloon Steward
+passenger_id,Chitty, Mr. Archibald George,,28,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Steward
+passenger_id,Chitty, Mr. George Henry,,52,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Baker
+passenger_id,Christmas, Mr. H.,,33,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Assistant Saloon Steward
+passenger_id,Coleman, Mr. Albert Edward,,28,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+passenger_id,Coleman, Mr. John,,57,M,"Itchen, Hampshire, England",Southampton,,112{?}MB[20],0,0,0,1,Mess Steward
+passenger_id,Colgan, Mr. E. Joseph,,33,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Scullion
+passenger_id,Collins, Mr. John,,17,M,"Belfast, Ireland",Southampton,,,0,0,0,1,Scullion
+passenger_id,Conway, Mr. P.W.,,25,M,"London, England",Belfast,,,0,1,0,1,Saloon Steward
+passenger_id,Cook, Mr. George,,42,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+passenger_id,Coombs, Mr. Augustus Charles,,38,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Cook
+passenger_id,Corben, Mr. Ernest Theodore,,27,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Assistant Printer Steward
+passenger_id,Coutin, Mr. Auguste Louis,,28,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Entree Cook
+passenger_id,Cox, Mr. William Denton,,29,M,"Southampton, Hampshire, England",Southampton,,300MB,0,0,0,1,Steward
+passenger_id,Crafter, Mr. Frederick,,27,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Saloon Steward
+passenger_id,Crawford, Mr. Alfred,,36,M,"Southampton, Hampshire, England",Belfast,,,0,0,0,1,Bedroom Steward
+passenger_id,Crisp, Mr. Albert Hector,,35,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Saloon Steward
+passenger_id,Crispin, Mr. William,,32,M,"Eastleigh, Hampshire, England",Southampton,,,0,1,0,1,Glory Hole Steward
+passenger_id,Crosby, Mr. J. Bertram,,42,M,"London, England",Southampton,,,0,1,0,1,Turkish Bath Attendant
+passenger_id,Crowe, Mr. George Frederick,,30,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Saloon Steward
+passenger_id,Crumplin, Mr. Charles,,35,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Bedroom Steward
+passenger_id,Cullen, Mr. Charles,,45,M,"Southampton, Hampshire, England",Belfast,,,0,0,0,1,Bedroom Steward
+passenger_id,Cunningham, Mr. Andrew,,35,M,"Southampton, Hampshire, England",Belfast,,,0,0,0,1,Bedroom Steward
+passenger_id,Daniels, Mr. Sidney Edward,,18,M,"Southsea, Hampshire, England",Southampton,,,0,0,0,1,Steward
+passenger_id,Dashwood, Mr. William George,,19,M,"Southampton, Hampshire, England",Southampton,,83MB,0,0,0,1,Saloon Steward
+passenger_id,Davies, Mr. Gordon Raleigh,,33,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Bedroom Steward
+passenger_id,Davies, Mr. John James,,27,M,"Southampton, Hampshire, England",Belfast,,200MB,0,0,0,1,Extra 2nd Baker
+passenger_id,Davies, Mr. Robert J.,,26,M,"Southampton, Hampshire, England",Belfast,,191MB,0,0,0,1,Saloon Steward
+passenger_id,Dean, Mr. George H.,,19,M,"Southampton, Hampshire, England",Southampton,,252MB,0,0,0,1,Assistant Saloon Steward
+passenger_id,Deeble, Mr. Alfred Arnold,,29,M,"Southampton, Hampshire, England",Belfast,,270MB,0,0,0,1,Saloon Steward
+passenger_id,Derrett, Mr. Albert,,26,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Saloon Steward
+passenger_id,Deslands, Mr. Percival Stainer,,36,M,"Southampton, Hampshire, England",Southampton,,212MB,0,0,0,1,Saloon Steward
+passenger_id,Desvernine, Mr. Louis Gabriel,,20,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Assistant Pastry Cook
+passenger_id,Dinenage, Mr. James Richard,,47,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+passenger_id,Dodd, Mr. George Charles,,44,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Steward
+passenger_id,Dolby, Mr. Joseph,,36,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Reception Room Steward
+passenger_id,Donoghue, Mr. Frank,,35,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Bedroom Steward
+passenger_id,Doughty, Mr. W.,,22,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+passenger_id,Dunford, Mr. William,,41,M,"Southampton, Hampshire, England",Southampton,,71MB,0,0,0,1,Hospital Steward
+passenger_id,Dyer, Mr. William,,31,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+passenger_id,Edbrooke, Mr. F.,,24,M,"Portsmouth, Hampshire, England",Southampton,,,0,1,0,1,Steward
+passenger_id,Ede, Mr. George B.,,22,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Steward
+passenger_id,Edge, Mr. Frederick William,,37,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Deck Steward
+passenger_id,Edwards, Mr. Clement,,38,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Assistant Pantryman Steward
+passenger_id,Egg, Mr. W.H.,,34,M,"London, England",Southampton,,,0,1,0,1,Steward
+passenger_id,Ellis, Mr. John Bertram,,30,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Assistant Vegetable Cook
+passenger_id,Ennis, Mr. Walter,,35,M,"Southport, Lancashire, England",Southampton,,,0,1,0,1,Turkish Bath Attendant
+passenger_id,Etches, Mr. Henry Samuel,,41,M,"Southampton, Hampshire, England",Belfast,,,0,0,0,1,Bedroom Steward
+passenger_id,Evans, Mr. George Richard,,32,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Saloon Steward
+passenger_id,Fairall, Mr. Henry,,38,M,"Ryde, Isle of Wight, England",Belfast,,,0,1,0,1,Saloon Steward
+passenger_id,Farrenden, Mr. Ernest John,,32,M,"Emsworth, Hampshire, England",Belfast,,,0,1,0,1,Confectioner
+passenger_id,Faulkner, Mr. William Stephen,,37,M,"Southampton, Hampshire, England",Belfast,,,0,0,0,1,Bedroom Steward
+passenger_id,Fellowes, Mr. Alfred J.,,29,M,"Southampton, Hampshire, England",Belfast,,138MB,0,0,0,1,Boots
+passenger_id,Feltham, Mr. G.,,36,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Vienna Baker
+passenger_id,Finch, Mr. Harry,,18,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Steward
+passenger_id,Fletcher, Mr. Peter W.,,26,M,"Sholing, Hampshire, England",Belfast,,,0,1,0,1,Bugler Steward
+passenger_id,Foley, Mr. William C.,,26,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Steward
+passenger_id,Ford, Mr. Ernest,,32,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Steward
+passenger_id,Ford, Mr. F.,,37,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Bedroom Steward
+passenger_id,Fox, Mr. William Thomas,,27,M,"Ealing, London, England",Southampton,,214{?}MB[20],0,0,0,1,Steward
+passenger_id,Franklin, Mr. Alan Vincent,,29,M,"Southampton, Hampshire, England",Southampton,,262MB,0,0,0,1,Saloon Steward
+passenger_id,Freeman, Mr. Ernest Edward Samuel,,43,M,"Southampton, Hampshire, England",Belfast,,239MB,0,0,0,1,Deck Steward
+passenger_id,Geddes, Mr. Richard Charles,,31,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Bedroom Steward
+passenger_id,Gibbons, Mr. Jacob William,,36,M,"Studland, Dorset, England",Southampton,,,0,0,0,1,Saloon Steward
+passenger_id,Giles, Mr. John Robert,,30,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Baker
+passenger_id,Gill, Mr. Joseph Stanley,,34,M,"Southampton, Hampshire, England",Belfast,,49MB,0,0,0,1,Bedroom Steward
+passenger_id,Gill, Mr. Patrick,,38,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Ship's Cook
+passenger_id,Gold, Mrs. Katherine    ,(nee Cook),42,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Stewardess
+passenger_id,Gollop, Mr. F.,,28,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Assistant Passage Cook
+passenger_id,Goshawk, Mr. Arthur James,,31,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Third Saloon Steward
+passenger_id,Gregson, Miss Mary,,44,F,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Stewardess
+passenger_id,Gunn, Mr. Joseph Alfred,,28,M,"Southampton, Hampshire, England",Southampton,,125{?}MB[20],0,0,0,1,Assistant Saloon Steward
+passenger_id,Guy, Mr. Edward John,,28,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Boots
+passenger_id,Halford, Mr. Richard,,22,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Steward
+passenger_id,Hall, Mr. F.A.J.,,38,M,"London, England",Southampton,,,0,1,0,1,Scullion
+passenger_id,Hamblyn, Mr. Ernest William,,41,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Bedroom Steward
+passenger_id,Hamilton, Mr. Ernest,,25,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Assistant Smoke Room Steward
+passenger_id,Harding, Mr. A.,,20,M,"Swaythling, Hampshire, England",Southampton,,,0,1,0,1,Assistant Pantry Steward
+passenger_id,Hardwick, Mr. Reginald,,21,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Kitchen Porter
+passenger_id,Hardy, Mr. John T.,,37,M,"Southampton, Hampshire, England",Belfast,,,0,0,0,1,Chief 2nd Class Steward
+passenger_id,Harris, Mr. Charles William,,19,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+passenger_id,Harris, Mr. Clifford Henry,,16,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Bell Boy
+passenger_id,Harris, Mr. Edward,,18,M,"Winchester, Hampshire, England",Southampton,,,0,1,0,1,Assistant Pantryman Steward
+passenger_id,Harrison, Mr. Aragon D.,,40,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Saloon Steward
+passenger_id,Hart, Mr. John Edward,,31,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Third Class Steward
+passenger_id,Hartnell, Mr. Frederick,,21,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Saloon Steward
+passenger_id,Hatch, Mr. Hugh,,22,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Scullion
+passenger_id,Hawkesworth, Mr. James,,38,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+passenger_id,Hawkesworth, Mr. William Walter,,38,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Deck Steward
+passenger_id,Hayter, Mr. Arthur,,44,M,"Southampton, Hampshire, England",Belfast,,25MB,0,0,0,1,Bedroom Steward
+passenger_id,Heinen, Mr. Joseph,,30,M,"Lewisham, London, England",Southampton,,,0,1,0,1,Saloon Steward
+passenger_id,Hendy, Mr. Edward Martin,,38,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Saloon Steward
+passenger_id,Hensford, Mr. Herbert George,,29,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Butcher
+passenger_id,Hewett, Mr. Thomas,,37,M,"Liverpool, Lancashire, England",Belfast,,168MB,0,0,0,1,Bedroom Steward
+passenger_id,Hill, Mr. H.P.,,36,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Steward
+passenger_id,Hill, Mr. James Colston,,38,M,"Southampton, Hampshire, England",Belfast,,152MB,0,0,0,1,Bedroom Steward
+passenger_id,Hinckley, Mr. George,,35,M,"Southampton, Hampshire, England",Southampton,,66MB,0,0,0,1,Bath Steward
+passenger_id,Hine, Mr. William Edward,,36,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Baker
+passenger_id,Hiscock, Mr. S.,,22,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Plate Steward
+passenger_id,Hoare, Mr. Leonard James,,21,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Saloon Steward
+passenger_id,Hogg, Mr. Charles William,,37,M,"Liverpool, Lancashire, England",Southampton,,,0,1,0,1,Bedroom Steward
+passenger_id,Hogue, Mr. E.,,22,M,"London, England",Southampton,,,0,1,0,1,Plate Steward
+passenger_id,Holland, Mr. Thomas,,28,M,"Liverpool, Lancashire, England",Belfast,,,0,1,0,1,Reception Steward
+passenger_id,Holloway, Mr. Sidney,,20,M,"Southampton, Hampshire, England",Southampton,,273MB,0,0,0,1,Clothes Presser
+passenger_id,Hopkins, Mr. F.,,16,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Plate Steward
+passenger_id,House, Mr. William,,38,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Saloon Steward
+passenger_id,Howell, Mr. Arthur Albert,,31,M,"Itchen, Hampshire, England",Belfast,,319M,0,0,0,1,Saloon Steward
+passenger_id,Hughes, Mr. William Thomas,,33,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Steward
+passenger_id,Humby, Mr. Frederick,,16,M,"Southampton, Hampshire, England",Southampton,,237[?]MB,0,0,0,1,Plate Steward
+passenger_id,Humphreys, Mr. Thomas Humphrey,,31,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Assistant Saloon Steward
+passenger_id,Hutchinson, Mr. James,,29,M,"Liverpool, Lancashire, England",Southampton,,250MB,0,0,0,1,Vegetable Cook
+passenger_id,Hyland, Mr. Leo James,,19,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Steward
+passenger_id,Ide, Mr. Harry John,,32,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Bedroom Steward
+passenger_id,Ingrouille, Mr. Henry,,21,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Steward
+passenger_id,Ings, Mr. William Ernest,,20,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Scullion
+passenger_id,Jackson, Mr. Cecil,,29,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Boots
+passenger_id,Janaway, Mr. William Frank,,35,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Bedroom Steward
+passenger_id,Jenner, Mr. Harry,,41,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Saloon Steward
+passenger_id,Jensen, Mr. Charles Valdemar,,25,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+passenger_id,Jessop, Miss Violet Constance,,24,F,"London, England",Southampton,,,0,0,0,1,Stewardess
+passenger_id,Johnson Thorne, Mr. Harry,,25,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Assistant Ship's Cook
+passenger_id,Johnston, Mr. James,,41,M,"Southampton, Hampshire, England",Belfast,,,0,0,0,1,Saloon Steward
+passenger_id,Jones, Mr. Albert,,17,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+passenger_id,Jones, Mr. Arthur Ernest,,38,M,"Woolston, Hampshire, England",Southampton,,,0,1,0,1,Plate Steward
+passenger_id,Jones, Mr. H.,,29,M,"Alresford, Essex, England",Southampton,,,0,1,0,1,Roast Cook
+passenger_id,Jones, Mr. Reginald V.,,20,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+passenger_id,Joughin, Mr. Charles John,,32,M,"Southampton, Hampshire, England",Belfast,,,0,0,0,1,Chief Baker
+passenger_id,Keen, Mr. Percy Edward,,28,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Saloon Steward
+passenger_id,Kelland, Mr. Thomas,,21,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Library Steward
+passenger_id,Kennell, Mr. Charles,,30,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Hebrew Cook
+passenger_id,Kerley, Mr. William Thomas,,28,M,"Salisbury, Wiltshire, England",Southampton,,333O,0,0,0,1,Assistant Saloon Steward
+passenger_id,Ketchley, Mr. Henry,,30,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Saloon Steward
+passenger_id,Kieran, Mr. James W.,,32,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Chief 3rd Class Steward
+passenger_id,Kieran, Mr. Michael,,31,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Storekeeper
+passenger_id,King, Mr. Alfred,,18,M,"Southampton, Hampshire, England",Southampton,,238MB,0,0,0,1,Lift Steward
+passenger_id,King, Mr. Ernest Waldron,,28,M,"Clones, Monaghan, Ireland",Southampton,,321M,0,1,0,1,Clerk
+passenger_id,King, Mr. G.,,20,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Scullion
+passenger_id,Kingscote, Mr. William Ford,,43,M,"Freemantle, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+passenger_id,Kirkaldy, Mr. Thomas,,37,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Bedroom Steward
+passenger_id,Kitching, Mr. Arthur Alfred,,30,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+passenger_id,Klein, Mr. Herbert,,33,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Second Class Barber
+passenger_id,Knight, Mr. George,,44,M,"Woolston, Hampshire, England",Southampton,,,0,0,0,1,Saloon Steward
+passenger_id,Knight, Mr. Leonard George,,21,M,"Bishopstoke, Hampshire, England",Southampton,,,0,1,0,1,Steward
+passenger_id,Lacey, Mr. Bert W.,,21,M,"Salisbury, Wiltshire, England",Southampton,,44{?}MB[21],0,0,0,1,Assistant Saloon Steward
+passenger_id,Lake, Mr. William,,35,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Saloon Steward
+passenger_id,Lane, Mr. Albert Edward,,34,M,"Woolston, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+passenger_id,Latimer, Mr. Andrew L.,,55,M,"Liverpool, Lancashire, England",Belfast,,,0,1,0,1,Chief First Class Steward
+passenger_id,Lavington, Miss Bessie,,39,F,"Winchester, Hampshire, England",Southampton,,,0,0,0,1,Stewardess
+passenger_id,Lawrence, Mr. Arthur,,25,M,"Rochford, Essex, England",Belfast,,90MB,0,0,0,1,Saloon Steward
+passenger_id,Leader, Mr. Archie,,22,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Confectioner
+passenger_id,Leather, Mrs Elizabeth May,,41,F,"Liverpool, Lancashire, England",Southampton,,,0,0,0,1,Stewardess
+passenger_id,Lefebvre, Mr. Paul Georges,,35,M,"Southampton, Hampshire, England",Southampton,,211v,0,0,0,1,Saloon Steward
+passenger_id,Leonard, Mr. Matthew,,26,M,"Belfast, Ireland",Belfast,,,0,1,0,1,Steward
+passenger_id,Levett, Mr. George Alfred,,21,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Assistant Pantryman
+passenger_id,Lewis, Mr. Arthur Ernest,,27,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Steward
+passenger_id,Light, Mr. C.,,23,M,"Christchurch, Dorset, England",Southampton,,,0,1,0,1,Plate Steward
+passenger_id,Littlejohn, Mr. Alexander James,,40,M,"Southampton, Hampshire, England",Belfast,,,0,0,0,1,Saloon Steward
+passenger_id,Lloyd, Mr. Humphrey,,32,M,"Southampton, Hampshire, England",Belfast,,57MB,0,0,0,1,Saloon Steward
+passenger_id,Locke, Mr. A.,,33,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Scullion
+passenger_id,Longmuir, Mr. John Dickson,,19,M,"Eastleigh, Hampshire, England",Southampton,,,0,1,0,1,Assistant Pantry Steward
+passenger_id,Lovell, Mr. John,,38,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Grill Cook
+passenger_id,Lucas, Mr. William,,34,M,"Southampton, Hampshire, England",Belfast,,,0,0,0,1,Saloon Steward
+passenger_id,Lydiatt, Mr. Charles,,38,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+passenger_id,Mabey, Mr. J.,,23,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Steward
+passenger_id,Mackay, Mr. Charles Donald,,34,M,"Southampton, Hampshire, England",Belfast,,,0,0,0,1,Saloon Steward
+passenger_id,Mackie, Mr. George William,,34,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Bedroom Steward
+passenger_id,Major, Mr. Thomas Edgar,,35,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Bath Steward
+passenger_id,Mantle, Mr. Roland Frederick,,36,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Steward
+passenger_id,Marks, Mr. J.,,26,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Assistant Pantryman Steward
+passenger_id,Marriott, Mr. J.W.,,20,M,"Southampton, Hampshire, England",Southampton,,2MB,0,0,0,1,Assistant Pantryman Steward
+passenger_id,Marsden, Miss Evelyn,,28,F,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Stewardess
+passenger_id,Martin, Mrs. Annie,,33,M,"Portsmouth, Hampshire, England",Southampton,,,0,0,0,1,Stewardess
+passenger_id,Martin, Mr. F.,,29,M,"Fareham, Hampshire, England",Southampton,,,0,0,0,1,Scullion
+passenger_id,Maynard, Mr. Isaac Hiram,,31,M,"Southampton, Hampshire, England",Belfast,,,0,0,0,1,Entre Cook
+passenger_id,Maytum, Mr. Alfred,,52,M,"Southampton, Hampshire, England",Belfast,,141MB,0,0,0,1,Chief Butcher
+passenger_id,McCarthy, Mr. Frederick,,36,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Bedroom Steward
+passenger_id,McCawley, Mr. Thomas W.,,36,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Gymnasium Steward
+passenger_id,McElroy, Mr. Hugh Walter,,37,M,"Southampton, Hampshire, England",Southampton,,157MB,0,0,0,1,Purser
+passenger_id,McGrady, Mr. James,,27,M,"Southampton, Hampshire, England",Southampton,,330A,0,0,0,1,Saloon Steward
+passenger_id,McLaren, Mrs.,,40,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Stewardess
+passenger_id,Mamacken, Mr. Arthur,,23,M,"Southampton, Hampshire, England",Belfast,,,0,0,0,1,Saloon Steward
+passenger_id,Mamacken, Mr. Benjamin Tucker,,21,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Second Pantry Steward
+passenger_id,Mamallin, Mr. James,,31,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Saloon Steward
+passenger_id,Mamarray, Mr. William Ernest,,43,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Bedroom Steward
+passenger_id,Mellor, Mr. Arthur,,34,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+passenger_id,Middleton, Mr. M.V.,,24,M,"London, England",Southampton,,,0,1,0,1,Saloon Steward
+passenger_id,Mills, Mr. Christopher,,51,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Butcher
+passenger_id,Mishellamy, Mr. Abraham,,52,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Printer Steward
+passenger_id,Moore, Mr. Alfred Ernest,,39,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+passenger_id,Morgan    #(Bird), Mr. Charles Frederick,,42,M,"Birkenhead, Cheshire, England",Southampton,,,0,1,0,1,Assistant Storekeeper
+passenger_id,Morris, Mr. Frank Herbert,,28,M,"Southampton, Hampshire, England",Belfast,,,0,0,0,1,Bathroom Steward
+passenger_id,Moss, Mr. William,,34,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,First Saloon Steward
+passenger_id,Mullen, Mr. Thomas A.,,20,M,"Maxwelltown, Dumfries, Scotland",Southampton,,323M,0,0,0,1,Steward
+passenger_id,Neal, Mr. Henry,,25,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Baker
+passenger_id,Nicholls, Mr. Sidney,,39,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+passenger_id,Nichols, Mr. A. D.,,34,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Steward
+passenger_id,Nichols, Mr. Walter Henry,,35,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Steward
+passenger_id,O'Connor, Mr. Thomas Peter,,39,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Bedroom Steward
+passenger_id,Olive, Mr. Ernest Roskelly,,28,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Clothes Presser Steward
+passenger_id,Orpet, Mr. Walter Hayward,,31,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+passenger_id,Orr, Mr. J.,,40,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Assistant Vegetable Cook
+passenger_id,Osbourne, Mr. William Edward,,32,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Saloon Steward
+passenger_id,Owen, Mr. Lewis,,49,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Assistant Saloon Steward
+passenger_id,Pacey, Mr. Reginald Ivan,,17,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Lift Steward
+passenger_id,Paintin, Mr. James Arthur,,29,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Captain's Steward
+passenger_id,Parsons, Mr. Edward,,35,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Chief Storekeeper
+passenger_id,Parsons, Mr. Richard,,18,M,"Ashbrittle, Somerset, England",Southampton,,,0,1,0,1,Saloon Steward
+passenger_id,Pearce, Mr. Alfred Ernest,,24,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Steward
+passenger_id,Pearcey, Mr. Albert Victor,,32,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Steward
+passenger_id,Pennal, Mr. Thomas Francis,,33,M,"Shirley, Hampshire, Hampshire, England",Southampton,,,0,1,0,1,Bath Steward
+passenger_id,Penny, Mr. William Far,,30,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Assistant Saloon Steward
+passenger_id,Penrose, Mr. John Poole,,49,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Bedroom Steward
+passenger_id,Perkins, Mr. Laurence Alexander,,22,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Telephone Steward
+passenger_id,Perrin, Mr. William Charles,,39,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Boots Steward
+passenger_id,Perriton, Mr. Hubert Prouse,,31,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+passenger_id,Petty, Mr. Edwin Henry,,25,M,"Southampton, Hampshire, England",Southampton,,82MB,0,0,0,1,Bedroom Steward
+passenger_id,Pfropper, Mr. Richard,,30,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Saloon Steward
+passenger_id,Phillimore, Mr. Harold Charles William,,23,M,"Southampton, Hampshire, England",Belfast,,,0,0,0,1,Saloon Steward
+passenger_id,Phillips," Mr. John George ""Jack""",,25,M,"Godalming, Surrey, England",Belfast,,,0,1,0,1,Telegraphist
+passenger_id,Platt, Mr. W.,,18,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Scullion
+passenger_id,Pook, Mr. P.,,34,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Assistant Pantry
+passenger_id,Port, Mr. Frank,,32,M,"Southampton, Hampshire, England",Belfast,,,0,0,0,1,Steward
+passenger_id,Porteus, Mr. Thomas,,32,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Butcher
+passenger_id,Prentice, Mr. Frank Winnold,,22,M,"Southampton, Hampshire, England",Belfast,,,0,0,0,1,Storekeeper
+passenger_id,Prichard, Mrs. Alice,,33,M,"Southampton, Hampshire, England",Belfast,,,0,0,0,1,Stewardess
+passenger_id,Prideaux," Mr. John Arthur ""Jack""",,23,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Steward
+passenger_id,Prior, Mr. Harold John,,21,M,"Southampton, Hampshire, England",Belfast,,,0,0,0,1,Steward
+passenger_id,Proctor, Mr. Charles,,40,M,"Liverpool, Lancashire, England",Belfast,,,0,1,0,1,Chef
+passenger_id,Pryce, Mr. Charles William,,22,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+passenger_id,Pugh, Mr. Alfred,,20,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Steward
+passenger_id,Puzey, Mr. John E.,,35,M,"Itchen, Hampshire, England",Belfast,,,0,1,0,1,Saloon Steward
+passenger_id,Randall, Mr. Frank Henry,,27,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+passenger_id,Ransom, Mr. James,,33,M,"Bristol, Avon, England",Belfast,,,0,1,0,1,Saloon Steward
+passenger_id,Rattonbury, Mr. William Henry,,36,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Assistant Boots Steward
+passenger_id,Ray, Mr. Frederick Dent,,32,M,"Southampton, Hampshire, England",Belfast,,,0,0,0,1,Saloon Steward
+passenger_id,Reed, Mr. Charles S.,,43,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Bedroom Steward
+passenger_id,Revell, Mr. William,,31,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Saloon Steward
+passenger_id,Rice, Mr. John Reginald,,25,M,"Crosby, Lancashire, England",Southampton,,64MB,0,0,0,1,Clerk
+passenger_id,Rice, Mr. John Reginald,,25,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Steward
+passenger_id,Ricks, Mr. Cyril G.,,23,M,"Southampton, Hampshire, England",Southampton,,100MB,0,0,0,1,Storekeeper
+passenger_id,Ridout, Mr. W.,,29,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+passenger_id,Rimmer, Mr. Gilbert,,27,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+passenger_id,Roberton, Mr. George Edward,,19,M,"Southampton, Hampshire, England",Southampton,,127MB,0,0,0,1,Assistant Saloon Steward
+passenger_id,Roberts, Mr. Frank John,,36,M,"Farnborough, Hampshire, England",Belfast,,231MB,0,0,0,1,Third Butcher
+passenger_id,Roberts, Mr. Hugh H.,,40,M,"Bootle, Lancashire, England",Southampton,,93MB,0,0,0,1,Bedroom Steward
+passenger_id,Roberts, Mrs. Mary Kezziah    ,(nee Humphrys),41,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Saloon Steward
+passenger_id,Robinson, Mrs. Annie,,40,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Stewardess
+passenger_id,Robinson, Mr. James William,,30,M,"Southampton, Hampshire, England",Southampton,,151MB,0,0,0,1,Saloon Steward
+passenger_id,Rogers, Mr. Edward James William,,32,M,"Southampton, Hampshire, England",Southampton,,282MB,0,0,0,1,Assistant Storekeeper
+passenger_id,Rogers, Mr. Michael,,27,M,"Winchester, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+passenger_id,Ross, Mr. Horace Leopold,,36,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Scullion
+passenger_id,Rowe, Mr. Edward M.,,31,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Saloon 1st Class Steward
+passenger_id,Rule, Mr. Samuel James,,58,M,"Southampton, Hampshire, England",Belfast,,,0,0,0,1,Bathroom Steward
+passenger_id,Russell, Mr. Boysie Richard,,17,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+passenger_id,Ryan, Mr. Tom,,27,M,"Southampton, Hampshire, England",Southampton,,264{?}MB[22],0,0,0,1,Third Class Steward
+passenger_id,Ryerson, Mr. William Edwy,,32,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Saloon Steward
+passenger_id,Samuel, Mr. Owen Wilmore,,41,M,"Southampton, Hampshire, England",Southampton,,217MB,0,0,0,1,Saloon Steward
+passenger_id,Saunders, Mr. D. E.,,26,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+passenger_id,Savage, Mr. Charles J.,,23,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Saloon Steward
+passenger_id,Scott, Mr. John,,21,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Boots Steward
+passenger_id,Scovell, Mr. Robert,,42,M,"Freemantle, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+passenger_id,Sedunary, Mr. Sidney Francis,,25,M,"Southampton, Hampshire, England",Southampton,,178MB,0,0,0,1,Third Class Steward
+passenger_id,Shea, Mr. John,,39,M,"Southampton, Hampshire, England",Belfast,,11MB,0,0,0,1,Saloon Steward
+passenger_id,Slight, Mr. Harry John,,35,M,"Southampton, Hampshire, England",Southampton,,21{?}MB[20],0,0,0,1,Steward
+passenger_id,Sloan, Miss Mary,,28,F,"Belfast, Northern Ireland",Southampton,,,0,0,0,1,Stewardess
+passenger_id,Slocombe, Mrs Maud    ,(nee Waldon),30,F,"London, England",Southampton,,,0,0,0,1,Turkish Bath Stewardess
+passenger_id,Smillie, Mr. John,,38,M,"Southampton, Hampshire, England",Belfast,,91MB,0,0,0,1,Saloon Steward
+passenger_id,Smith, Mr. Charles Edward,,38,M,"Southampton, Hampshire, England",Southampton,,329MM,0,0,0,1,Bed Room Steward
+passenger_id,Smith, Mr. F,,20,M,"Southampton, Hampshire, England",Southampton,,240{?}MBSee[20],0,0,0,1,Assistant Pantryman Steward
+passenger_id,Smith, Miss Katherine E.,,42,F,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Stewardess
+passenger_id,Snape, Mrs Lucy Violet,,22,F,"Witley, Surrey, England",Southampton,,,0,1,0,1,Stewardess
+passenger_id,Stap, Miss Sarah Agnes,,47,F,"Birkenhead, Cheshire, England, England",Southampton,,,0,0,0,1,Stewardess
+passenger_id,Stone, Mr. Edmond J.,,26,M,"Southampton, Hampshire, England",Southampton,,41MB[23],0,0,0,1,First class Bedroom Steward
+passenger_id,Stone, Mr. Edward Thomas,,30,M,"Southampton, Hampshire, England",Southampton,,243MB[23],0,0,0,1,First class Bedroom Steward
+passenger_id,Talbot, Mr. George Frederick Charles.,,27,M,"Southampton, Hampshire, England",Southampton,,150MB,0,0,0,1,Steward
+passenger_id,Taylor, Mr. William,,21,M,"Southampton, Hampshire, England",Southampton,,36{?}MB[20],0,0,0,1,Boots Steward
+passenger_id,Teuton, Mr. Thomas Moore,,32,M,"Southampton, Hampshire, England",Southampton,,226MB,0,0,0,1,Saloon Steward
+passenger_id,Turner, Mr. Leopold[24],,28,M,"Church Stretton, Shropshire, England",Belfast,,23MB,0,0,0,1,First Class Saloon Steward
+passenger_id,Veal, Mr. Thomas H.E.,,38,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,First Class Saloon Steward
+passenger_id,Wake, Mr. T.,,32,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Asst. Baker
+passenger_id,Wallis, Mrs Catherine Jane,,35,F,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Second Class Matron
+passenger_id,Walpole, Mr. James,,48,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Chief Pantryman
+passenger_id,Walsh, Miss Catherine,,32,F,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Stewardess
+passenger_id,Ward, Mr. Edward,,34,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,First Class Bedroom Steward
+passenger_id,Ward, Mr. Percy T.,,38,M,"Hampshire, England",Southampton,,,0,1,0,1,First Class Bedroom Steward
+passenger_id,Ward, Mr. William,,36,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,First Class Saloon Steward
+passenger_id,Wareham, Mr. Robert Arthur,,36,M,"Southampton, Hampshire, England",Southampton,,246MB,0,0,0,1,First Class Bedroom Steward
+passenger_id,Warwick, Mr. Thomas,,35,M,"Hampshire, England",Southampton,,,0,1,0,1,First Class Saloon Steward
+passenger_id,Weatherston, Mr. Thomas,,24,M,"Liverpool, Lancashire, England",Belfast,,,0,1,0,1,First Class Saloon Steward
+passenger_id,Weikman, Mr. Augustus Henry,,51,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,First Class Barber
+passenger_id,White, Mr. Arthur,,37,M,"Portsmouth, Hampshire, England",Southampton,,247MB,0,0,0,1,Third Class Barber
+passenger_id,White, Mr Edward Joseph,,27,M,"Southampton, Hampshire, England",Southampton,,272MB,0,0,0,1,Glory Hole Steward
+passenger_id,White, Mr. L.,,32,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,First Class Saloon Steward
+passenger_id,Whiteley, Mr. Thomas,,18,M,"London, England",Southampton,,,0,0,0,1,First Class Saloon Steward
+passenger_id,Whitford, Mr. A.H.,,37,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Second Class Saloon Steward
+passenger_id,Whittman, Mr. Henry,,34,M,"Southampton, Hampshire, England",Southampton,,315MB,0,0,0,1,First Class Bedroom Steward
+passenger_id,Widgery, Mr. James G.,,37,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Second Class Bath Steward
+passenger_id,Wildebank, Mr. Alfred E.,,39,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Asst. Cook
+passenger_id,Williams, Mr. Walter J.,,28,F,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Second Class Saloon Steward
+passenger_id,Willis, Mr. William,,66,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Third Class Steward
+passenger_id,Wiltshire, Mr. W.,,33,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Asst. Butcher
+passenger_id,Witter, Mr. James W.C.,,31,M,"Hampshire, England",Southampton,,,0,0,0,1,Second Class Smoking Room Steward
+passenger_id,Wood, Mr. J.T.,,40,M,"London, England",Southampton,,,0,1,0,1,Second Class Saloon Steward
+passenger_id,Wormald, Mr. Frederick William,,36,M,"Southampton, Hampshire, England",Southampton,,144MB,0,0,0,1,First Class Saloon Steward
+passenger_id,Wrapson, Mr. Frederick B.,,19,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Asst. Pantryman
+passenger_id,Wright, Mr. Frederick,,24,M,"London, England",Southampton,,,0,1,0,1,Squash Court Steward
+passenger_id,Wright, Mr. William,,40,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Glory Hole Steward
+passenger_id,Yearsley, Mr. Harry,,38,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,First Class Saloon Steward
+passenger_id,Yoshack, Mr. James A.,,31,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,First Class Saloon Steward
+passenger_id,Allaria, Mr. Battista Antonio,,30,M,"Southampton, Hampshire, England",Southampton,,221MB,0,0,0,1,Asst. Waiter
+passenger_id,Aspeslagh, Mr. Georges,,26,M,"London, England",Southampton,,,0,1,0,1,Asst. Plateman
+passenger_id,Banfi, Mr. Ugo,,24,M,"Finsbury, London, England",Southampton,,,0,1,0,1,Waiter
+passenger_id,Basilico, Mr. Giovanni,,27,M,"London, England",Southampton,,,0,1,0,1,Waiter
+passenger_id,Bazzi, Mr. Narciso,,33,M,"London, England",Southampton,,,0,1,0,1,Waiter
+passenger_id,Bernardi, Mr. Battista,,22,M,"Southampton, Hampshire, England",Southampton,,215MB,0,0,0,1,Asst. Waiter
+passenger_id,Beux, Mr. David,,26,M,"London, England",Southampton,,,0,1,0,1,Asst. Waiter
+passenger_id,Bietrix, Mr. George Baptiste,,28,M,"Lambeth, London, England",Southampton,,,0,1,0,1,Cook
+passenger_id,Blument, Mr. Jean Baptiste,,26,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Pantryman
+passenger_id,Bochet, Mr. Pierre Giuseppe,,43,M,"London, England",Southampton,,,0,1,0,1,Waiter
+passenger_id,Bolhuis," Mr. Hendrik ""Hennie""",,21,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Larder Cook
+passenger_id,Bowker, Miss Ruth,,27,F,"London, England",Southampton,,,0,0,0,1,Cashier
+passenger_id,Casali, Mr. Giulio,,27,M,"Soho, London, England",Southampton,,,0,1,0,1,Waiter
+passenger_id,Chaboisson, Mr. Adrien Finnin,,25,M,"London, England",Southampton,,,0,1,0,1,Roast Cook
+passenger_id,Cornaire, Mr. Marcel Raymond Andre,,19,M,"London, England",Southampton,,,0,1,0,1,Asst. Roast Cook
+passenger_id,Coutin, Mr. Auguste Louis,,28,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Entree Cook
+passenger_id,Crovella, Mr. Luigi,,17,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Asst. Waiter
+passenger_id,De Marsico, Mr. Giovanni,,20,M,"Soho, London, England",Southampton,,,0,1,0,1,Asst. Waiter
+passenger_id,Debreucq, Mr. Maurice Emile Victor,,22,M,"London, England",Southampton,,244MB,0,0,0,1,Asst. Waiter
+passenger_id,Desvernine, Mr. Louis Gabriel,,20,M,"London, England",Southampton,,,0,1,0,1,Asst. Pastry Cook
+passenger_id,Donati, Mr. Italo Francesco,,17,M,"London, England",Southampton,,311M,0,0,0,1,Asst. Waiter
+passenger_id,Dornier, Mr. Louis Auguste,,20,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Asst. Fish Cook
+passenger_id,Fey, Mr. Carlo,,30,M,"London, England",Southampton,,,0,,0,1,Scullion
+passenger_id,Fioravante, Mr. Giuseppe Bertoldo,,23,M,"London, England",Southampton,,,0,1,0,1,Asst. Scullion
+passenger_id,Gatti," Mr. Gaspare Antonio Pietro ""Luigi""",,37,M,"Southampton, Hampshire, England",Southampton,,313M,0,0,0,1,Restaurant Manager
+passenger_id,Gilardino, Mr. Vincenzo Pio,,31,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Waiter
+passenger_id,Grosclaude, Mr. Gerald,,24,M,"London, England",Southampton,,,0,1,0,1,Waiter
+passenger_id,Jaillet, Mr. Henri Marie,,28,M,"London, England",Southampton,,277MB,0,0,0,1,Pastry Cook
+passenger_id,Janin, Mr. Claude Marie,,29,M,"London, England",Southampton,,,0,1,0,1,Soup Cook
+passenger_id,Jeffery, Mr. William Alfred,,28,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Controller
+passenger_id,Jouannault, Mr. Georges Jules,,24,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Asst. Sauce Cook
+passenger_id,Martin," Miss Margaret Edwina ""Mabel""",,20,F,"London, England",Southampton,,,0,0,0,1,Cashier
+passenger_id,Mattmann, Mr. Adolf,,20,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Ice Man
+passenger_id,Mauge, Mr. Paul Achille Maurice Germain,,25,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Kitchen Clerk
+passenger_id,Monteverdi, Mr. Giovanni,,23,M,"London, England",Southampton,,,0,1,0,1,Cook
+passenger_id,Monres, Mr. Joan Xavier,,20,M,"London, England",Southampton,,27MB,0,0,0,1,Asst. Waiter
+passenger_id,Nannini, Mr. Francesco Luigi,,42,M,"London, England",Southampton,,,0,1,0,1,Head Waiter
+passenger_id,Pachera, Mr. Jean Baptiste Stanislas,,19,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Asst. Larder Cook
+passenger_id,Pedrini, Mr. Alessandro,,21,M,"Southampton, Hampshire, England",Southampton,,104MB,0,0,0,1,Asst. Waiter
+passenger_id,Peracchio, Mr. Alberto,,20,M,"Soho, London, England",Southampton,,,0,1,0,1,Asst. Waiter
+passenger_id,Peracchio, Mr. Sebastiano,,17,M,"Soho, London, England",Southampton,,,0,1,0,1,Asst. Waiter
+passenger_id,Perotti, Mr. Alfonso,,20,M,"London, England",Southampton,,,0,1,0,1,Asst. Waiter
+passenger_id,Phillips, Mr. Walter John,,35,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Storekeeper
+passenger_id,Piatti, Mr. Luigi,,17,M,"London, England",Southampton,,,0,1,0,1,Asst. Waiter
+passenger_id,Piazza, Mr. Pompeo,,30,M,"London, England",Southampton,,266MB,0,0,0,1,Waiter
+passenger_id,Poggi, Mr. Emilio,,28,M,"Southampton, Hampshire, England",Southampton,,301MB,0,0,0,1,Waiter
+passenger_id,Price, Mr. Ernest,,17,M,"London, England",Southampton,,186MB,0,0,0,1,Barman
+passenger_id,Ratti, Mr. Enrico,,21,M,"London, England",Southampton,,,0,1,0,1,Waiter
+passenger_id,Ricaldone, Mr. Rinaldo Renato,,22,M,"London, England",Southampton,,,0,1,0,1,Asst. Waiter
+passenger_id,Rigozzi, Mr. Abele,,22,M,"London, England",Southampton,,115MB,0,0,0,1,Asst. Waiter
+passenger_id,Rotta, Mr. Angelo Mario,,23,M,"London, England",Southampton,,,0,1,0,1,Waiter
+passenger_id,Rousseau, Mr. Pierre,,49,M,"London, England",Southampton,,,0,1,0,1,Chef
+passenger_id,Saccaggi, Mr. Giovanni Giuseppe Emilio,,24,M,"London, England",Southampton,,,0,1,0,1,Asst. Waiter
+passenger_id,Salussolia, Mr. Giovanni,,25,M,"London, England",Southampton,,,0,1,0,1,Glass Man
+passenger_id,Sartori, Mr. Lazar,,24,M,"London, England",Southampton,,,0,1,0,1,Asst. Glass Man
+passenger_id,Scavino, Mr. Candido,,42,M,"London, England",Southampton,,,0,1,0,1,Carver
+passenger_id,Sesia, Mr. Giacomo,,24,M,"London, England",Southampton,,,0,1,0,1,Waiter
+passenger_id,Testoni, Mr. Ercole,,23,M,"London, England",Southampton,,,0,1,0,1,Asst. Glass Man
+passenger_id,Tietz, Mr. Karl,,27,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Kitchen Porter
+passenger_id,Turvey, Mr. Charles,,16,M,"London, England",Southampton,,,0,1,0,1,Page Boy
+passenger_id,Urbini, Mr. Roberto,,22,M,"London, England",Southampton,,,0,1,0,1,Waiter
+passenger_id,Valvassori, Mr. Ettore Luigi,,35,M,"London, England",Southampton,,,0,1,0,1,Waiter
+passenger_id,Vicat, Mr. Alphonse Jean Eugene,,21,M,"London, England",Southampton,,,0,1,0,1,Cook
+passenger_id,Villvarlange, Mr. Pierre Leon Gabriel,,19,M,"Paris, France",Southampton,,,0,1,0,1,Asst. Soup Cook
+passenger_id,Vine, Mr. H.,,18,M,"London, England",Southampton,,,0,1,0,1,Asst. Controller
+passenger_id,Vioni, Mr. Roberto,,31,M,"London, England",Southampton,,,0,1,0,1,Waiter
+passenger_id,Voegelin-Dubach, Mr. Johannes,,35,M,"London, England",Southampton,,,0,1,0,1,Coffee Maker
+passenger_id,Zanetti, Mr. Minio,,20,M,"London, England",Southampton,,,0,1,0,1,Asst. Waiter
+passenger_id,Zarracchi, Mr. L.,,26,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Wine Butler
+passenger_id,Gwinn, Mr. William Logan,,37,M,"New York City, USA",Southampton,,,0,1,0,1,Postal Clerk
+passenger_id,March, Mr. John Starr,,50,M,"Newark, New Jersey, USA",Southampton,,225MB,0,0,0,1,Postal Clerk
+passenger_id,Smith," Mr. John Richard ""Jago""",,35,M,"Truro, England",Southampton,,,0,1,0,1,Postal Clerk
+passenger_id,Williamson, Mr. James Bertram,,35,M,"Dublin, Ireland",Southampton,,,0,1,0,1,Postal Clerk
+passenger_id,Woody, Mr. Oscar Scott,,41,M,"Clifton, Virginia, USA",Southampton,,167MB,0,0,0,1,Postal Clerk
+passenger_id,Andrews, Mr. Thomas,,39,M,"Belfast, Ireland",Belfast,,,1,1,0,1,Shipbuilder
+passenger_id,Campbell, Mr. William Henry,,21,M,"Belfast, Ireland",Belfast,,,2,1,0,1,Joiner
+passenger_id,Chisholm, Mr. Roderick Robert Crispin,,40,M,"Belfast, Ireland",Belfast,,,1,1,0,1,Draughtsman
+passenger_id,Cunningham, Mr. Alfred Fleming,,21,M,"Belfast, Ireland",Belfast,,,2,1,0,1,Fitter
+passenger_id,Frost," Mr. Anthony Wood ""Artie""",,37,M,"Belfast, Ireland",Belfast,,,2,1,0,1,Fitter
+passenger_id,Knight, Mr. Robert J.,,39,M,"Belfast, Ireland",Belfast,,,2,1,0,1,Fitter
+passenger_id,Parkes," Mr. Francis ""Frank""",,21,M,"Belfast, Ireland",Belfast,,,2,1,0,1,Plumber
+passenger_id,Parr, Mr. William Henry Marsh,,29,M,"Belfast, Ireland",Belfast,,,1,1,0,1,Electrician
+passenger_id,Watson, Mr. Ennis Hastings,,15,M,"Belfast, Ireland",Belfast,,,2,1,0,1,Electrician's Apprentice
+passenger_id,Brailey, Theodore Ronald,,24,M,"London, England",,,,0,0,0,1,Pianist
+passenger_id,Bricoux, Roger Marie,,20,M,"Cosne-sur-Loire, France",,,,0,0,0,1,Cellist
+passenger_id,Clarke, John Frederick Preston,,30,M,"Liverpool, Lancashire, England",,,202MB,0,0,0,1,Bassist
+passenger_id,Hartley, Wallace,,33,M,"Colne, Lancashire, England",,,224MB,0,0,0,1,"Bandmaster, violinist"
+passenger_id,Hume, John Law,,21,M,"Dumfries, Scotland",,,193MB,0,0,0,1,Violinist
+passenger_id,Krins, Georges Alexandre,,23,M,"London, England",,,,0,0,0,1,Violinist
+passenger_id,Taylor, Percy Cornelius,,32,M,"London, England",,,,0,0,0,1,Cellist
+passenger_id,Woodward, John Wesley,,32,M,"Oxford, England",,,,0,0,0,1,Cellist

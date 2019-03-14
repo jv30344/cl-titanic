@@ -1,0 +1,2185 @@
+LastName,FirstName,Other_Info,Age,Gender,Hometown,Boarded,Lifeboat,Body,Class,Survived,Passenger,Crew,crew_responsibility
+Allen,Miss Elisabeth Walton,,29,F,,Southampton,,,1,1,1,0,
+Allison,Mr Hudson Joshua Creighton,,30,M,,Southampton,,,1,0,1,0,
+Allison,Mrs Bessie Waldo,,25,F,,Southampton,,,1,0,1,0,
+Allison,Miss Helen Loraine,,2,F,,Southampton,,,1,0,1,0,
+Allison,Master Hudson Trevor,,0.9166,M,,Southampton,,,1,1,1,0,
+Anderson,Mr Harry,,47,M,,Southampton,,,1,1,1,0,
+Andrews,Miss Kornelia Theodosia,,62,F,,Cherbourg,,,1,1,1,0,
+Andrews,Mr Thomas,,39,M,,Belfast,,,1,0,1,0,
+Appleton,Mrs Charlotte,,53,F,,Southampton,,,1,1,1,0,
+Artagaveytia,Mr Ramon,,71,M,,Cherbourg,,,1,0,1,0,
+Astor,Colonel John Jacob,,47,M,,Cherbourg,,,1,0,1,0,
+Astor,Mrs Madeleine Talmage,,18,F,,Cherbourg,,,1,1,1,0,
+Aubart,"Mme. Leontine Pauline ""Ninette""",,24,F,,Cherbourg,,,1,1,1,0,
+Barber,Miss Ellen Mary      ,(Maid to Mrs Tyrell William Cavendish),26,F,,Southampton,,,1,1,1,0,
+Barkworth,Mr Algernon Henry,,47,M,,Southampton,,,1,1,1,0,
+Bassani,Mrs Albina    ,(Maid to Mrs William Robert Bucknell),32,F,,Cherbourg,,,1,1,1,0,
+Baumann,Mr John D.,,60,M,,Cherbourg,,,1,0,1,0,
+Baxter,Mrs Helène,,50,F,,Cherbourg,,,1,1,1,0,
+Baxter,Mr Quigg Edmond,,24,M,,Cherbourg,,,1,0,1,0,
+Beattie,Mr Thomson,,36,F,,Southampton,,,1,0,1,0,
+Beckwith,Mr Richard Leonard,,37,M,,Southampton,,,1,1,1,0,
+Beckwith,Mrs Sallie,,46,F,,Southampton,,,1,1,1,0,
+Behr,Mr Karl Howell,,26,M,,Cherbourg,,,1,1,1,0,
+Bessette,Miss Nellie Mayo      ,(Maid to Mrs Ella Holmes White),39,F,,Cherbourg,,,1,1,1,0,
+Bidois,Miss Rosalie    ,(Maid to Mrs John Jacob Astor),46,F,,Cherbourg,,,1,1,1,0,
+Bird,Miss Ellen    ,(Maid to Mr & Mrs Isodor Straus),31,F,,Southampton,,,1,1,1,0,
+Birnbaum,Mr Jakob,,24,M,,Cherbourg,,,1,0,1,0,
+Bishop,Mr Dickinson H.,,25,M,,Cherbourg,,,1,1,1,0,
+Bishop,Mrs Helen,,19,F,,Cherbourg,,,1,1,1,0,
+Bjornstrom-Steffansson,Mr Mauritz Hokan,,28,M,,Southampton,,,1,1,1,0,
+Blackwell,Mr Stephen Weart,,45,M,,Southampton,,,1,0,1,0,
+Blank,Mr Henry,,39,M,,Cherbourg,,,1,1,1,0,
+Bonnell,Miss Caroline,,30,F,,Southampton,,,1,1,1,0,
+Bonnell,Miss Elizabeth,,61,F,,Southampton,,,1,1,1,0,
+Borebank,Mr John James,,42,M,,Southampton,,,1,0,1,0,
+Bowen,Miss Grace Scott    ,(Maid to Mr & Mrs Arthur Ryerson),45,F,,Cherbourg,,,1,1,1,0,
+Bowerman,Miss Elsie Edith,,22,F,,Southampton,,,1,1,1,0,
+Brady,Mr John Bertram,,41,M,,Southampton,,,1,0,1,0,
+Brandeis,Mr Emil Franklin,,48,M,,Cherbourg,,,1,0,1,0,
+Brereton,Mr George Andrew,,37,M,,Southampton,,,1,1,1,0,
+Brewe,Dr Arthur Jackson,,45,M,,Cherbourg,,,1,0,1,0,
+Brown,Mrs Caroline Lane,,59,F,,Southampton,,,1,1,1,0,
+Brown,Mrs Margaret,,44,F,,Cherbourg,,,1,1,1,0,
+Bucknell,Mrs Emma Eliza,,58,F,,Cherbourg,,,1,1,1,0,
+Burns,Miss Elizabeth Margaret    ,(Nanny to Master Robert Douglas Spedden),41,F,,Cherbourg,,,1,1,1,0,
+Butt,Major Archibald Willingham,,46,M,,Southampton,,,1,0,1,0,
+Cairns,Mr Alexander Milne    ,(Manservant to Mr William Ernest Carter),28,M,,Southampton,,,1,0,1,0,
+Calderhead,Mr Edward Pennington,,42,M,,Southampton,,,1,1,1,0,
+Candee,Mrs Helen Churchill,,52,F,,Cherbourg,,,1,1,1,0,
+Cardeza,Mrs Charlotte Wardle,,58,F,,Cherbourg,,,1,1,1,0,
+Cardeza,Mr Thomas Drake Martinez,,36,M,,Cherbourg,,,1,1,1,0,
+Carlsson,Mr Frans Olof,,33,M,,Southampton,,,1,0,1,0,
+Carraú-Esteves,Mr Jose Pedro,,17,M,,Southampton,,,1,0,1,0,
+Carrau,Mr Francisco Mauro Severiano,,27,M,,Southampton,,,1,0,1,0,
+Carter,Mr William Ernest,,36,M,,Southampton,,,1,1,1,0,
+Carter,Mrs Lucile,,36,F,,Southampton,,,1,1,1,0,
+Carter,Miss Lucile Polk,,13,F,,Southampton,,,1,1,1,0,
+Carter,Master William Thornton II,,11,M,,Southampton,,,1,1,1,0,
+Case,Mr Howard Brown,,49,M,,Southampton,,,1,0,1,0,
+Cassebeer,Mrs Eleanor Genevieve,,36,F,,Cherbourg,,,1,1,1,0,
+Cavendish,Mr Tyrell William,,36,M,,Southampton,,,1,0,1,0,
+Cavendish,Mrs Julia Florence,,25,F,,Southampton,,,1,1,1,0,
+Chaffee,Mr Herbert Fuller,,46,M,,Southampton,,,1,0,1,0,
+Chaffee,Mrs Carrie Constance,,47,F,,Southampton,,,1,1,1,0,
+Chambers,Mr Norman Campbell,,27,M,,Southampton,,,1,1,1,0,
+Chambers,Mrs Bertha,,32,F,,Southampton,,,1,1,1,0,
+Chaudanson,Miss Victorine    ,(Maid to Mrs Emily Ryerson),36,F,,Cherbourg,,,1,1,1,0,
+Cherry,Miss Gladys,,30,F,,Southampton,,,1,1,1,0,
+Chevre,Mr Paul Romaine Marie Leonce,,45,M,,Cherbourg,,,1,1,1,0,
+Chibnall,Mrs Edith Martha Bowerman,,48,F,,Southampton,,,1,1,1,0,
+Chisholm,Mr Roderick Robert Crispin,,43,M,,Belfast,,,1,0,1,0,
+Clark,Mr Walter Miller,,27,M,,Cherbourg,,,1,0,1,0,
+Clark,Mrs Virginia Estelle,,26,F,,Cherbourg,,,1,1,1,0,
+Cleaver,Miss Alice Catherine    ,(Nanny to Master Hudson Trevor Allison),22,F,,Southampton,,,1,1,1,0,
+Clifford,Mr George Quincy,,40,M,,Southampton,,,1,0,1,0,
+Colley,Mr Edward Pomeroy,,37,M,,Southampton,,,1,0,1,0,
+Compton,Mrs Mary Eliza,,64,F,,Cherbourg,,,1,1,1,0,
+Compton,Miss Sara Rebecca,,39,F,,Cherbourg,,,1,1,1,0,
+Compton,Mr Alexander Taylor Jr,,37,M,,Cherbourg,,,1,0,1,0,
+Cornell,Mrs Malvina Helen,,55,F,,Southampton,,,1,1,1,0,
+Crafton,Mr John Bertram,,59,M,,Southampton,,,1,0,1,0,
+Crosby,Captain Edward Gifford,,70,M,,Southampton,,,1,0,1,0,
+Crosby,Mrs Catherine Elizabeth,,64,F,,Southampton,,,1,1,1,0,
+Crosby,Miss Harriette Rebecca,,39,F,,Southampton,,,1,1,1,0,
+Cumings,Mr John Bradley,,39,M,,Cherbourg,,,1,0,1,0,
+Cumings,Mrs Florence Briggs,,35,F,,Cherbourg,,,1,1,1,0,
+Daly,Mr Peter Dennis,,51,M,,Southampton,,,1,0,1,0,
+Daniel,Mr Robert Williams,,27,M,,Southampton,,,1,1,1,0,
+Daniels,Miss Sarah Rebecca    ,(Maid to Mr & Mrs Allison),33,F,,Southampton,,,1,1,1,0,
+Davidson,Mr Thornton,,31,M,,Cherbourg,,,1,0,1,0,
+Davidson,Mrs Orian,,27,F,,Cherbourg,,,1,1,1,0,
+Dick,Mr Albert Adrian,,31,M,,Southampton,,,1,1,1,0,
+Dick,Mrs Vera,,17,F,,Southampton,,,1,1,1,0,
+Dodge,Dr Washington,,52,M,,Southampton,,,1,1,1,0,
+Dodge,Mrs Ruth,,34,F,,Southampton,,,1,1,1,0,
+Dodge,Master Washington,,4,M,,Southampton,,,1,1,1,0,
+Douglas,Mr Walter Donald,,50,M,,Cherbourg,,,1,0,1,0,
+Douglas,Mrs Mahala,,48,F,,Cherbourg,,,1,1,1,0,
+Douglas,Mrs Mary Helène,,27,F,,Cherbourg,,,1,1,1,0,
+Duff Gordon,Sir Cosmo Edmund,,49,M,,Cherbourg,,,1,1,1,0,
+Duff Gordon,"Lucy Christiana, Lady",,48,M,,Cherbourg,,,1,1,1,0,
+Dulles,Mr William Crothers,,39,M,,Cherbourg,,,1,0,1,0,
+Earnshaw,Mrs Olive,,23,F,,Cherbourg,,,1,1,1,0,
+Endres,Miss Caroline Louise    ,(Nurse to Mrs Madeleine Astor),39,F,,Cherbourg,,,1,1,1,0,
+Eustis,Miss Elizabeth Mussey,,54,F,,Cherbourg,,,1,1,1,0,
+Evans,Miss Edith Corse,,36,F,,Cherbourg,,,1,0,1,0,
+Farthing,Mr John    ,(Manservant to Mr & Mrs Straus),57,M,,Southampton,,,1,0,1,0,
+Flegenheim,Mrs Antoinette,,48,F,,Cherbourg,,,1,1,1,0,
+Fleming,Miss Margaret    ,(Maid to Mr & Mrs Thayer),42,F,,Cherbourg,,,1,1,1,0,
+Flynn,Mr John Irwin,,36,M,,Southampton,,,1,1,1,0,
+Foreman,Mr Benjamin Laventall,,30,M,,Southampton,,,1,0,1,0,
+Fortune,Mr Mark,,64,M,,Southampton,,,1,0,1,0,
+Fortune,Mrs Mary,,60,F,,Southampton,,,1,1,1,0,
+Fortune,Miss Ethel Flora,,28,F,,Southampton,,,1,1,1,0,
+Fortune,Miss Alice Elizabeth,,24,F,,Southampton,,,1,1,1,0,
+Fortune,Miss Mabel Helen,,23,F,,Southampton,,,1,1,1,0,
+Fortune,Mr Charles Alexander,,19,M,,Southampton,,,1,0,1,0,
+Francatelli,Miss Laura Mabel    ,(Secretary to Lady Duff-Gordon),31,F,,Cherbourg,,,1,1,1,0,
+Franklin,Mr Thomas Parnham,,37,M,,Southampton,,,1,0,1,0,
+Frauenthal,Mr Isaac Gerald,,43,M,,Cherbourg,,,1,1,1,0,
+Frauenthal,Dr Henry William,,49,M,,Southampton,,,1,1,1,0,
+Frauenthal,Mrs Clara,,42,F,,Southampton,,,1,1,1,0,
+Frolicher,Miss Hedwig Margaritha,,22,F,,Cherbourg,,,1,1,1,0,
+Frolicher-Stehli,Mr Maximilian Josef,,60,M,,Cherbourg,,,1,1,1,0,
+Frolicher-Stehli,Mrs Margaretha Emerentia,,48,F,,Cherbourg,,,1,1,1,0,
+Fry,Mr Richard    ,(Valet to Mr Joseph Bruce Ismay),39,M,,Southampton,,,1,0,1,0,
+Futrelle,Mr Jacques Heath,,37,M,,Southampton,,,1,0,1,0,
+Futrelle,Mrs Lily May,,35,F,,Southampton,,,1,1,1,0,
+Gee,Mr Arthur H.,,47,M,,Southampton,,,1,0,1,0,
+Gibson,Mrs Pauline Caroline,,44,F,,Cherbourg,,,1,1,1,0,
+Gibson,Miss Dorothy Winifred,,22,F,,Cherbourg,,,1,1,1,0,
+Gieger,Miss Amalie    ,(Maid to Mrs George Dunton Widener),35,F,,Southampton,,,1,1,1,0,
+Giglio,Mr Victor Gaitan Andrea    ,(Valet to Mr Benjamin Guggenheim),23,M,,Cherbourg,,,1,0,1,0,
+Goldenberg,Mr Samuel L.,,47,M,,Cherbourg,,,1,1,1,0,
+Goldenberg,Mrs Nella,,40,F,,Cherbourg,,,1,1,1,0,
+Goldschmidt,Mr George B.,,71,M,,Cherbourg,,,1,0,1,0,
+Gracie,Colonel Archibald,,53,M,,Southampton,,,1,1,1,0,
+Graham,Mr George Edward,,38,M,,Southampton,,,1,0,1,0,
+Graham,Mrs Edith,,59,F,,Southampton,,,1,1,1,0,
+Graham,Miss Margaret Edith,,19,F,,Southampton,,,1,1,1,0,
+Greenfield,Mrs Blanche,,45,F,,Cherbourg,,,1,1,1,0,
+Greenfield,Mr William Bertram,,23,M,,Cherbourg,,,1,1,1,0,
+Guggenheim,Mr Benjamin,,46,M,,Cherbourg,,,1,0,1,0,
+Harder,Mr George Achilles,,25,M,,Cherbourg,,,1,1,1,0,
+Harder,Mrs Dorothy,,21,F,,Cherbourg,,,1,1,1,0,
+Harper,Mr Henry Sleeper,,48,M,,Cherbourg,,,1,1,1,0,
+Harper,Mrs Myra Raymond,,49,F,,Cherbourg,,,1,1,1,0,
+Harrington,Mr Charles Henry    ,(Manservant to Mr Clarence Bloomfield Moore),37,M,,Southampton,,,1,0,1,0,
+Harris,Mr Henry Birkhardt,,45,M,,Southampton,,,1,0,1,0,
+Harris,Mrs Irene,,35,F,,Southampton,,,1,1,1,0,
+Harrison,Mr William Henry    ,(Private secretary to Mr Joseph Bruce Ismay),45,M,,Southampton,,,1,0,1,0,
+Hassab,Mr Hammad    ,(Interpreter to Mr Henry Sleeper Harper),27,M,,Cherbourg,,,1,1,1,0,
+Hawksford,Mr Walter James,,45,M,,Southampton,,,1,1,1,0,
+Hays,Mr Charles Melville,,55,M,,Southampton,,,1,0,1,0,
+Hays,Mrs Clara Jennings,,52,F,,Southampton,,,1,1,1,0,
+Hays,Miss Margaret Bechstein,,24,F,,Cherbourg,,,1,1,1,0,
+Head,Mr Christopher,,42,M,,Southampton,,,1,0,1,0,
+Hilliard,Mr Herbert Henry,,44,M,,Southampton,,,1,0,1,0,
+Hipkins,Mr William Edward,,55,M,,Southampton,,,1,0,1,0,
+Hippach,Mrs Ida Sophia,,44,F,,Cherbourg,,,1,1,1,0,
+Hippach,Miss Jean Gertrude,,17,F,,Cherbourg,,,1,1,1,0,
+Hogeboom,Mrs Anna Louisa,,51,F,,Cherbourg,,,1,1,1,0,
+Holverson,Mr Alexander Oskar,,42,M,,Southampton,,,1,0,1,0,
+Holverson,Mrs Mary Aline,,35,F,,Southampton,,,1,1,1,0,
+Homer,Mr Harry,,40,M,,Southampton,,,1,1,1,0,
+Hoyt,Mr Frederick Maxfield,,38,M,,Southampton,,,1,1,1,0,
+Hoyt,Mrs Jane Anne,,31,F,,Southampton,,,1,1,1,0,
+Hoyt,Mr William Fisher,,42,M,,Cherbourg,,,1,1,1,0,
+Icard,Miss Rose Amelie    ,(Maid to Mrs George Nelson Stone),39,F,,Southampton,,,1,1,1,0,
+Isham,Miss Ann Elizabeth,,50,F,,Cherbourg,,,1,0,1,0,
+Ismay,Mr Joseph Bruce,,49,M,,Southampton,,,1,1,1,0,
+Jones,Mr Charles Cresson,,46,M,,Southampton,,,1,0,1,0,
+Julian,Mr Henry Forbes,,50,M,,Southampton,,,1,0,1,0,
+Keeping,Mr Edwin Herbert    ,(Manservant to Mr & Mrs Widener),33,M,,Southampton,,,1,0,1,0,
+Kent,Mr Edward Austin,,58,M,,Cherbourg,,,1,0,1,0,
+Kenyon,Mr Frederick Roland,,41,M,,Southampton,,,1,0,1,0,
+Kenyon,Mrs Marion Estelle,,40,F,,Southampton,,,1,1,1,0,
+Kimball,Mr Edwin Nelson Jr.,,42,M,,Southampton,,,1,1,1,0,
+Kimball,Mrs Susan Gertrude,,45,F,,Southampton,,,1,1,1,0,
+Klaber,Mr Herman,,41,M,,Southampton,,,1,0,1,0,
+Kreuchen,Miss Emilie    ,(Maid to Mrs Edward Scott Robert),29,F,,Southampton,,,1,1,1,0,
+Leader,Dr Alice May,,49,M,,Southampton,,,1,1,1,0,
+Leroy,Miss Berthe    ,(Maid to Mrs Walter Donald Douglas),27,F,,Cherbourg,,,1,1,1,0,
+Lesueur,Mr Gustave J.    ,(Manservant to Mr Thomas Cardeza),35,M,,Cherbourg,,,1,1,1,0,
+Lewy,Mr Ervin G.,,30,M,,Cherbourg,,,1,0,1,0,
+Lindeberg-Lind,Mr Erik Gustaf,,42,M,,Southampton,,,1,0,1,0,
+Lindstrom,Mrs Sigrid,,55,F,,Cherbourg,,,1,1,1,0,
+Lines,Mrs Elizabeth Lindsey,,50,F,,Cherbourg,,,1,1,1,0,
+Lines,Miss Mary Conover,,16,F,,Cherbourg,,,1,1,1,0,
+Long,Mr Milton Clyde,,29,M,,Southampton,,,1,0,1,0,
+Longley,Miss Gretchen Fiske,,21,F,,Cherbourg,,,1,1,1,0,
+Loring,Mr Joseph Holland,,30,M,,Southampton,,,1,0,1,0,
+Lurette,Miss Eugenie Elise    ,(Maid to Mr & Mrs Spencer),59,F,,Cherbourg,,,1,1,1,0,
+Madill,Miss Georgette Alexandra,,16,F,,Southampton,,,1,1,1,0,
+Maguire,Mr John Edward,,30,M,,Southampton,,,1,0,1,0,
+Maioni,Miss Roberta Elizabeth Mary    ,(Maid to the Countess of Rothes),19,F,,Southampton,,,1,1,1,0,
+Marechal,Mr Pierre,,29,M,,Cherbourg,,,1,1,1,0,
+Marvin,Mr Daniel Warner,,18,M,,Southampton,,,1,0,1,0,
+Marvin,Mrs Mary Graham Carmichael,,18,F,,Southampton,,,1,1,1,0,
+Mayne,Mlle Berthe Antonine,,24,M,,Cherbourg,,,1,1,1,0,
+McCaffry,Mr Thomas Francis,,46,M,,Southampton,,,1,0,1,0,
+McCarthy,Mr Timothy J.,,54,M,,Southampton,,,1,0,1,0,
+McGough,Mr James Robert,,35,M,,Southampton,,,1,1,1,0,
+Meyer,Mr Edgar Joseph,,28,M,,Cherbourg,,,1,0,1,0,
+Meyer,Mrs Leila,,25,F,,Cherbourg,,,1,1,1,0,
+Millet,Mr Francis Davis,,65,M,,Cherbourg,,,1,0,1,0,
+Minahan,Dr William Edward,,44,M,,Queenstown,,,1,0,1,0,
+Minahan,Mrs Lillian E.,,37,F,,Queenstown,,,1,1,1,0,
+Minahan,Miss Daisy E.,,33,F,,Queenstown,,,1,1,1,0,
+Mock,Mr Philipp Edmund,,30,M,,Cherbourg,,,1,1,1,0,
+Molson,Mr Harry Markland,,55,M,,Southampton,,,1,0,1,0,
+Moore,Mr Clarence Bloomfield,,47,M,,Southampton,,,1,0,1,0,
+Natsch,Mr Charles,,36,M,,Cherbourg,,,1,0,1,0,
+Newell,Mr Arthur Webster,,58,M,,Cherbourg,,,1,0,1,0,
+Newell,Miss Marjorie Anne,,23,F,,Cherbourg,,,1,1,1,0,
+Newell,Miss Madeleine,,31,F,,Cherbourg,,,1,1,1,0,
+Newsom,Miss Helen Monypeny,,19,F,,Southampton,,,1,1,1,0,
+Nicholson,Mr Arthur Ernest,,59,M,,Southampton,,,1,0,1,0,
+Nourney,Mr Alfred,,20,M,,Cherbourg,,,1,1,1,0,
+Oliva Y Ocana,Doña Fermina    ,(Maid to Mrs Victor de Satode Peñasco y Castellana),39,M,,Cherbourg,,,1,1,1,0,
+Omont,Mr Alfred Fernand,,29,M,,Cherbourg,,,1,1,1,0,
+Ostby,Mr Engelhart Cornelius,,64,M,,Southampton,,,1,0,1,0,
+Østby,Miss Helen Ragnhild,,22,F,,Southampton,,,1,1,1,0,
+Ovies Y Rodríguez,Mr Servando Jose Florentino,,36,M,,Cherbourg,,,1,0,1,0,
+Parr,Mr William Henry Marsh,,29,M,,Belfast,,,1,0,1,0,
+Partner,Mr Austin,,40,M,,Southampton,,,1,0,1,0,
+Payne,Mr Vivian Ponsonby    ,(Private secretary to Mr Charles Melville Hays),22,M,,Southampton,,,1,0,1,0,
+Pears,Mr Thomas Clinton,,29,M,,Southampton,,,1,0,1,0,
+Pears,Mrs Edith,,22,F,,Southampton,,,1,1,1,0,
+Peñasco Y Castellana,Mr Victor,,24,M,,Cherbourg,,,1,0,1,0,
+Peñasco Y Castellana,Mrs Maria Josefa Perezde Soto y Vallejo,,22,F,,Cherbourg,,,1,1,1,0,
+Perreault,Miss Mary Anne    ,(Maid to Mrs Charles Melville Hays),33,F,,Southampton,,,1,1,1,0,
+Peuchen,Major Arthur Godfrey,,52,M,,Southampton,,,1,1,1,0,
+Porter,Mr Walter Chamberlain,,46,M,,Southampton,,,1,0,1,0,
+Potter,Mrs Lily Alexenia,,56,F,,Cherbourg,,,1,1,1,0,
+Reuchlin,Mr Jonkheer Johan George,,38,M,,Cherbourg,,,1,0,1,0,
+Rheims,Mr George Alexander Lucien,,33,M,,Cherbourg,,,1,1,1,0,
+Righini,Mr Sante    ,(Manservant to Mrs John Stewart White),22,M,,Cherbourg,,,1,0,1,0,
+Robert,Mrs Elisabeth Walton,,43,F,,Southampton,,,1,1,1,0,
+Robins,Mr Victor    ,(Valet to Mr John Jacob Astor),42,M,,Cherbourg,,,1,0,1,0,
+Roebling,Mr Washington Augustus II,,31,M,,Southampton,,,1,0,1,0,
+Romaine,Mr Charles Hallace,,45,M,,Southampton,,,1,1,1,0,
+Rood,Mr Hugh Roscoe,,39,M,,Southampton,,,1,0,1,0,
+Rosenbaum,Miss Edith Louise,,33,F,,Cherbourg,,,1,1,1,0,
+Rosenshine,Mr George,,46,M,,Cherbourg,,,1,0,1,0,
+Ross,Mr John Hugo,,36,M,,Southampton,,,1,0,1,0,
+Rothes,"Lucy Noël Martha, Countess of",,33,M,,Southampton,,,1,1,1,0,
+Rothschild,Mr Martin,,46,M,,Cherbourg,,,1,0,1,0,
+Rothschild,Mrs Elizabeth Jane Anne,,54,F,,Cherbourg,,,1,1,1,0,
+Rowe,Mr Alfred G.,,59,M,,Southampton,,,1,0,1,0,
+Ryerson,Mr Arthur Larned,,61,M,,Cherbourg,,,1,0,1,0,
+Ryerson,Mrs Emily Maria,,48,F,,Cherbourg,,,1,1,1,0,
+Ryerson,Miss Emily Borie,,18,F,,Cherbourg,,,1,1,1,0,
+Ryerson,"Miss Susan Parker ""Suzette""",,21,F,,Cherbourg,,,1,1,1,0,
+Ryerson,Master John Borie,,13,M,,Cherbourg,,,1,1,1,0,
+Saalfeld,Mr Adolphe,,47,M,,Southampton,,,1,1,1,0,
+Salomon,Mr Abraham Lincoln,,43,M,,Cherbourg,,,1,1,1,0,
+Sagesser,Mlle Emma    ,(Maid to Mme. Leontine Pauline Aubart),24,M,,Cherbourg,,,1,1,1,0,
+Schabert,Mrs Emma,,35,F,,Cherbourg,,,1,1,1,0,
+Serreplan,Miss Auguste    ,(Maid to Mrs William Carter),30,F,,Southampton,,,1,1,1,0,
+Seward,Mr Frederic Kimber,,34,M,,Southampton,,,1,1,1,0,
+Shutes,Miss Elizabeth Weed    ,(Governess to Miss Margaret Edith Graham),40,F,,Southampton,,,1,1,1,0,
+Silverthorne,Mr Spencer Victor,,35,M,,Southampton,,,1,1,1,0,
+Silvey,Mr William Baird,,51,M,,Cherbourg,,,1,0,1,0,
+Silvey,Mrs Alice Gray,,39,F,,Cherbourg,,,1,1,1,0,
+Simonius-Blumer,Mr Colonel    ,(Oberst) Alfons,56,M,,Southampton,,,1,1,1,0,
+Sloper,Mr William Thompson,,28,M,,Southampton,,,1,1,1,0,
+Smart,Mr John Montgomery,,56,M,,Southampton,,,1,0,1,0,
+Smith,Mr James Clinch,,56,M,,Cherbourg,,,1,0,1,0,
+Smith,Mr Richard William,,57,M,,Southampton,,,1,0,1,0,
+Smith,Mr Lucian Philip,,24,M,,Cherbourg,,,1,0,1,0,
+Smith,Mrs Mary Eloise,,18,F,,Cherbourg,,,1,1,1,0,
+Snyder,Mr John Pillsbury,,24,M,,Southampton,,,1,1,1,0,
+Snyder,Mrs Nelle,,23,F,,Southampton,,,1,1,1,0,
+Spedden,Mr Frederic Oakley,,45,M,,Cherbourg,,,1,1,1,0,
+Spedden,"Mrs Margaretta Corning ""Daisy""",,39,F,,Cherbourg,,,1,1,1,0,
+Spedden,Master Robert Douglas,,6,M,,Cherbourg,,,1,1,1,0,
+Spencer,Mr William Augustus,,57,M,,Cherbourg,,,1,0,1,0,
+Spencer,Mrs Marie Eugenie,,45,F,,Cherbourg,,,1,1,1,0,
+Stahelin-Maeglin,Dr Max,,32,M,,Southampton,,,1,1,1,0,
+Stead,Mr William Thomas,,62,M,,Southampton,,,1,0,1,0,
+Stengel,Mr Charles Emil Henry,,54,M,,Cherbourg,,,1,1,1,0,
+Stengel,Mrs Annie May,,44,F,,Cherbourg,,,1,1,1,0,
+Stephenson,Mrs Martha,,52,F,,Cherbourg,,,1,1,1,0,
+Stewart,Mr Albert Ankeny,,64,M,,Cherbourg,,,1,0,1,0,
+Stone,Mrs Martha Evelyn,,62,F,,Southampton,,,1,1,1,0,
+Straus,Mr Isidor,,67,M,,Southampton,,,1,0,1,0,
+Straus,Mrs Rosalie Ida,,63,F,,Southampton,,,1,0,1,0,
+Sutton,Mr Frederick,,61,M,,Southampton,,,1,0,1,0,
+Swift,Mrs Margaret Welles,,46,F,,Southampton,,,1,1,1,0,
+Taussig,Mr Emil,,52,M,,Southampton,,,1,0,1,0,
+Taussig,Mrs Tillie,,39,F,,Southampton,,,1,1,1,0,
+Taussig,Miss Ruth,,18,F,,Southampton,,,1,1,1,0,
+Taylor,Mr Elmer Zebley,,48,M,,Southampton,,,1,1,1,0,
+Taylor,Mrs Juliet Cummins,,49,F,,Southampton,,,1,1,1,0,
+Thayer,Mr John Borland,,49,M,,Cherbourg,,,1,0,1,0,
+Thayer,Mrs Marian Longstreth,,39,F,,Cherbourg,,,1,1,1,0,
+Thayer,Mr John Borland Jr,,17,M,,Cherbourg,,,1,1,1,0,
+Thorne,Miss Gertrude Maybelle,,38,F,,Cherbourg,,,1,1,1,0,
+Tucker,Mr Gilbert Milligan Jr,,31,M,,Cherbourg,,,1,1,1,0,
+Uruchurtu,Don. Manuel Ramirez,,39,M,,Cherbourg,,,1,0,1,0,
+Van Der Hoef,Mr Wyckoff,,61,M,,Belfast,,,1,0,1,0,
+Walker,Mr William Anderson,,48,M,,Southampton,,,1,0,1,0,
+Ward,Miss Annie Moore    ,(Maid to Mrs Charlotte Cardeza),35,F,,Cherbourg,,,1,1,1,0,
+Warren,Mr Frank Manley,,63,M,,Cherbourg,,,1,0,1,0,
+Warren,Mrs Anna Sophia,,60,F,,Cherbourg,,,1,1,1,0,
+Weir,Colonel John,,59,M,,Southampton,,,1,0,1,0,
+White,Mr Percival Wayland,,54,M,,Southampton,,,1,0,1,0,
+White,Mr Richard Frasar,,21,M,,Southampton,,,1,0,1,0,
+White,Mrs Ella,,55,F,,Cherbourg,,,1,1,1,0,
+Wick,Colonel George Dennick,,57,M,,Southampton,,,1,0,1,0,
+Wick,Mrs Mary Peebles,,45,F,,Southampton,,,1,1,1,0,
+Wick,Miss Mary Natalie,,31,F,,Southampton,,,1,1,1,0,
+Widener,Mr George Dunton,,50,M,,Southampton,,,1,0,1,0,
+Widener,Mrs Eleanor,,50,F,,Southampton,,,1,1,1,0,
+Widener,Mr Harry Elkins,,27,M,,Southampton,,,1,0,1,0,
+Willard,Miss Constance,,21,F,,Southampton,,,1,1,1,0,
+Williams,Mr Fletcher Fellowes Lambert,,43,M,,Southampton,,,1,0,1,0,
+Williams,Mr Charles Duane,,51,M,,Cherbourg,,,1,0,1,0,
+Williams,Mr Richard Norris II,,21,M,,Cherbourg,,,1,1,1,0,
+Wilson,Miss Helen Alice    ,(Maid to Mrs Frederic Oakley Spedden),31,F,,Cherbourg,,,1,1,1,0,
+Woolner,Mr Hugh,,45,M,,Southampton,,,1,1,1,0,
+Wright,Mr George,,62,M,,Southampton,,,1,0,1,0,
+Young,Miss Marie Grice,,36,F,,Cherbourg,,,1,1,1,0,
+Abelson,Mr Samuel,,30,M,,Cherbourg,,,2,0,1,0,
+Abelson,Mrs Hannah,,28,F,,Cherbourg,,,2,1,1,0,
+Aldworth,Mr Augustus Henry,,34,M,,Southampton,,,2,0,1,0,
+Andrew,Mr Frank Thomas,,25,M,,Southampton,,,2,0,1,0,
+Andrew,Mr Edgar Samuel,,17,M,,Southampton,,,2,0,1,0,
+Angle,Mrs Florence Agnes,,36,F,,Southampton,,,2,1,1,0,
+Angle,Mr William,,32,M,,Southampton,,,2,0,1,0,
+Ashby,Mr John,,57,M,,Southampton,,,2,0,1,0,
+Bailey,Mr Percy,,15,M,,Southampton,,,2,0,1,0,
+Baimbrigge,Mr Charles Robert,,22,M,,Southampton,,,2,0,1,0,
+Balls,Mrs Ada E.,,36,F,,Southampton,,,2,1,1,0,
+Banfield,Mr Frederick James,,28,M,,Southampton,,,2,0,1,0,
+Bateman,Reverend Robert James,,51,M,,Southampton,,,2,0,1,0,
+Beane,Mr Edward,,32,M,,Southampton,,,2,1,1,0,
+Beane,Mrs Ethel,,22,F,,Southampton,,,2,1,1,0,
+Beauchamp,Mr Henry James,,28,M,,Southampton,,,2,0,1,0,
+Becker,Mrs Nellie E.,,35,F,,Southampton,,,2,1,1,0,
+Becker,Miss Ruth Elizabeth,,12,F,,Southampton,,,2,1,1,0,
+Becker,Miss Marion Louise,,4,F,,Southampton,,,2,1,1,0,
+Becker,Master Richard F.,,1,M,,Southampton,,,2,1,1,0,
+Beesley,Mr Lawrence,,34,M,,Southampton,,,2,1,1,0,
+Bentham,Miss Lillian W.,,19,F,,Southampton,,,2,1,1,0,
+Berriman,Mr William John,,23,M,,Southampton,,,2,0,1,0,
+Botsford,Mr William Hull,,25,M,,Southampton,,,2,0,1,0,
+Bowenur,Mr Solomon,,42,M,,Southampton,,,2,0,1,0,
+Bracken,Mr James Hollen,,29,M,,Southampton,,,2,0,1,0,
+Brailey,Mr William Theodore Ronald,,24,M,,Southampton,,,2,0,1,0,
+Bricoux,Mr Roger Marie,,20,M,,Southampton,,,2,0,1,0,
+Brito,Mr Jose Joaquim de,,32,M,,Southampton,,,2,0,1,0,
+Brown,Mr Thomas William Solomon,,60,M,,Southampton,,,2,0,1,0,
+Brown,Mrs Elizabeth Catherine,,40,F,,Southampton,,,2,1,1,0,
+Brown,Miss Amelia Mary,,18,F,,Southampton,,,2,1,1,0,
+Brown,Miss Edith Eileen,,15,F,,Southampton,,,2,1,1,0,
+Bryhl,Mr Kurt Arnold Gottfrid,,25,M,,Southampton,,,2,0,1,0,
+Bryhl,Miss Dagmar Jenny Ingeborg,,20,F,,Southampton,,,2,1,1,0,
+Buss,Miss Kate,,36,F,,Southampton,,,2,1,1,0,
+Butler,Mr Reginald Fenton,,25,M,,Southampton,,,2,0,1,0,
+Byles,Father Thomas Roussel Davids,,42,M,,Southampton,,,2,0,1,0,
+Bystrom,Mrs Karolina,,40,F,,Southampton,,,2,0,1,0,
+Caldwell,Mrs Sylvia Mae,,28,F,,Southampton,,,2,1,1,0,
+Caldwell,Mr Albert Francis,,26,M,,Southampton,,,2,1,1,0,
+Caldwell,Master Alden Gates,,0.8333,M,,Southampton,,,2,1,1,0,
+Cameron,Miss Clear Annie,,35,F,,Southampton,,,2,1,1,0,
+Campbell,Mr William Henry,,21,M,,Belfast,,,2,0,1,0,
+Carbines,Mr William,,19,M,,Southampton,,,2,0,1,0,
+Carter,Father Ernest Courtenay,,54,M,,Southampton,,,2,0,1,0,
+Carter,Mrs Lilian,,45,F,,Southampton,,,2,0,1,0,
+Chapman,Mr Charles Henry,,52,M,,Southampton,,,2,0,1,0,
+Chapman,Mr John Henry,,36,M,,Southampton,,,2,0,1,0,
+Chapman,Mrs Sara Elizabeth,,28,F,,Southampton,,,2,0,1,0,
+Christy,Mrs Alice Frances,,45,F,,Southampton,,,2,1,1,0,
+Christy,Miss Rachel Juli Cohen,,25,F,,Southampton,,,2,1,1,0,
+Clarke,Mr Charles Valentine,,29,M,,Southampton,,,2,0,1,0,
+Clarke,Mr John Frederick Preston,,28,M,,Southampton,,,2,0,1,0,
+Clarke,Mrs Ada Maria,,28,F,,Southampton,,,2,1,1,0,
+Coleridge,Mr Reginald Charles,,29,M,,Southampton,,,2,0,1,0,
+Collander,Mr Erik Gustaf,,27,M,,Southampton,,,2,0,1,0,
+Collett,Mr Sidney Clarence Stuart,,25,M,,Southampton,,,2,1,1,0,
+Collyer,Mrs Charlotte Caroline,,31,F,,Southampton,,,2,1,1,0,
+Collyer,Mr Harvey,,31,M,,Southampton,,,2,0,1,0,
+Collyer,Miss Marjorie Lottie,,8,F,,Southampton,,,2,1,1,0,
+Cook,Mrs Selena,,22,F,,Southampton,,,2,1,1,0,
+Corbett,Mrs Irene,,30,F,,Southampton,,,2,0,1,0,
+Corey,Mrs Mary Emma,,30,F,,Southampton,,,2,0,1,0,
+Cotterill,Mr Henry,,20,M,,Southampton,,,2,0,1,0,
+Cunningham,Mr Alfred Fleming,,21,M,,Belfast,,,2,0,1,0,
+Davies,Mrs Agnes,,48,F,,Southampton,,,2,1,1,0,
+Davies,Mr Charles Henry,,19,M,,Southampton,,,2,0,1,0,
+Davies,Master John Morgan Jr,,8,M,,Southampton,,,2,1,1,0,
+Davis,Miss Mary Ann Charlotte,,28,F,,Southampton,,,2,1,1,0,
+Deacon,Mr Percy William,,18,M,,Southampton,,,2,0,1,0,
+Del Carlo,Mr Sebastiano,,29,M,,Cherbourg,,,2,0,1,0,
+Del Carlo,Mrs Argene,,24,F,,Cherbourg,,,2,1,1,0,
+Denbuoy,Mr Albert Joseph,,25,M,,Southampton,,,2,0,1,0,
+Dibden,Mr William,,18,M,,Southampton,,,2,0,1,0,
+Doling,Mrs Ada Julia Elizabeth,,34,F,,Southampton,,,2,0,1,0,
+Doling,Miss Elsie,,18,F,,Southampton,,,2,0,1,0,
+Douton,Mr William Joseph,,55,M,,Southampton,,,2,0,1,0,
+Drew,Mr James Vivian,,42,M,,Southampton,,,2,0,1,0,
+Drew,Mrs Maria Louisa Thorne,,34,F,,Southampton,,,2,1,1,0,
+Drew,Master Marshall Brines,,8,M,,Southampton,,,2,1,1,0,
+Durán I Mone,Señora Florentina,,30,M,,Cherbourg,,,2,1,1,0,
+Durán I Mone,Señora Asuncion,,27,M,,Cherbourg,,,2,1,1,0,
+Eitemiller,Mr George Floyd,,25,M,,Southampton,,,2,0,1,0,
+Enander,Mr Ingvar,,21,M,,Southampton,,,2,0,1,0,
+Fahlstrøm,Mr Arne Joma,,18,M,,Southampton,,,2,0,1,0,
+Faunthorpe,Mr Harry Bartram,,41,M,,Southampton,,,2,0,1,0,
+Fillbrook,Mr Joseph Charles,,18,M,,Southampton,,,2,0,1,0,
+Fox,Mr Stanley Harrington,,38,M,,Southampton,,,2,0,1,0,
+Frost,Mr Anthony Wood,,38,M,,Belfast,,,2,0,1,0,
+Funk,Miss Annie Clemmer,,38,F,,Southampton,,,2,0,1,0,
+Fynney,Mr Joseph J.,,35,M,,Southampton,,,2,0,1,0,
+Gale,Mr Harry,,38,M,,Southampton,,,2,0,1,0,
+Gale,Mr Shadrach,,33,M,,Southampton,,,2,0,1,0,
+Garside,Miss Ethel,,39,F,,Southampton,,,2,1,1,0,
+Gaskell,Mr William Alfred,,19,M,,Southampton,,,2,0,1,0,
+Gavey,Mr Laurence,,26,M,,Southampton,,,2,0,1,0,
+Gilbert,Mr William,,47,M,,Southampton,,,2,0,1,0,
+Giles,Mr Ralph,,24,M,,Southampton,,,2,0,1,0,
+Giles,Mr Edgar,,21,M,,Southampton,,,2,0,1,0,
+Giles,Mr Frederick Edward,,20,M,,Southampton,,,2,0,1,0,
+Gill,Mr John,,24,M,,Southampton,,,2,0,1,0,
+Gillespie,Mr William Henry,,31,M,,Southampton,,,2,0,1,0,
+Givard,Mr Hans Kristensen,,30,M,,Southampton,,,2,0,1,0,
+Greenberg,Mr Samuel,,52,M,,Southampton,,,2,0,1,0,
+Hamalainen,Mrs Anna,,23,F,,Southampton,,,2,1,1,0,
+Hamalainen,Master Viljo Unto Johannes,,0.5833,M,,Southampton,,,2,1,1,0,
+Hale,Mr Reginald,,30,M,,Southampton,,,2,0,1,0,
+Harbeck,Mr William H.,,44,M,,Southampton,,,2,0,1,0,
+Harper,Reverend John,,39,M,,Southampton,,,2,0,1,0,
+Harper,Miss Annie Jessie,,6,F,,Southampton,,,2,1,1,0,
+Harris,Mr George,,62,M,,Southampton,,,2,1,1,0,
+Harris,Mr Walter,,44,M,,Southampton,,,2,0,1,0,
+Hart,Mrs Esther Ada,,48,F,,Southampton,,,2,1,1,0,
+Hart,Mr Benjamin,,47,M,,Southampton,,,2,0,1,0,
+Hart,Miss Eva Miriam,,7,F,,Southampton,,,2,1,1,0,
+Hartley,Mr Wallace Henry,,33,M,,Southampton,,,2,0,1,0,
+Herman,Mr Samuel,,49,M,,Southampton,,,2,0,1,0,
+Herman,Mrs Jane,,48,F,,Southampton,,,2,1,1,0,
+Herman,Miss Alice,,23,F,,Southampton,,,2,1,1,0,
+Herman,Miss Kate,,23,F,,Southampton,,,2,1,1,0,
+Hewlett,Mrs Mary Dunbar,,56,F,,Southampton,,,2,1,1,0,
+Hickman,Mr Lewis,,30,M,,Southampton,,,2,0,1,0,
+Hickman,Mr Leonard Mark,,24,M,,Southampton,,,2,0,1,0,
+Hickman,Mr Stanley George,,20,M,,Southampton,,,2,0,1,0,
+Hiltunen,Miss Marta,,18,F,,Southampton,,,2,0,1,0,
+Hocking,Mrs Eliza,,54,F,,Southampton,,,2,1,1,0,
+Hocking,Mr Samuel James Metcalfe,,36,M,,Southampton,,,2,0,1,0,
+Hocking,Mr Richard George,,23,M,,Southampton,,,2,0,1,0,
+Hocking,Miss Ellen,,20,F,,Southampton,,,2,1,1,0,
+Hodges,Mr Henry Price,,50,M,,Southampton,,,2,0,1,0,
+Hold,Mr Stephen,,44,M,,Southampton,,,2,0,1,0,
+Hold,Mrs Annie Margaret,,29,F,,Southampton,,,2,1,1,0,
+Hood,Mr Ambrose Jr,,21,M,,Southampton,,,2,0,1,0,
+Hosono,Mr Masabumi,,41,M,,Southampton,,,2,1,1,0,
+Howard,Mr Benjamin,,63,M,,Southampton,,,2,0,1,0,
+Howard,Mrs Ellen Truelove,,61,F,,Southampton,,,2,0,1,0,
+Hume,Mr John Law,,21,M,,Southampton,,,2,0,1,0,
+Hunt,Mr George Henry,,33,M,,Southampton,,,2,0,1,0,
+Ilett,Miss Bertha,,17,F,,Southampton,,,2,0,1,0,
+Jacobsohn,Mr Sidney Samuel,,42,M,,Southampton,,,2,0,1,0,
+Jacobsohn,Mrs Amy Frances Christy,,24,F,,Southampton,,,2,1,1,0,
+Jarvis,Mr Denzil John,,47,M,,Southampton,,,2,0,1,0,
+Jefferys,Mr Clifford Thomas,,24,M,,Southampton,,,2,0,1,0,
+Jefferys,Mr Ernest Wilfred,,22,M,,Southampton,,,2,0,1,0,
+Jenkin,Mr Stephen Curnow,,32,M,,Southampton,,,2,0,1,0,
+Jerwan,Mrs Marie Marthe,,23,F,,Cherbourg,,,2,1,1,0,
+Kantor,Mr Sinai,,34,M,,Southampton,,,2,0,1,0,
+Kantor,Mrs Miriam,,24,F,,Southampton,,,2,1,1,0,
+Karnes,Mrs Claire,,28,F,,Southampton,,,2,0,1,0,
+Keane,Miss Nora Agnes,,46,F,,Queenstown,,,2,1,1,0,
+Keane,Mr Daniel,,35,M,,Queenstown,,,2,0,1,0,
+Kelly,Mrs Fanny Maria,,45,F,,Southampton,,,2,1,1,0,
+Kirkland,Father Charles Leonard,,52,M,,Queenstown,,,2,0,1,0,
+Knight,Mr Robert,,39,M,,Belfast,,,2,0,1,0,
+Krins,Mr Georges Alexandre,,23,M,,Southampton,,,2,0,1,0,
+Kvillner,Mr Johan Henrik Johannesson,,31,M,,Southampton,,,2,0,1,0,
+Levy,Mr Rene Jacques,,36,M,,Southampton,,,2,0,1,0,
+Lahtinen,Father William,,35,M,,Southampton,,,2,0,1,0,
+Lahtinen,Mrs Anna Amelia,,34,F,,Southampton,,,2,0,1,0,
+Lamb,Mr John J.,,30,M,,Queenstown,,,2,0,1,0,
+Laroche,Mr Joseph Philippe Lemercier,,25,M,,Cherbourg,,,2,0,1,0,
+Laroche,Mrs Juliette Marie Louise,,22,F,,Cherbourg,,,2,1,1,0,
+Laroche,Miss Simonne Marie Anne Andree,,3,F,,Cherbourg,,,2,1,1,0,
+Laroche,Miss Louise,,1,F,,Cherbourg,,,2,1,1,0,
+Lehmann,Miss Bertha,,17,F,,Cherbourg,,,2,1,1,0,
+Leitch,Miss Jessie Wills,,31,F,,Southampton,,,2,1,1,0,
+Lemore,Mrs Amelia,,46,F,,Southampton,,,2,1,1,0,
+Leyson,Mr Robert William Norman,,25,M,,Southampton,,,2,0,1,0,
+Lingane,Mr John,,61,M,,Queenstown,,,2,0,1,0,
+Louch,Mr Charles,,50,M,,Southampton,,,2,0,1,0,
+Louch,Mrs Alice Adelaide,,42,F,,Southampton,,,2,0,1,0,
+Mack,Mrs Mary,,57,F,,Southampton,,,2,0,1,0,
+Malachard,Mr Jean-Noël,,25,M,,Cherbourg,,,2,0,1,0,
+Mallet,Mr Albert Denis Pierre,,45,M,,Cherbourg,,,2,0,1,0,
+Mallet,Mrs Antonine Marie,,24,F,,Cherbourg,,,2,1,1,0,
+Mallet,Master Andre Clement,,1,M,,Cherbourg,,,2,1,1,0,
+Mangiavacchi,Mr Serafino Emilio,,30,M,,Cherbourg,,,2,0,1,0,
+Matthews,Mr William John,,23,M,,Southampton,,,2,0,1,0,
+Maybery,Mr Frank Hubert,,36,M,,Southampton,,,2,0,1,0,
+McCrae,Mr Arthur Gordon,,32,M,,Southampton,,,2,0,1,0,
+McCrie,Mr James Matthew,,32,M,,Southampton,,,2,0,1,0,
+McKane,Mr Peter Daniel,,46,M,,Southampton,,,2,0,1,0,
+Mellinger,Mrs Elizabeth Anne,,41,F,,Southampton,,,2,1,1,0,
+Mellinger,Miss Violet Madeline,,13,F,,Southampton,,,2,1,1,0,
+Mellors,Mr William John,,19,M,,Southampton,,,2,1,1,0,
+Meyer,Mr August,,31,M,,Southampton,,,2,0,1,0,
+Milling,Mr Jacob Christian,,48,M,,Southampton,,,2,0,1,0,
+Mitchell,Mr Henry Michael,,71,M,,Southampton,,,2,0,1,0,
+Montvila,Father Juozas,,27,M,,Southampton,,,2,0,1,0,
+Moraweck,Dr Ernest,,54,M,,Southampton,,,2,0,1,0,
+Morley,Mr Henry Samuel,,38,M,,Southampton,,,2,0,1,0,
+Mudd,Mr Thomas Cupper,,16,M,,Southampton,,,2,0,1,0,
+Myles,Mr Thomas Francis,,63,M,,Queenstown,,,2,0,1,0,
+Nasser,Mr Nicholas,,28,M,,Cherbourg,,,2,0,1,0,
+Nasser,Mrs Adele,,14,F,,Cherbourg,,,2,0,1,0,
+Navratil,Mr Michel,,32,M,,Southampton,,,2,0,1,0,
+Navratil,Master Michel Marcel,,3,M,,Southampton,,,2,1,1,0,
+Navratil,Master Edmond Roger,,2,M,,Southampton,,,2,1,1,0,
+Nesson,Mr Israel,,26,M,,Southampton,,,2,0,1,0,
+Nicholls,Mr Joseph Charles,,19,M,,Southampton,,,2,0,1,0,
+Norman,Mr Robert Douglas,,27,M,,Southampton,,,2,0,1,0,
+Nye,Mrs Elizabeth,,29,F,,Southampton,,,2,1,1,0,
+Otter,Mr Richard,,38,M,,Southampton,,,2,0,1,0,
+Oxenham,Mr Percy Thomas,,22,M,,Southampton,,,2,1,1,0,
+Padron Manent,Mr Julian,,26,M,,Cherbourg,,,2,1,1,0,
+Pain,Dr Alfred,,23,M,,Southampton,,,2,0,1,0,
+Pallàs I Castelló,Señor Emili,,29,M,,Cherbourg,,,2,1,1,0,
+Parker,Mr Clifford Richard,,17,M,,Southampton,,,2,0,1,0,
+Parkes,Mr Francis,,21,M,,Belfast,,,2,0,1,0,
+Parrish,Mrs Lutie Davis,,59,F,,Southampton,,,2,1,1,0,
+Pengelly,Mr Frederick William,,19,M,,Southampton,,,2,0,1,0,
+Pernot,Mr Rene,,39,M,,Cherbourg,,,2,0,1,0,
+Peruschitz,Father Josef,,41,M,,Southampton,,,2,0,1,0,
+Phillips,Mr Escott Robert,,42,M,,Southampton,,,2,0,1,0,
+Phillips,Miss Alice Frances Louisa,,21,F,,Southampton,,,2,1,1,0,
+Phillips,Miss Kate Florence,,19,F,,Southampton,,,2,1,1,0,
+Pinsky,Mrs Rosa,,32,F,,Southampton,,,2,1,1,0,
+Ponesell,Mr Martin,,24,M,,Southampton,,,2,0,1,0,
+Portaluppi,Mr Emilio Ilario Giuseppe,,30,M,,Cherbourg,,,2,1,1,0,
+Pulbaum,Mr Franz,,27,M,,Cherbourg,,,2,0,1,0,
+Quick,Mrs Jane,,33,F,,Southampton,,,2,1,1,0,
+Quick,Miss Winifred Vera,,8,F,,Southampton,,,2,1,1,0,
+Quick,Miss Phyllis May,,2,F,,Southampton,,,2,1,1,0,
+Reeves,Mr David,,36,M,,Southampton,,,2,0,1,0,
+Renouf,Mr Peter Henry,,33,M,,Southampton,,,2,0,1,0,
+Renouf,Mrs Lillian,,30,F,,Southampton,,,2,0,1,0,
+Reynalds,Señora Encarnación,,28,M,,Southampton,,,2,1,1,0,
+Richard,Mr Emile Phillippe,,23,M,,Cherbourg,,,2,0,1,0,
+Richards,Mrs Emily,,24,F,,Southampton,,,2,1,1,0,
+Richards,Master Sibley George,,0.75,M,,Southampton,,,2,1,1,0,
+Richards,Master William Rowe,,3,M,,Southampton,,,2,1,1,0,
+Ridsdale,Miss Lucy,,58,F,,Southampton,,,2,1,1,0,
+Rogers,Mr Reginald Harry,,18,M,,Southampton,,,2,0,1,0,
+Rugg,Miss Emily,,21,F,,Southampton,,,2,1,1,0,
+Schmidt,Mr Augustus,,21,M,,Southampton,,,2,0,1,0,
+Sedgwick,Mr Charles Frederick Waddington,,28,M,,Southampton,,,2,0,1,0,
+Sharp,Mr Percival,,27,M,,Southampton,,,2,0,1,0,
+Shelley,Mrs Imanita Parrish,,25,F,,Southampton,,,2,1,1,0,
+Silven,Miss Lyyli Karoliina,,17,F,,Southampton,,,2,1,1,0,
+Sincock,Miss Maude,,20,F,,Southampton,,,2,1,1,0,
+Sinkkonen,Miss Anna,,29,F,,Southampton,,,2,1,1,0,
+Sjostedt,Mr Ernst Adolf,,59,M,,Southampton,,,2,0,1,0,
+Slayter,Miss Hilda Mary,,30,F,,Queenstown,,,2,1,1,0,
+Slemen,Mr Richard James,,35,M,,Southampton,,,2,0,1,0,
+Smith,Miss Marion Elsie,,39,F,,Southampton,,,2,1,1,0,
+Sobey,Mr Samuel James Hayden,,25,M,,Southampton,,,2,0,1,0,
+Stanton,Mr Samuel Ward,,42,M,,Cherbourg,,,2,0,1,0,
+Stokes,Mr Philip Joseph,,25,M,,Southampton,,,2,0,1,0,
+Swane,Mr George,,19,M,,Southampton,,,2,0,1,0,
+Sweet,Mr George Frederick,,14,M,,Southampton,,,2,0,1,0,
+Taylor,Mr Percy Cornelius,,32,M,,Southampton,,,2,0,1,0,
+Toomey,Miss Ellen Mary,,48,F,,Southampton,,,2,1,1,0,
+Troupiansky,Mr Moses Aaron,,23,M,,Southampton,,,2,0,1,0,
+Trout,Mrs Jessie Laird,,27,F,,Southampton,,,2,1,1,0,
+Troutt,Miss Edwina Celia,,27,F,,Southampton,,,2,1,1,0,
+Turpin,Mr William John,,29,M,,Southampton,,,2,0,1,0,
+Turpin,Mrs Dorothy Ann,,26,F,,Southampton,,,2,0,1,0,
+Veal,Mr James,,40,M,,Southampton,,,2,0,1,0,
+Wallcroft,"Miss Ellen ""Nellie""",,36,F,,Southampton,,,2,1,1,0,
+Ware,Mr John James,,45,M,,Southampton,,,2,0,1,0,
+Ware,Mrs Florence Louise,,31,F,,Southampton,,,2,1,1,0,
+Ware,Mr William Jeffery,,23,M,,Southampton,,,2,0,1,0,
+Watson,Mr Ennis Hastings,,19,M,,Belfast,,,2,0,1,0,
+Watt,Mrs Elizabeth,,40,F,,Southampton,,,2,1,1,0,
+Watt,Miss Robertha Josephine,,12,F,,Southampton,,,2,1,1,0,
+Webber,Miss Susan,,37,F,,Southampton,,,2,1,1,0,
+Weisz,Mr Leopold,,37,M,,Southampton,,,2,0,1,0,
+Weisz,Mrs Mathilde Françoise,,37,F,,Southampton,,,2,1,1,0,
+Wells,Mrs Addie Dart,,29,F,,Southampton,,,2,1,1,0,
+Wells,Miss Joan,,4,F,,Southampton,,,2,1,1,0,
+Wells,Master Ralph Lester,,2,M,,Southampton,,,2,1,1,0,
+West,Mr Edwy Arthur,,36,M,,Southampton,,,2,0,1,0,
+West,Mrs Ada Mary,,33,F,,Southampton,,,2,1,1,0,
+West,Miss Barbara Joyce,,0.8333,F,,Southampton,,,2,1,1,0,
+West,Miss Constance Mirium,,4,F,,Southampton,,,2,1,1,0,
+Wheadon,Mr Edward Henry,,65,M,,Southampton,,,2,0,1,0,
+Wheeler,Mr Edwin Charles,,24,M,,Southampton,,,2,0,1,0,
+Whilems,Mr Charles,,31,M,,Southampton,,,2,1,1,0,
+Wilkinson,Mrs Elizabeth Anne,,35,F,,Southampton,,,2,1,1,0,
+Williams,Mr Charles Eugene,,23,M,,Southampton,,,2,1,1,0,
+Woodward,Mr John Wesley,,32,M,,Southampton,,,2,0,1,0,
+Wright,Miss Marion,,26,F,,Southampton,,,2,1,1,0,
+Yvois,Miss Henriette,,24,F,,Southampton,,,2,0,1,0,
+Ab ?-Al-Munà,Mr N?s ?f Q?sim,,26,M,,Cherbourg,,,3,1,1,0,
+Abbing,Mr Anthony,,42,M,,Southampton,,,3,0,1,0,
+Abbott,"Mrs Rhoda Mary ""Rosa""",,39,F,,Southampton,,,3,1,1,0,
+Abbott,Mr Rossmore Edward,,16,M,,Southampton,,,3,0,1,0,
+Abbott,Mr Eugene Joseph,,14,M,,Southampton,,,3,0,1,0,
+Abelseth,Miss Karen Marie,,16,F,,Southampton,,,3,1,1,0,
+Abelseth,Mr Olaus Jørgensen,,25,M,,Southampton,,,3,1,1,0,
+Abrahamsson,Mr Abraham August Johannes,,20,M,,Southampton,,,3,1,1,0,
+Ådahl,Mr Mauritz,,30,M,,Southampton,,,3,0,1,0,
+Adams,Mr John,,26,M,,Southampton,,,3,0,1,0,
+Ahlin,Mrs Johanna Persdotter,,40,F,,Southampton,,,3,0,1,0,
+Aks,Mrs Leah,,18,F,,Southampton,,,3,1,1,0,
+Aks,Master Frank Philip,,0.8333,M,,Southampton,,,3,1,1,0,
+Al-Munà,Mr Far ?d Husayn Q?sim,,18,M,,Cherbourg,,,3,0,1,0,
+Alexander,Mr William Albert,,23,M,,Southampton,,,3,0,1,0,
+Alhomaki,Mr Ilmari Rudolf,,19,M,,Southampton,,,3,0,1,0,
+Ali,Mr Ahmed,,24,M,,Southampton,,,3,0,1,0,
+Ali,Mr William,,25,M,,Southampton,,,3,0,1,0,
+Allen,Mr William Henry,,38,M,,Southampton,,,3,0,1,0,
+Allum,Mr Owen George,,15,M,,Southampton,,,3,0,1,0,
+Andersen,Mr Albert Karvin,,33,M,,Southampton,,,3,0,1,0,
+Andersen-Jensen,Miss Carla Christine Nielsine,,19,F,,Southampton,,,3,1,1,0,
+Andersson,Miss Erna Alexandra,,17,F,,Southampton,,,3,1,1,0,
+Andersson,Mr Johan Samuel,,26,M,,Southampton,,,3,0,1,0,
+Andersson,Miss Ida Augusta Margareta,,38,F,,Southampton,,,3,0,1,0,
+Andersson,Mr Anders Johan,,39,M,,Southampton,,,3,0,1,0,
+Andersson,Mrs Alfrida Konstantia Brogren,,39,F,,Southampton,,,3,0,1,0,
+Andersson,Miss Sigrid Elisabeth,,11,F,,Southampton,,,3,0,1,0,
+Andersson,Miss Ingeborg Constanzia,,9,F,,Southampton,,,3,0,1,0,
+Andersson,Miss Ebba Iris Alfrida,,6,F,,Southampton,,,3,0,1,0,
+Andersson,Master Sigvard Harald Elias,,4,M,,Southampton,,,3,0,1,0,
+Andersson,Miss Ellis Anna Maria,,2,F,,Southampton,,,3,0,1,0,
+Andreasson,Mr Pål Edvin,,20,M,,Southampton,,,3,0,1,0,
+Angheloff,Mr Minko,,26,M,,Southampton,,,3,0,1,0,
+Arnold-Franchi,Mr Josef,,25,M,,Southampton,,,3,0,1,0,
+Arnold-Franchi,Mrs Josefine,,18,F,,Southampton,,,3,0,1,0,
+Aronsson,Mr Ernst Axel Algot,,24,M,,Southampton,,,3,0,1,0,
+Asim,Mr Adola,,35,M,,Southampton,,,3,0,1,0,
+Asplund,Master Edvin Rojj Felix,,3,M,,Southampton,,,3,1,1,0,
+Asplund,Mr Johan Charles,,23,M,,Southampton,,,3,1,1,0,
+Asplund,Mr Carl Oscar Vilhelm Gustafsson,,40,M,,Southampton,,,3,0,1,0,
+Asplund,Mrs Selma Augusta Emilia,,38,F,,Southampton,,,3,1,1,0,
+Asplund,Master Carl Edgar,,5,M,,Southampton,,,3,0,1,0,
+Asplund,Master Filip Oscar,,13,M,,Southampton,,,3,0,1,0,
+Asplund,Master Clarence Gustaf Hugo,,9,M,,Southampton,,,3,0,1,0,
+Asplund,Miss Lillian Gertrud,,5,F,,Southampton,,,3,1,1,0,
+Assaf,Mrs Mariana,,45,F,,Cherbourg,,,3,1,1,0,
+Assam,Mr Ali,,23,M,,Southampton,,,3,0,1,0,
+Attala,Mr Sleiman,,27,M,,Cherbourg,,,3,0,1,0,
+Attalah,Miss Malake,,17,F,,Cherbourg,,,3,0,1,0,
+Augustsson,Mr Albert,,23,M,,Southampton,,,3,0,1,0,
+Ayoub Daher,Miss Banoura,,15,F,,Cherbourg,,,3,1,1,0,
+Backstrom,Mr Karl Alfred,,32,M,,Southampton,,,3,0,1,0,
+Backstrom,Mrs Maria Mathilda,,33,F,,Southampton,,,3,0,1,0,
+Baclini,Mrs Latifa,,24,F,,Cherbourg,,,3,1,1,0,
+Baclini,Miss Marie Catherine,,5,F,,Cherbourg,,,3,1,1,0,
+Baclini,Miss Eugenie,,3,F,,Cherbourg,,,3,1,1,0,
+Baclini,Miss Helene Barbara,,0.75,F,,Cherbourg,,,3,1,1,0,
+Badman,Miss Emily Louisa,,18,F,,Southampton,,,3,1,1,0,
+Badt,Mr Mohamed,,40,M,,Cherbourg,,,3,0,1,0,
+Balkic,Mr Cerin,,26,M,,Southampton,,,3,0,1,0,
+Banski,Mrs Mara,,31,F,,Southampton,,,3,0,1,0,
+Barbara,Mrs Catherine David,,45,F,,Cherbourg,,,3,0,1,0,
+Barbara,Miss Saiide,,18,F,,Cherbourg,,,3,0,1,0,
+Barry,Miss Julia,,26,F,,Queenstown,,,3,0,1,0,
+Barton,Mr David John,,22,M,,Southampton,,,3,0,1,0,
+Batoshev,Mr Hristo Lalev,,23,M,,Southampton,,,3,0,1,0,
+B?lus,Mrs Sult?nah,,40,F,,Cherbourg,,,3,0,1,0,
+B?lus,Miss N?r-al-Ayn,,7,F,,Cherbourg,,,3,0,1,0,
+B?lus,Master Akar,,9,M,,Cherbourg,,,3,0,1,0,
+Beavan,Mr William Thomas,,20,M,,Southampton,,,3,0,1,0,
+Bengtsson,Mr Johan Viktor,,26,M,,Southampton,,,3,0,1,0,
+Berglund,Mr Karl Ivar Sven,,22,M,,Southampton,,,3,0,1,0,
+Bing,Mr Lee,,32,M,,Southampton,,,3,1,1,0,
+Birkeland,Mr Hans Martin Monsen,,21,M,,Southampton,,,3,0,1,0,
+Bjorklund,Mr Ernst Herbert,,18,M,,Southampton,,,3,0,1,0,
+Bostandyeff,Mr Guentcho,,26,M,,Southampton,,,3,0,1,0,
+Bourke,Mr John,,42,M,,Queenstown,,,3,0,1,0,
+Bourke,Mrs Catherine,,32,F,,Queenstown,,,3,0,1,0,
+Bourke,Miss Mary,,40,F,,Queenstown,,,3,0,1,0,
+Bowen,"Mr David John ""Dai""",,26,M,,Southampton,,,3,0,1,0,
+Bradley,Miss Bridget Delia,,22,F,,Queenstown,,,3,1,1,0,
+Braf,Miss Elin Ester Maria,,20,F,,Southampton,,,3,0,1,0,
+Braund,Mr Lewis Richard,,29,M,,Southampton,,,3,0,1,0,
+Braund,Mr Owen Harris,,22,M,,Southampton,,,3,0,1,0,
+Broback,Mr Karl Rudolf,,22,M,,Southampton,,,3,0,1,0,
+Brocklebank,Mr William Alfred,,35,M,,Southampton,,,3,0,1,0,
+Buckley,Mr Daniel,,21,M,,Queenstown,,,3,1,1,0,
+Buckley,Miss Katherine,,22,F,,Queenstown,,,3,0,1,0,
+Burke,Mr Jeremiah,,19,M,,Queenstown,,,3,0,1,0,
+Burns,Miss Mary Delia,,17,F,,Queenstown,,,3,0,1,0,
+Butrus-Ka'W ?,Mr Tann?s,,21,M,,Cherbourg,,,3,0,1,0,
+Cacic,Mr Jego Grga,,18,M,,Southampton,,,3,0,1,0,
+Cacic,Mr Luka,,38,M,,Southampton,,,3,0,1,0,
+Cacic,Miss Marija,,30,F,,Southampton,,,3,0,1,0,
+Cacic,Miss Manda,,21,F,,Southampton,,,3,0,1,0,
+Calic,Mr Petar,,17,M,,Southampton,,,3,0,1,0,
+Calic,Mr Jovo,,17,M,,Southampton,,,3,0,1,0,
+Canavan,Miss Mary,,22,F,,Queenstown,,,3,0,1,0,
+Canavan,Mr Patrick,,21,M,,Queenstown,,,3,0,1,0,
+Cann,Mr Ernest,,21,M,,Southampton,,,3,0,1,0,
+Caram,Mr Joseph,,28,M,,Cherbourg,,,3,0,1,0,
+Caram,Mrs Maria Elias,,18,F,,Cherbourg,,,3,0,1,0,
+Carlsson,Mr Carl Robert,,24,M,,Southampton,,,3,0,1,0,
+Carlsson,Mr August Sigfrid,,28,M,,Southampton,,,3,0,1,0,
+Carr,Miss Jane,,45,F,,Queenstown,,,3,0,1,0,
+Carver,Mr Alfred John,,28,M,,Southampton,,,3,0,1,0,
+Celotti,Mr Francesco,,24,M,,Southampton,,,3,0,1,0,
+Charters,Mr David,,20,M,,Queenstown,,,3,0,1,0,
+Chip,Mr Chang,,32,M,,Southampton,,,3,1,1,0,
+Christmann,Mr Emil,,29,M,,Southampton,,,3,0,1,0,
+Chronopoulos,Mr Apostolos M.,,26,M,,Cherbourg,,,3,0,1,0,
+Chronopoulos,Mr Dimitrios M.,,21,M,,Cherbourg,,,3,0,1,0,
+Coelho,Mr Domingos Fernandeo,,20,M,,Southampton,,,3,0,1,0,
+Cohen,Mr Gurshon,,18,M,,Southampton,,,3,1,1,0,
+Colbert,Mr Patrick,,24,M,,Queenstown,,,3,0,1,0,
+Coleff,Mr Satio,,24,M,,Southampton,,,3,0,1,0,
+Coltcheff,Mr Peju,,36,M,,Southampton,,,3,0,1,0,
+Conlin,Mr Thomas Henry,,31,M,,Queenstown,,,3,0,1,0,
+Connaughton,Mr Michael,,40,M,,Queenstown,,,3,0,1,0,
+Connolly,Miss Catherine,,23,F,,Queenstown,,,3,1,1,0,
+Connolly,Miss Kate,,41,F,,Queenstown,,,3,0,1,0,
+Connors,Mr Patrick,,66,M,,Queenstown,,,3,0,1,0,
+Cook,Mr Jacob,,43,M,,Southampton,,,3,0,1,0,
+Cor,Mr Bartol,,35,M,,Southampton,,,3,0,1,0,
+Cor,Mr Ivan,,27,M,,Southampton,,,3,0,1,0,
+Cor,Mr Liudevit,,19,M,,Southampton,,,3,0,1,0,
+Cornblatt,Mr Harris,,30,M,,Southampton,,,3,0,1,0,
+Corr,Miss Ellen,,16,F,,Queenstown,,,3,1,1,0,
+Coutts,Mrs Winnie,,36,F,,Southampton,,,3,1,1,0,
+Coutts,Master William Loch,,9,M,,Southampton,,,3,1,1,0,
+Coutts,Master Neville Leslie,,3,M,,Southampton,,,3,1,1,0,
+Coxon,Mr Daniel,,59,M,,Southampton,,,3,0,1,0,
+Crease,Mr Ernest James,,19,M,,Southampton,,,3,0,1,0,
+Cribb,Mr John Hatfield,,44,M,,Southampton,,,3,0,1,0,
+Cribb,Miss Laura Mae,,16,F,,Southampton,,,3,1,1,0,
+Culumovic,Mr Jeso,,17,M,,Southampton,,,3,0,1,0,
+Daher,Mr Tannous,,28,M,,Cherbourg,,,3,0,1,0,
+Dahl,Mr Charles Edward,,45,M,,Southampton,,,3,1,1,0,
+Dahlberg,Miss Gerda Ulrika,,22,F,,Southampton,,,3,0,1,0,
+Dakic,Mr Branko,,19,M,,Southampton,,,3,0,1,0,
+Daly,Miss Margaret Marcella,,33,F,,Queenstown,,,3,1,1,0,
+Daly,Mr Eugene Patrick,,29,M,,Queenstown,,,3,1,1,0,
+Danbom,Mr Ernst Gilbert,,34,M,,Southampton,,,3,0,1,0,
+Danbom,Mrs Anna Sigrid Maria,,28,F,,Southampton,,,3,0,1,0,
+Danbom,Master Gilbert Sigvard Emanuel,,0.333,M,,Southampton,,,3,0,1,0,
+Danoff,Mr Yoto,,27,M,,Southampton,,,3,0,1,0,
+Davies,Mr Evan,,22,M,,Southampton,,,3,0,1,0,
+Davies,Mr Alfred James,,24,M,,Southampton,,,3,0,1,0,
+Davies,Mr John,,21,M,,Southampton,,,3,0,1,0,
+Davies,Mr Joseph,,17,M,,Southampton,,,3,0,1,0,
+Davison,Mr Thomas Henry,,32,M,,Southampton,,,3,0,1,0,
+Davison,Mrs Mary Elizabeth,,34,F,,Southampton,,,3,1,1,0,
+De Messemaeker,Mr Guillaume Joseph,,36,M,,Southampton,,,3,1,1,0,
+De Messemaeker,Mrs Anna,,36,F,,Southampton,,,3,1,1,0,
+De Mulder,Mr Theodoor,,30,M,,Southampton,,,3,1,1,0,
+De Pelsmaeker,Mr Alfons,,16,M,,Southampton,,,3,0,1,0,
+Dean,Mr Bertram Frank,,25,M,,Southampton,,,3,0,1,0,
+Dean,Mrs Eva Georgetta,,32,F,,Southampton,,,3,1,1,0,
+Dean,Master Bertram Vere,,1,M,,Southampton,,,3,1,1,0,
+Dean,"Miss Elizabeth Gladys ""Millvina""",,0.166,F,,Southampton,,,3,1,1,0,
+Delalic,Mr Redjo,,25,M,,Southampton,,,3,0,1,0,
+Denkoff,Mr Mitto,,30,M,,Southampton,,,3,0,1,0,
+Dennis,Mr Samuel,,22,M,,Southampton,,,3,0,1,0,
+Dennis,Mr William,,26,M,,Southampton,,,3,0,1,0,
+Devaney,Miss Margaret Delia,,19,F,,Queenstown,,,3,1,1,0,
+Dika,Mr Mirko,,17,M,,Southampton,,,3,0,1,0,
+Dimic,Mr Jovan,,42,M,,Southampton,,,3,0,1,0,
+Dintcheff,Mr Valtcho,,43,M,,Southampton,,,3,0,1,0,
+Donohoe,Miss Bridget,,21,F,,Queenstown,,,3,0,1,0,
+Dooly,Mr Patrick,,38,M,,Queenstown,,,3,0,1,0,
+Dorking,Mr Edward Arthur,,18,M,,Southampton,,,3,1,1,0,
+Dougherty,Mr William John,,22,M,,Queenstown,,,3,0,1,0,
+Dowdell,Miss Elizabeth,,31,F,,Southampton,,,3,1,1,0,
+Doyle,Miss Elizabeth,,28,F,,Queenstown,,,3,0,1,0,
+Drazenovic,Mr Jozef,,33,M,,Cherbourg,,,3,0,1,0,
+Driscoll,Miss Bridget,,27,F,,Queenstown,,,3,1,1,0,
+Dropkin,Miss Jennie,,24,F,,Southampton,,,3,0,1,0,
+Duquemin,Mr Joseph Pierre,,24,M,,Southampton,,,3,1,1,0,
+Dwan,Mr Frank,,65,M,,Queenstown,,,3,0,1,0,
+Dyker,Mr Adolf Fredrik,,23,M,,Southampton,,,3,0,1,0,
+Dyker,Mrs Anna Elisabeth Judith,,22,F,,Southampton,,,3,1,1,0,
+Edvardsson,Mr Gustaf Hjalmar,,18,M,,Southampton,,,3,0,1,0,
+Eklund,Mr Hans Linus,,16,M,,Southampton,,,3,0,1,0,
+Ekstrom,Mr Amandus,,45,M,,Southampton,,,3,0,1,0,
+Elias,Mr Dibo,,29,M,,Cherbourg,,,3,0,1,0,
+Elias,Mr Joseph jr.,,15,M,,Cherbourg,,,3,0,1,0,
+Elias Nasrallah,Mr Tannous,,22,M,,Cherbourg,,,3,0,1,0,
+Elsbury,Mr William James,,48,M,,Southampton,,,3,0,1,0,
+Emanuel,Miss Virginia Ethel,,5,F,,Southampton,,,3,1,1,0,
+Estanislau,Mr Manuel Gonçalves,,37,M,,Southampton,,,3,0,1,0,
+Everett,Mr Thomas James,,38,M,,Southampton,,,3,0,1,0,
+Fardon,Mr Charles Richard,,45,M,,Southampton,,,3,0,1,0,
+Farrell,Mr James,,25,M,,Queenstown,,,3,0,1,0,
+Finoli,Mr Luigi,,34,M,,Southampton,,,3,1,1,0,
+Fischer,Mr Eberhard Thelander,,18,M,,Southampton,,,3,0,1,0,
+Fleming,Miss Honor,,22,F,,Queenstown,,,3,0,1,0,
+Flynn,Mr James,,28,M,,Queenstown,,,3,0,1,0,
+Flynn,Mr John,,42,M,,Queenstown,,,3,0,1,0,
+Foley,Mr Joseph,,19,M,,Queenstown,,,3,0,1,0,
+Foley,Mr William,,20,M,,Queenstown,,,3,0,1,0,
+Foo,Mr Choong,,32,M,,Southampton,,,3,1,1,0,
+Ford,Mr Arthur,,22,M,,Southampton,,,3,0,1,0,
+Ford,Mrs Margaret Ann Watson,,54,F,,Southampton,,,3,0,1,0,
+Ford,Miss Dollina Margaret,,20,F,,Southampton,,,3,0,1,0,
+Ford,Mr Edward Watson,,18,M,,Southampton,,,3,0,1,0,
+Ford,Mr William Neal Thomas,,16,M,,Southampton,,,3,0,1,0,
+Ford,Miss Robina Maggie,,7,F,,Southampton,,,3,0,1,0,
+Fox,Mr Patrick,,28,M,,Queenstown,,,3,0,1,0,
+Gallagher,Mr Martin,,29,M,,Queenstown,,,3,0,1,0,
+Garfirth,Mr John,,21,M,,Southampton,,,3,0,1,0,
+George/Joseph,Mrs Shawneene,,38,F,,Cherbourg,,,3,1,1,0,
+Gerios Thamah,Mr Assaf,,21,M,,Cherbourg,,,3,0,1,0,
+Gheorgheff,Mr Stanio,,0,M,,Cherbourg,,,3,0,1,0,
+Gilinski,Mr Eliezer,,22,M,,Southampton,,,3,0,1,0,
+Gilnagh,Miss Katherine,,17,F,,Queenstown,,,3,1,1,0,
+Glynn,Miss Mary Agatha,,19,F,,Queenstown,,,3,1,1,0,
+Goldsmith,Mr Frank John,,33,M,,Southampton,,,3,0,1,0,
+Goldsmith,Mrs Emily Alice,,31,F,,Southampton,,,3,1,1,0,
+Goldsmith,Master Frank John William,,9,M,,Southampton,,,3,1,1,0,
+Goldsmith,Mr Nathan,,41,M,,Southampton,,,3,0,1,0,
+Goodwin,Mr Frederick Joseph,,42,M,,Southampton,,,3,0,1,0,
+Goodwin,Mrs Augusta,,43,F,,Southampton,,,3,0,1,0,
+Goodwin,Miss Lillian Amy,,16,F,,Southampton,,,3,0,1,0,
+Goodwin,Mr Charles Edward,,14,M,,Southampton,,,3,0,1,0,
+Goodwin,Master William Frederick,,11,M,,Southampton,,,3,0,1,0,
+Goodwin,Miss Jessie Allis,,10,F,,Southampton,,,3,0,1,0,
+Goodwin,Master Harold Victor,,9,M,,Southampton,,,3,0,1,0,
+Goodwin,Master Sidney Leslie,,1,M,,Southampton,,,3,0,1,0,
+Grønnestad,Mr Daniel Danielsen,,32,M,,Southampton,,,3,0,1,0,
+Green,Mr George,,40,M,,Southampton,,,3,0,1,0,
+Guest,Mr Robert,,23,M,,Southampton,,,3,0,1,0,
+Gustafsson,Mr Karl Gideon,,19,M,,Southampton,,,3,0,1,0,
+Gustafsson,Mr Alfred Ossian,,19,M,,Southampton,,,3,0,1,0,
+Gustafsson,Mr Anders Vilhelm,,37,M,,Southampton,,,3,0,1,0,
+Gustafsson,Mr Johan Birger,,28,M,,Southampton,,,3,0,1,0,
+Haas,Miss Aloisia,,24,F,,Southampton,,,3,0,1,0,
+Hagland,Mr Ingvald Olai Olsen,,28,M,,Southampton,,,3,0,1,0,
+Hagland,Mr Konrad Mathias Reiersen,,19,M,,Southampton,,,3,0,1,0,
+Hakkarainen,Mr Pekka Pietari,,28,M,,Southampton,,,3,0,1,0,
+Hakkarainen,Mrs Elin Matilda,,24,F,,Southampton,,,3,1,1,0,
+Hampe,Mr Leon Jerome,,19,M,,Southampton,,,3,0,1,0,
+Hanna,Mr Boulos,,18,M,,Cherbourg,,,3,0,1,0,
+Hanna,Mr Mansour,,35,M,,Cherbourg,,,3,0,1,0,
+Hannah,Mr Borak,,27,M,,Cherbourg,,,3,1,1,0,
+Hansen,Mr Claus Peter,,41,M,,Southampton,,,3,0,1,0,
+Hansen,Mrs Jennie Louise,,45,F,,Southampton,,,3,1,1,0,
+Hansen,Mr Henry Damsgaard,,21,M,,Southampton,,,3,0,1,0,
+Hansen,Mr Henrik Juul,,26,M,,Southampton,,,3,0,1,0,
+Hargadon,Miss Catherine,,17,F,,Queenstown,,,3,0,1,0,
+Harknett,Miss Alice Phoebe,,21,F,,Southampton,,,3,0,1,0,
+Hart,Mr Henry,,28,M,,Queenstown,,,3,0,1,0,
+Healy,Miss Honor,,29,F,,Queenstown,,,3,1,1,0,
+Hedman,Mr Oskar Arvid,,27,M,,Southampton,,,3,1,1,0,
+Hee,Mr Ling,,24,M,,Southampton,,,3,1,1,0,
+Hegarty,Miss Hanora,,18,F,,Queenstown,,,3,0,1,0,
+Heikkinen,Miss Laina,,26,F,,Southampton,,,3,0,1,0,
+Heininen,Miss Wendla Maria,,23,F,,Southampton,,,3,0,1,0,
+Hellstrom,Miss Hilda Maria,,22,F,,Southampton,,,3,1,1,0,
+Hendekovic,Mr Ignjac,,28,M,,Southampton,,,3,0,1,0,
+Henriksson,Miss Jenny Lovisa,,28,F,,Southampton,,,3,0,1,0,
+Henry,Miss Bridget Delia,,21,F,,Queenstown,,,3,0,1,0,
+Hirvonen,Mrs Helga Elisabeth Lindqvist,,22,F,,Southampton,,,3,1,1,0,
+Hirvonen,Miss Hildur Elisabeth,,2,F,,Southampton,,,3,1,1,0,
+Holm,Mr John Fredrik Alexander,,43,M,,Southampton,,,3,0,1,0,
+Holthen,Mr Johan Martin,,28,M,,Southampton,,,3,0,1,0,
+Honkanen,Miss Eliina,,27,F,,Southampton,,,3,0,1,0,
+Horgan,Mr John,,22,M,,Queenstown,,,3,0,1,0,
+Howard,Miss May Elizabeth,,26,F,,Southampton,,,3,1,1,0,
+Humblen,Mr Adolf Mathias Nicolai Olsen,,42,M,,Southampton,,,3,0,1,0,
+Hyman,Mr Abraham Joseph,,34,M,,Southampton,,,3,1,1,0,
+Ibrahim Shawah,Mr Yousseff,,33,M,,Cherbourg,,,3,0,1,0,
+Ibr?h?m,Mrs S?fiyah,,18,F,,Cherbourg,,,3,1,1,0,
+Ibr?h?m,Mr Husayn Mahm?d Husayn,,11,M,,Cherbourg,,,3,0,1,0,
+Ilieff,Mr Ylio,,32,M,,Southampton,,,3,0,1,0,
+Ilmakangas,Miss Ida Livija,,27,F,,Southampton,,,3,0,1,0,
+Ilmakangas,Miss Pieta Sofia,,25,F,,Southampton,,,3,0,1,0,
+Ivanoff,Mr Kanio,,20,M,,Southampton,,,3,0,1,0,
+Jabbur    ,(Zabour),,19,M,,Cherbourg,,,3,0,1,0,
+Jabbur    #(Zabour),Miss Hileni,,16,F,,Cherbourg,,,3,0,1,0,
+Jalševac,Mr Ivan,,29,M,,Cherbourg,,,3,1,1,0,
+Jansson,Mr Carl Olof,,21,M,,Southampton,,,3,1,1,0,
+Jardim,Mr Jose Neto,,21,M,,Southampton,,,3,0,1,0,
+Jonsson,Mr Nils Hilding,,27,M,,Southampton,,,3,0,1,0,
+Jensen,Mr Hans Peder,,20,M,,Southampton,,,3,0,1,0,
+Jensen,Mr Svend Lauritz,,17,M,,Southampton,,,3,0,1,0,
+Jensen,Mr Niels Rasmus,,48,M,,Southampton,,,3,0,1,0,
+Jermyn,Miss Annie Jane,,26,F,,Queenstown,,,3,1,1,0,
+Johannesen,Mr Bernt Johannes,,29,M,,Southampton,,,3,1,1,0,
+Johanson,Mr Jakob Alfred,,34,M,,Southampton,,,3,0,1,0,
+Johansson,Mr Nils,,29,M,,Southampton,,,3,0,1,0,
+Johansson,Mr Erik,,22,M,,Southampton,,,3,0,1,0,
+Johansson,Mr Gustaf Joel,,33,M,,Southampton,,,3,0,1,0,
+Johansson,Mr Karl Johan,,31,M,,Southampton,,,3,0,1,0,
+Johansson Palmquist,Mr Oskar Leander,,26,M,,Southampton,,,3,1,1,0,
+Johnson,Mr August,,49,M,,Southampton,,,3,0,1,0,
+Johnson,Mr William Cahoone Jr.,,19,M,,Southampton,,,3,0,1,0,
+Johnson,Mr Malkolm Joackim,,33,M,,Southampton,,,3,0,1,0,
+Johnson,Mrs Elisabeth Vilhelmina,,26,F,,Southampton,,,3,1,1,0,
+Johnson,Master Harold Theodor,,4,M,,Southampton,,,3,1,1,0,
+Johnson,Miss Eleanor Ileen,,1,F,,Southampton,,,3,1,1,0,
+Johnston,Mr Andrew Emslie,,35,F,,Southampton,,,3,0,1,0,
+Johnston,Mrs Eliza,,36,F,,Southampton,,,3,0,1,0,
+Johnston,Master William Andrew,,8,M,,Southampton,,,3,0,1,0,
+Johnston,Miss Catherine Nellie,,7,F,,Southampton,,,3,0,1,0,
+Jonkoff,Mr Lalio,,23,M,,Southampton,,,3,0,1,0,
+Jonsson,Mr Carl,,25,M,,Southampton,,,3,1,1,0,
+Joseph (Shahin),Mr Elias,,39,M,,Cherbourg,,,3,0,1,0,
+Jussila,Miss Katriina,,20,F,,Southampton,,,3,0,1,0,
+Jussila,Miss Mari Aina,,21,F,,Southampton,,,3,0,1,0,
+Jussila,Mr Eiriik,,32,M,,Southampton,,,3,1,1,0,
+Kallio,Mr Nikolai Erland,,17,M,,Southampton,,,3,0,1,0,
+Kalvik,Mr Johannes Halvorsen,,21,M,,Southampton,,,3,0,1,0,
+Karajic,Mr Milan,,30,M,,Southampton,,,3,0,1,0,
+Karlsson,Mr Einar Gervasius,,21,M,,Southampton,,,3,1,1,0,
+Karlsson,Mr Julius Konrad Eugen,,33,M,,Southampton,,,3,0,1,0,
+Karlsson,Mr Nils August,,22,M,,Southampton,,,3,0,1,0,
+Karun,Mr Franz,,39,M,,Cherbourg,,,3,1,1,0,
+Karun,Miss Manca,,4,F,,Cherbourg,,,3,1,1,0,
+Katavelos,Mr Vasilios G.,,19,M,,Cherbourg,,,3,0,1,0,
+Keane,Mr Andrew,,23,M,,Queenstown,,,3,0,1,0,
+Keefe,Mr Arthur,,39,M,,Southampton,,,3,0,1,0,
+Kelly,Mr James,,19,M,,Southampton,,,3,0,1,0,
+Kelly,Mr James,,44,M,,Queenstown,,,3,0,1,0,
+Kelly,Miss Anna Katherine,,20,F,,Queenstown,,,3,1,1,0,
+Kelly,Miss Mary,,22,F,,Queenstown,,,3,1,1,0,
+Kennedy,Mr John,,24,M,,Queenstown,,,3,0,1,0,
+Khalil,Mr Betros,,25,M,,Cherbourg,,,3,0,1,0,
+Khalil,Mrs Zahie,,20,F,,Cherbourg,,,3,0,1,0,
+Kiernan,Mr John Joseph,,25,M,,Queenstown,,,3,0,1,0,
+Kiernan,Mr Philip,,22,M,,Queenstown,,,3,0,1,0,
+Kilgannon,Mr Thomas,,22,M,,Queenstown,,,3,0,1,0,
+Kink,Mr Anton,,29,M,,Southampton,,,3,1,1,0,
+Kink,Miss Maria,,22,F,,Southampton,,,3,0,1,0,
+Kink,Mr Vincenz,,26,M,,Southampton,,,3,0,1,0,
+Kink-Heilmann,Mrs Luise,,26,F,,Southampton,,,3,1,1,0,
+Kink-Heilmann,Miss Luise Gretchen,,4,F,,Southampton,,,3,1,1,0,
+Klasen,Mr Klas Albin,,18,M,,Southampton,,,3,0,1,0,
+Klasen,Miss Gertrud Emilia,,1,F,,Southampton,,,3,0,1,0,
+Klasen,Mrs Hulda Kristina Eugenia,,36,F,,Southampton,,,3,0,1,0,
+Kraeff,Mr Theodor,,0,M,,Cherbourg,,,3,0,1,0,
+Krekorian,Mr Neshan,,25,M,,Cherbourg,,,3,1,1,0,
+Kutscher    #(Lithman),Mr Simon,,26,M,,Southampton,,,3,0,1,0,
+Lahh?d Ishaq Mu'Awwad,Mr Sark ?s,,30,M,,Cherbourg,,,3,0,1,0,
+Laitinen,Miss Kristina Sofia,,37,F,,Southampton,,,3,0,1,0,
+Lam,Mr Ali,,38,M,,Southampton,,,3,1,1,0,
+Lam,Mr Len,,23,M,,Southampton,,,3,0,1,0,
+Landergren,Miss Aurora Adelia,,22,F,,Southampton,,,3,1,1,0,
+Lane,Mr Patrick,,16,M,,Queenstown,,,3,0,1,0,
+Lang,Mr Fang,,32,M,,Southampton,,,3,1,1,0,
+Larsson,Mr August Viktor,,29,M,,Southampton,,,3,0,1,0,
+Larsson,Mr Bengt Edvin,,29,M,,Southampton,,,3,0,1,0,
+Larsson,Mr Edvard,,22,M,,Southampton,,,3,0,1,0,
+Lefebvre,Mrs Frances Marie,,40,F,,Southampton,,,3,0,1,0,
+Lefebvre,Master Henry,,5,M,,Southampton,,,3,0,1,0,
+Lefebvre,Miss Ida,,3,F,,Southampton,,,3,0,1,0,
+Lefebvre,Miss Jeannie,,8,F,,Southampton,,,3,0,1,0,
+Lefebvre,Miss Mathilde,,12,F,,Southampton,,,3,0,1,0,
+Leinonen,Mr Antti Gustaf,,32,M,,Southampton,,,3,0,1,0,
+Lennon,Mr Denis,,20,M,,Queenstown,,,3,0,1,0,
+Lester,Mr James,,26,M,,Southampton,,,3,0,1,0,
+Lievens,Mr Rene Aime,,24,M,,Southampton,,,3,0,1,0,
+Lindahl,Miss Agda Thorilda Viktoria,,25,F,,Southampton,,,3,0,1,0,
+Lindblom,Miss Augusta Charlotta,,45,F,,Southampton,,,3,0,1,0,
+Lindell,Mr Edvard Bengtsson,,36,M,,Southampton,,,3,1,1,0,
+Lindell,Mrs Elin Gerda,,30,F,,Southampton,,,3,1,1,0,
+Lindqvist,Mr Eino William,,20,M,,Southampton,,,3,1,1,0,
+Linehan,Mr Michael,,21,M,,Queenstown,,,3,0,1,0,
+Ling,Mr Lee,,28,M,,Southampton,,,3,0,1,0,
+Linhart,Mr Wenzel,,27,M,,Southampton,,,3,0,1,0,
+Livshin,Mr David,,25,M,,Southampton,,,3,1,1,0,
+Lobb,Mr William Arthur,,30,M,,Southampton,,,3,0,1,0,
+Lobb,Mrs Cordelia K.,,26,F,,Southampton,,,3,0,1,0,
+Lockyer,Mr Edward Thomas,,19,M,,Southampton,,,3,0,1,0,
+Lovell,Mr John Hall,,20,M,,Southampton,,,3,0,1,0,
+Lulic,Mr Nikola,,29,M,,Southampton,,,3,1,1,0,
+Lundahl,Mr Johan Svensson,,51,M,,Southampton,,,3,0,1,0,
+Lundin,Miss Olga Elida,,23,F,,Southampton,,,3,1,1,0,
+Lundstrom,Mr Thure Edvin,,32,M,,Southampton,,,3,1,1,0,
+Lymperopoulus,Mr Panagiotis K.,,30,M,,Cherbourg,,,3,0,1,0,
+Lyntakoff,Mr Stanko,,44,M,,Southampton,,,3,0,1,0,
+Mackay,Mr George William,,20,M,,Southampton,,,3,0,1,0,
+Madigan,Miss Margaret,,21,F,,Queenstown,,,3,1,1,0,
+Madsen,Mr Fridtjof Arne,,24,M,,Southampton,,,3,1,1,0,
+Mahon,Miss Bridget Delia,,20,F,,Queenstown,,,3,0,1,0,
+Maisner,Mr Simon,,34,M,,Southampton,,,3,0,1,0,
+Mangan,Miss Mary,,32,F,,Queenstown,,,3,0,1,0,
+Mannion,Miss Margaret,,28,F,,Queenstown,,,3,1,1,0,
+Mardirosian,Mr Sarkis,,25,M,,Cherbourg,,,3,0,1,0,
+Marinko,Mr Dmitri,,23,M,,Southampton,,,3,0,1,0,
+Markoff,Mr Marin,,35,M,,Southampton,,,3,0,1,0,
+Markun,Mr Johann,,33,M,,Cherbourg,,,3,0,1,0,
+Matinoff,Mr Nicola,,30,M,,Cherbourg,,,3,0,1,0,
+M?m?,Mr Hann? Mik?' ?l,,18,M,,Cherbourg,,,3,1,1,0,
+Maenpaa,Mr Matti Alexanteri,,22,M,,Southampton,,,3,0,1,0,
+Makinen,Mr Kalle Edvard,,29,M,,Southampton,,,3,0,1,0,
+McCarthy,Miss Catherine,,24,F,,Queenstown,,,3,1,1,0,
+McCormack,Mr Thomas Joseph,,19,M,,Queenstown,,,3,0,1,0,
+McCoy,Miss Agnes,,29,F,,Queenstown,,,3,1,1,0,
+McCoy,Miss Alice,,26,F,,Queenstown,,,3,1,1,0,
+McCoy,Mr Bernard,,24,M,,Queenstown,,,3,1,1,0,
+McDermott,Miss Bridget Delia,,31,F,,Queenstown,,,3,1,1,0,
+McEvoy,Mr Michael,,19,M,,Queenstown,,,3,0,1,0,
+McGovern,Ms Mary,,22,F,,Queenstown,,,3,1,1,0,
+McGowan,Miss Catherine,,42,F,,Queenstown,,,3,0,1,0,
+McGowan,Miss Anna Louise,,17,F,,Queenstown,,,3,0,1,0,
+McMahon,Mr Martin,,19,M,,Queenstown,,,3,0,1,0,
+McNamee,Mr Neal,,27,M,,Southampton,,,3,0,1,0,
+McNamee,Mrs Eileen,,19,F,,Southampton,,,3,0,1,0,
+McNeill,Miss Bridget,,32,F,,Queenstown,,,3,0,1,0,
+Meanwell,Mrs Marian,,62,F,,Southampton,,,3,0,1,0,
+Meehan,Mr John,,22,M,,Queenstown,,,3,0,1,0,
+Meek,Mrs Annie Louisa,,31,F,,Southampton,,,3,0,1,0,
+Meo    #(Martino),Mr Alfonzo,,48,M,,Southampton,,,3,0,1,0,
+Mernagh,Mr Robert,,28,M,,Queenstown,,,3,0,1,0,
+Midtsjø,Mr Karl Albert,,21,M,,Southampton,,,3,1,1,0,
+Mihoff,Mr Stoytcho,,28,M,,Southampton,,,3,0,1,0,
+Miles,Mr Frank,,23,M,,Southampton,,,3,0,1,0,
+Mineff,Mr Ivan,,24,M,,Southampton,,,3,0,1,0,
+Minkoff,Mr Lazar,,21,M,,Southampton,,,3,0,1,0,
+Mitkoff,Mr Mito,,23,M,,Southampton,,,3,0,1,0,
+Mockler,Miss Ellen Mary,,23,F,,Queenstown,,,3,1,1,0,
+Moen,Mr Sigurd Hansen,,27,M,,Southampton,,,3,0,1,0,
+Moor,Mrs Beila,,29,F,,Southampton,,,3,1,1,0,
+Moor,Master Meier,,7,M,,Southampton,,,3,1,1,0,
+Moore,Mr Leonard Charles,,19,M,,Southampton,,,3,0,1,0,
+Moran,Miss Bridget,,28,F,,Queenstown,,,3,1,1,0,
+Moran,Mr Daniel J.,,27,M,,Queenstown,,,3,0,1,0,
+Morley,Mr William,,34,M,,Southampton,,,3,0,1,0,
+Morrow,Mr Thomas Rowan,,30,M,,Queenstown,,,3,0,1,0,
+Moss,Mr Albert Johan,,29,M,,Southampton,,,3,1,1,0,
+Moussa,Mrs Mantoura Boulos,,35,F,,Cherbourg,,,3,0,1,0,
+Moutal,Mr Rahamin Haim,,28,M,,Southampton,,,3,0,1,0,
+Mub?rik,Mrs Am ?nah,,24,F,,Cherbourg,,,3,1,1,0,
+Mub?rik,Master Jirjis,,7,M,,Cherbourg,,,3,1,1,0,
+Mub?rik,Master Hal ?m,,4,M,,Cherbourg,,,3,1,1,0,
+Mullin,Miss Catherine,,21,F,,Queenstown,,,3,1,1,0,
+Mullin,Miss Mary    ,(Lennon),18,F,,Queenstown,,,3,0,1,0,
+Mulvihill,Miss Bridget Elizabeth,,25,F,,Queenstown,,,3,1,1,0,
+Murdlin,Mr Joseph,,22,M,,Southampton,,,3,0,1,0,
+Murphy,Miss Nora,,34,F,,Queenstown,,,3,1,1,0,
+Murphy,Miss Margaret Jane,,25,F,,Queenstown,,,3,1,1,0,
+Murphy,Miss Catherine,,18,F,,Queenstown,,,3,1,1,0,
+Muslam?n ?,Mrs Fat ?mah Muhammad,,22,F,,Cherbourg,,,3,1,1,0,
+Myhrman,Mr Pehr Fabian Oliver Malkolm,,18,M,,Southampton,,,3,0,1,0,
+Naidenoff,Mr Penko,,22,M,,Southampton,,,3,0,1,0,
+Najib Kiamie,Miss Adele,,15,F,,Cherbourg,,,3,1,1,0,
+Nakhli,Mr Toufik,,17,M,,Cherbourg,,,3,0,1,0,
+Nakid,Mr Sahid,,20,M,,Cherbourg,,,3,1,1,0,
+Nakid,Mrs Waika,,19,F,,Cherbourg,,,3,1,1,0,
+Nakid,Miss Maria,,1,F,,Cherbourg,,,3,1,1,0,
+Nancarrow,Mr William Henry,,36,M,,Southampton,,,3,0,1,0,
+Nankoff,Mr Minko,,32,M,,Southampton,,,3,0,1,0,
+Nasr ‘Alm?,Mr Mustafà,,20,M,,Cherbourg,,,3,0,1,0,
+Nassr Rizq,Mr Saade,,20,M,,Cherbourg,,,3,0,1,0,
+Naughton,Miss Hannah,,21,F,,Queenstown,,,3,0,1,0,
+N ?q?la Y?rid,Miss Jamilah,,14,F,,Cherbourg,,,3,1,1,0,
+N ?q?la Y?rid,Master Ily?s,,11,M,,Cherbourg,,,3,1,1,0,
+Nenkov,Mr Hristo,,22,M,,Southampton,,,3,0,1,0,
+Nieminen,Miss Manta Josefina,,29,F,,Southampton,,,3,0,1,0,
+Niklasson,Mr Samuel,,28,M,,Southampton,,,3,0,1,0,
+Nilsson,Mr August Ferdinand,,21,M,,Southampton,,,3,0,1,0,
+Nilsson,Miss Berta Olivia,,18,F,,Southampton,,,3,1,1,0,
+Nilsson,Miss Helmina Josefina,,26,F,,Southampton,,,3,1,1,0,
+Nirva,Mr Iisakki Antino aijo,,41,M,,Southampton,,,3,0,1,0,
+Niskanen,Mr Juha,,39,M,,Southampton,,,3,1,1,0,
+Nofal,Mr Mansouer,,20,M,,Cherbourg,,,3,0,1,0,
+Nosworthy,Mr Richard Cater,,21,M,,Southampton,,,3,0,1,0,
+Nysten,Miss Anna Sofia,,22,F,,Southampton,,,3,1,1,0,
+Nysveen,Mr Johan Hansen,,60,M,,Southampton,,,3,0,1,0,
+O'Brien,Mr Denis,,21,M,,Queenstown,,,3,0,1,0,
+O'Brien,Mr Thomas,,27,M,,Queenstown,,,3,0,1,0,
+O'Brien,Mrs Johanna,,26,F,,Queenstown,,,3,0,1,0,
+O'Connell,Mr Patrick Denis,,17,M,,Queenstown,,,3,0,1,0,
+O'Connor,Mr Maurice,,16,M,,Queenstown,,,3,0,1,0,
+O'Connor,Mr Patrick,,23,M,,Queenstown,,,3,0,1,0,
+O'Dwyer,Miss Ellen,,25,F,,Queenstown,,,3,1,1,0,
+O'Keefe,Mr Patrick,,21,M,,Queenstown,,,3,1,1,0,
+O'Leary,Miss Hanora,,16,F,,Queenstown,,,3,1,1,0,
+O'Sullivan,Miss Bridget Mary,,21,F,,Queenstown,,,3,0,1,0,
+odahl,Mr Nils Martin,,23,M,,Southampton,,,3,0,1,0,
+ohman,Miss Velin,,22,F,,Southampton,,,3,1,1,0,
+Olsen,Mr Karl Siegwart Andreas,,42,M,,Southampton,,,3,0,1,0,
+Olsen,Master Artur Karl,,9,M,,Southampton,,,3,1,1,0,
+Olsen,Mr Henry Margido,,28,M,,Southampton,,,3,0,1,0,
+Olsen,Mr Ole Martin,,27,M,,Southampton,,,3,0,1,0,
+Olsson,Mr Oscar Wilhelm,,32,M,,Southampton,,,3,1,1,0,
+Olsson,Mr Nils Johan Goransson,,28,M,,Southampton,,,3,0,1,0,
+Olsson,Miss Elina,,31,F,,Southampton,,,3,0,1,0,
+Olsvigen,Mr Thor Anderson,,20,M,,Southampton,,,3,0,1,0,
+Oreskovic,Mr Luka,,20,M,,Southampton,,,3,0,1,0,
+Oreskovic,Miss Jelka,,23,F,,Southampton,,,3,0,1,0,
+Oreskovic,Miss Marija,,20,F,,Southampton,,,3,0,1,0,
+Osen,Mr Olaf Elon,,16,M,,Southampton,,,3,0,1,0,
+Panula,Mrs Maija Emelia Abrahamintytar,,41,F,,Southampton,,,3,0,1,0,
+Panula,Master Jaako Arnold,,14,M,,Southampton,,,3,0,1,0,
+Panula,Mr Ernesti Arvid,,16,M,,Southampton,,,3,0,1,0,
+Panula,Master Juha Niilo,,7,M,,Southampton,,,3,0,1,0,
+Panula,Master Urho Abraham,,2,M,,Southampton,,,3,0,1,0,
+Panula,Master Eino Viljam,,1,M,,Southampton,,,3,0,1,0,
+Pasic,Mr Jakob,,21,M,,Southampton,,,3,0,1,0,
+Patchett,Mr George,,19,M,,Southampton,,,3,0,1,0,
+Pavlovic,Mr Stefo,,32,M,,Southampton,,,3,0,1,0,
+Pålsson,Mrs Alma Cornelia,,29,F,,Southampton,,,3,0,1,0,
+Pålsson,Master Gosta Leonard,,2,M,,Southampton,,,3,0,1,0,
+Pålsson,Master Paul Folke,,6,M,,Southampton,,,3,0,1,0,
+Pålsson,Miss Stina Viola,,3,F,,Southampton,,,3,0,1,0,
+Pålsson,Miss Torborg Danira,,8,F,,Southampton,,,3,0,1,0,
+Peacock,Mrs Edith,,26,F,,Southampton,,,3,0,1,0,
+Peacock,Master Albert Edward,,0.5833,M,,Southampton,,,3,0,1,0,
+Peacock,Miss Treasteall,,3,F,,Southampton,,,3,0,1,0,
+Pearce,Mr Ernest,,32,M,,Southampton,,,3,0,1,0,
+Pedersen,Mr Olaf,,28,M,,Southampton,,,3,0,1,0,
+Peduzzi,Mr Giuseppe,,24,M,,Southampton,,,3,0,1,0,
+Pekoniemi,Mr Edvard,,21,M,,Southampton,,,3,0,1,0,
+Peltomaki,Mr Nikolai Johannes,,25,M,,Southampton,,,3,0,1,0,
+Perkin,Mr John Henry,,22,M,,Southampton,,,3,0,1,0,
+Persson,Mr Ernst Ulrik,,25,M,,Southampton,,,3,1,1,0,
+Peter/Joseph,Master Michael J.,,4,M,,Cherbourg,,,3,1,1,0,
+Peter/Joseph,Miss Anna,,2,F,,Cherbourg,,,3,1,1,0,
+Peteranec,Miss Mathilda,,28,F,,Southampton,,,3,0,1,0,
+Peters,Miss Catherine,,26,F,,Queenstown,,,3,0,1,0,
+Petersen,Mr Marius,,24,M,,Southampton,,,3,0,1,0,
+Petroff,Mr Nedialco,,19,M,,Southampton,,,3,0,1,0,
+Petroff,Mr Pastcho,,29,M,,Southampton,,,3,0,1,0,
+Pettersson,Mr Johan Emil,,25,M,,Southampton,,,3,0,1,0,
+Pettersson,Miss Elin Natalia,,18,F,,Southampton,,,3,0,1,0,
+Picard,Mr Benoît,,32,M,,Southampton,,,3,1,1,0,
+Plotcharsky,Mr Vasil,,27,M,,Southampton,,,3,0,1,0,
+Pokrnic,Mr Mate,,17,M,,Southampton,,,3,0,1,0,
+Pokrnic,Mr Tome,,24,M,,Southampton,,,3,0,1,0,
+Pulner,Mr Uscher,,16,M,,Cherbourg,,,3,0,1,0,
+Radeff,Mr Alexander,,27,M,,Southampton,,,3,0,1,0,
+Raf?l-B?lus,Mr B?kh?s,,20,M,,Cherbourg,,,3,0,1,0,
+Rasmussen,Mrs Lena Jakobsen,,63,F,,Southampton,,,3,0,1,0,
+Razi,Mr Raihed,,30,M,,Cherbourg,,,3,0,1,0,
+Reed,Mr James George,,19,M,,Southampton,,,3,0,1,0,
+Rekic,Mr Tido,,38,M,,Southampton,,,3,0,1,0,
+Reynolds,Mr Harold,,21,M,,Southampton,,,3,0,1,0,
+Rice,Mrs Margaret,,39,F,,Queenstown,,,3,0,1,0,
+Rice,Master Albert,,10,M,,Queenstown,,,3,0,1,0,
+Rice,Master George Hugh,,8,M,,Queenstown,,,3,0,1,0,
+Rice,Master Eric,,7,M,,Queenstown,,,3,0,1,0,
+Rice,Master Arthur,,4,M,,Queenstown,,,3,0,1,0,
+Rice,Master Eugene Francis,,2,M,,Queenstown,,,3,0,1,0,
+Riihivuori,Miss Susanna Juhantytar,,22,F,,Southampton,,,3,0,1,0,
+Rintamaki,Mr Matti,,35,M,,Southampton,,,3,0,1,0,
+Riordan,Miss Hannah,,18,F,,Queenstown,,,3,1,1,0,
+Risien,Mr Samuel Beard,,69,M,,Southampton,,,3,0,1,0,
+Risien,Mrs Emma Jane,,58,F,,Southampton,,,3,0,1,0,
+Robins,Mr Alexander A.,,50,M,,Southampton,,,3,0,1,0,
+Robins,Mrs Charity,,47,F,,Southampton,,,3,0,1,0,
+Rogers,Mr William John,,29,M,,Southampton,,,3,0,1,0,
+Rommetvedt,Mr Knud Paust,,49,M,,Southampton,,,3,0,1,0,
+Rosblom,Mrs Helena Wilhelmina,,41,F,,Southampton,,,3,0,1,0,
+Rosblom,Miss Salli Helena,,2,F,,Southampton,,,3,0,1,0,
+Rosblom,Mr Viktor Richard,,18,M,,Southampton,,,3,0,1,0,
+Roth,Miss Sarah,,31,F,,Southampton,,,3,1,1,0,
+Rouse,Mr Richard Henry,,53,M,,Southampton,,,3,0,1,0,
+Rush,Mr Alfred George John,,17,M,,Southampton,,,3,0,1,0,
+Ryan,Mr Patrick,,30,M,,Queenstown,,,3,0,1,0,
+Ryan,Mr Edward,,24,M,,Queenstown,,,3,1,1,0,
+Saad,Mr Amin,,30,M,,Cherbourg,,,3,0,1,0,
+Saad,Mr Khalil,,27,M,,Cherbourg,,,3,0,1,0,
+Sadlier,Mr Matthew,,18,M,,Queenstown,,,3,0,1,0,
+Sadowitz,Mr Henry,,17,M,,Southampton,,,3,0,1,0,
+Sage,Mr John George,,44,M,,Southampton,,,3,0,1,0,
+Sage,Mrs Annie Elizabeth,,44,F,,Southampton,,,3,0,1,0,
+Sage,Miss Stella Anne,,20,F,,Southampton,,,3,0,1,0,
+Sage,Mr George John,,19,M,,Southampton,,,3,0,1,0,
+Sage,Mr Douglas Bullen,,18,M,,Southampton,,,3,0,1,0,
+Sage,Mr Frederick,,16,M,,Southampton,,,3,0,1,0,
+Sage,Miss Dorothy,,14,F,,Southampton,,,3,0,1,0,
+Sage,Master Anthony William,,12,M,,Southampton,,,3,0,1,0,
+Sage,Miss Elizabeth Ada,,10,F,,Southampton,,,3,0,1,0,
+Sage,Miss Constance Gladys,,7,F,,Southampton,,,3,0,1,0,
+Sage,Master Thomas Henry,,4,M,,Southampton,,,3,0,1,0,
+Salander,Mr Karl Johan,,24,M,,Southampton,,,3,0,1,0,
+Salkjelsvik,Miss Anna Kristine,,21,F,,Southampton,,,3,1,1,0,
+Salonen,Mr Johan Werner,,29,M,,Southampton,,,3,0,1,0,
+Samaan,Mr Hanna Elias,,40,M,,Cherbourg,,,3,0,1,0,
+Samaan,Mr Elias,,17,M,,Cherbourg,,,3,0,1,0,
+Samaan,Mr Youssef,,16,M,,Cherbourg,,,3,0,1,0,
+Sandstrom,Mrs Agnes Charlotta,,24,F,,Southampton,,,3,1,1,0,
+Sandstrom,Miss Beatrice Irene,,1,F,,Southampton,,,3,1,1,0,
+Sandstrom,Miss Marguerite Rut,,4,F,,Southampton,,,3,1,1,0,
+Sap,Mr Julius,,21,M,,Southampton,,,3,1,1,0,
+Saundercock,Mr William Henry,,19,M,,Southampton,,,3,0,1,0,
+Sawyer,Mr Frederick Charles,,33,M,,Southampton,,,3,0,1,0,
+Sæther,Mr Simon Sivertsen,,43,M,,Southampton,,,3,0,1,0,
+Søholt,Mr Peter Andreas Lauritz Andersen,,19,M,,Southampton,,,3,0,1,0,
+Scanlan,Mr James,,22,M,,Queenstown,,,3,0,1,0,
+Scheerlinck,Mr Jean,,29,M,,Southampton,,,3,1,1,0,
+Sdycoff,Mr Todor,,42,M,,Southampton,,,3,0,1,0,
+Seman,Master Betros,,10,M,,Cherbourg,,,3,0,1,0,
+Shannon,Mr Andrew John,,36,M,,Southampton,,,3,0,1,0,
+Shaughnessy,Mr Patrick,,24,M,,Queenstown,,,3,0,1,0,
+Shedid,Mr Daher,,19,M,,Cherbourg,,,3,0,1,0,
+Shellard,Mr Frederick William Blainey,,55,M,,Southampton,,,3,0,1,0,
+Shih?b,Mr Al-Am ?r F?ris,,29,M,,Cherbourg,,,3,0,1,0,
+Shine,Miss Ellen,,20,F,,Queenstown,,,3,0,1,0,
+Shorney,Mr Charles Joseph,,22,M,,Southampton,,,3,0,1,0,
+Simmons,Mr John,,40,M,,Southampton,,,3,0,1,0,
+Sirayanian,Mr Orsen,,22,M,,Cherbourg,,,3,0,1,0,
+Sirota,Mr Morris,,20,M,,Southampton,,,3,0,1,0,
+Sivic,Mr Husein,,40,M,,Southampton,,,3,0,1,0,
+Sivola,Mr Antti Wilhelm,,21,M,,Southampton,,,3,0,1,0,
+Sjoblom,Miss Anna Sofia,,18,F,,Southampton,,,3,1,1,0,
+Skoog,Mr Wilhelm Johansson,,40,M,,Southampton,,,3,0,1,0,
+Skoog,Mrs Anna Bernhardina,,43,F,,Southampton,,,3,0,1,0,
+Skoog,Master Karl Thorsten,,11,M,,Southampton,,,3,0,1,0,
+Skoog,Master Harald,,5,M,,Southampton,,,3,0,1,0,
+Skoog,Miss Mabel,,9,F,,Southampton,,,3,0,1,0,
+Skoog,Miss Margit Elizabeth,,2,F,,Southampton,,,3,0,1,0,
+Slabenoff,Mr Petco,,42,M,,Southampton,,,3,0,1,0,
+Slocovski,Mr Selman Francis,,20,M,,Southampton,,,3,0,1,0,
+Smiljanic,Mr Mile,,37,M,,Southampton,,,3,0,1,0,
+Smyth,Mr Thomas,,26,M,,Queenstown,,,3,0,1,0,
+Smyth,Miss Julia,,17,F,,Queenstown,,,3,1,1,0,
+Somerton,Mr Francis William,,30,M,,Southampton,,,3,0,1,0,
+Spector,Mr Woolf,,23,M,,Southampton,,,3,0,1,0,
+Spinner,Mr Henry John,,32,M,,Southampton,,,3,0,1,0,
+Staneff,Mr Ivan,,23,M,,Southampton,,,3,0,1,0,
+Stankovic,Mr Ivan,,33,M,,Cherbourg,,,3,0,1,0,
+Stanley,Miss Amy Zillah Elsie,,24,F,,Southampton,,,3,1,1,0,
+Stanley,Mr Edward Roland,,21,M,,Southampton,,,3,0,1,0,
+Storey,Mr Thomas,,51,M,,Southampton,,,3,0,1,0,
+Stoytcheff,Mr Ilia,,19,M,,Southampton,,,3,0,1,0,
+Stranden,Mr Juho Niilosson,,31,M,,Southampton,,,3,1,1,0,
+Strandberg,Miss Ida Sofia,,22,F,,Southampton,,,3,0,1,0,
+Strom,Mrs Elna Matilda,,29,F,,Southampton,,,3,0,1,0,
+Strom,Miss Telma Matilda,,2,F,,Southampton,,,3,0,1,0,
+Strilic,Mr Ivan,,27,M,,Southampton,,,3,0,1,0,
+Sunderland,Mr Victor Francis,,20,M,,Southampton,,,3,1,1,0,
+Sundman,Mr Johan Julian,,44,M,,Southampton,,,3,1,1,0,
+Sutehall,Mr Henry Jr,,25,M,,Southampton,,,3,0,1,0,
+Svensson,Mr Olof,,24,M,,Southampton,,,3,0,1,0,
+Svensson,Mr Johan,,74,M,,Southampton,,,3,0,1,0,
+Svensson,Mr Johan Cervin,,14,M,,Southampton,,,3,1,1,0,
+Tann?s,Mr Bash ?r,,31,M,,Cherbourg,,,3,0,1,0,
+Tann?s,Mrs Tham ?n,,16,F,,Cherbourg,,,3,1,1,0,
+Tann?s,Master As'ad,,0.166,M,,Cherbourg,,,3,1,1,0,
+Torber,Mr Ernst Wilhelm,,41,M,,Southampton,,,3,0,1,0,
+Tornquist,Mr William Henry,,25,M,,Southampton,,,3,1,1,0,
+Tenglin,Mr Gunnar Isidor,,25,M,,Southampton,,,3,1,1,0,
+Theobald,Mr Thomas Leonard,,34,M,,Southampton,,,3,0,1,0,
+Thomas-Tannous,Mr Tannous,,16,M,,Cherbourg,,,3,0,1,0,
+Thomas-Tannous,Mr John,,34,M,,Cherbourg,,,3,0,1,0,
+Thompson,Mr Alexander Morrison,,36,M,,Southampton,,,3,0,1,0,
+Thorneycroft,Mr Percival,,36,M,,Southampton,,,3,0,1,0,
+Thorneycroft,Mrs Florence Kate,,32,F,,Southampton,,,3,1,1,0,
+Tikkanen,Mr Juho,,32,M,,Southampton,,,3,0,1,0,
+Tobin,Mr Roger,,20,M,,Queenstown,,,3,0,1,0,
+Todoroff,Mr Lalio,,23,M,,Southampton,,,3,0,1,0,
+Tomlin,Mr Ernest Portage,,22,M,,Southampton,,,3,0,1,0,
+Torfa,Mr Assad,,20,M,,Cherbourg,,,3,0,1,0,
+Totevski,Mr Hristo Danchev,,25,M,,Southampton,,,3,0,1,0,
+Tu'Mah,Mrs Hinnah,,27,F,,Cherbourg,,,3,1,1,0,
+Tu'Mah,Miss Mariyam,,9,F,,Cherbourg,,,3,1,1,0,
+Tu'Mah,Master Jirjis Y?suf,,8,M,,Cherbourg,,,3,1,1,0,
+Turcin,Mr Stjepan,,36,M,,Southampton,,,3,0,1,0,
+Turja,Miss Anna Sofia,,18,F,,Southampton,,,3,1,1,0,
+Turkula,Mrs Hedwig,,63,F,,Southampton,,,3,1,1,0,
+Van Billiard,Mr Austin Blyler,,35,M,,Southampton,,,3,0,1,0,
+Van Billiard,Master James William,,10,M,,Southampton,,,3,0,1,0,
+Van Billiard,Master Walter John,,9,M,,Southampton,,,3,0,1,0,
+Van De Velde,Mr Johannes Josef,,35,M,,Southampton,,,3,0,1,0,
+Van Den Steen,Mr Leo Peter,,28,M,,Southampton,,,3,0,1,0,
+Van Impe,Mr Jean Baptiste,,36,M,,Southampton,,,3,0,1,0,
+Van Impe,Mrs Rosalie Paula,,30,F,,Southampton,,,3,0,1,0,
+Van Impe,Miss Catharina,,10,F,,Southampton,,,3,0,1,0,
+Van Melckebeke,Mr Philemon,,23,M,,Southampton,,,3,0,1,0,
+Vandercruyssen,Mr Victor,,46,M,,Southampton,,,3,0,1,0,
+Vanderplancke,Mr Julius,,31,M,,Southampton,,,3,0,1,0,
+Vanderplancke,Mrs Emelie Maria,,31,F,,Southampton,,,3,0,1,0,
+Vanderplancke,Miss Augusta Maria,,18,F,,Southampton,,,3,0,1,0,
+Vanderplancke,Mr Leo Edmondus,,15,M,,Southampton,,,3,0,1,0,
+Vandewalle,Mr Nestor Cyriel,,28,M,,Southampton,,,3,0,1,0,
+Vartanian,Mr David,,22,M,,Cherbourg,,,3,0,1,0,
+Vendel,Mr Olof Edvin,,20,M,,Southampton,,,3,0,1,0,
+Vestrom,Miss Hulda Amanda Adolfina,,14,F,,Southampton,,,3,0,1,0,
+Vovk,Mr Janko,,21,M,,Southampton,,,3,0,1,0,
+Waelens,Mr Achille,,22,M,,Southampton,,,3,0,1,0,
+Ware,Mr Frederick,,34,M,,Southampton,,,3,0,1,0,
+Warren,Mr Charles William,,30,M,,Southampton,,,3,0,1,0,
+Wazli,Mr Yousif Ahmed,,23,M,,Cherbourg,,,3,0,1,0,
+Webber,Mr James,,66,M,,Southampton,,,3,0,1,0,
+Wennerstrom,Mr August,,27,M,,Southampton,,,3,1,1,0,
+Widegren,Mr Carl Peter,,51,M,,Southampton,,,3,0,1,0,
+Wiklund,Mr Karl Johan,,21,M,,Southampton,,,3,0,1,0,
+Wiklund,Mr Jakob Alfred,,18,M,,Southampton,,,3,0,1,0,
+Wilkes,Mrs Ellen,,47,F,,Southampton,,,3,1,1,0,
+Willer,Mr Aaron,,37,M,,Cherbourg,,,3,0,1,0,
+Willey,Mr Edward John,,18,M,,Southampton,,,3,0,1,0,
+Williams,Mr Howard Hugh,,28,M,,Southampton,,,3,0,1,0,
+Williams,Mr Leslie,,28,M,,Southampton,,,3,0,1,0,
+Windeløv,Mr Einar,,21,M,,Southampton,,,3,0,1,0,
+Wirz,Mr Albert,,27,M,,Southampton,,,3,0,1,0,
+Wiseman,Mr Philippe,,54,M,,Southampton,,,3,0,1,0,
+Wittevrongel,Mr Camilius Aloysius,,36,M,,Southampton,,,3,0,1,0,
+Yasbeck,Mr Antoni,,27,M,,Cherbourg,,,3,1,1,0,
+Yazbeck,Mrs Selini,,15,F,,Cherbourg,,,3,0,1,0,
+Y?suf,Mrs K?tr ?n,,24,F,,Cherbourg,,,3,1,1,0,
+Yousseff    #(Abi Saab),Mr Gerios,,26,M,,Cherbourg,,,3,0,1,0,
+Youssiff    #(Sam'Aan),Mr Gerios,,45,M,,Cherbourg,,,3,0,1,0,
+Zakarian,Mr Ortin,,27,M,,Cherbourg,,,3,0,1,0,
+Zakarian,Mr Mapriededer,,22,M,,Cherbourg,,,3,0,1,0,
+Zenni,Mr Philip,,22,M,,Cherbourg,,,3,1,1,0,
+Zimmermann,Mr Leo,,29,M,,Southampton,,,3,0,1,0,
+Smith, Commander Edward John  RNR    ,(Retd),62,M,"Hanley, Stoke-on-Trent, Staffordshire, England",Southampton,,,0,0,0,1,Captain
+Wilde, Lieutenant Henry Tingle RNR,,39,M,"Walton, Lancashire, England",Southampton,,,0,1,0,1,Chief Officer
+Murdoch, Lieutenant William McMaster  RNR,,39,M,"Dalbeattie, Kirkcudbrightshire, Scotland",Belfast,,,0,1,0,1,First Officer
+Lightoller, Sub-Lieutenant Charles Herbert  RNR,,38,M,"Netley, Hampshire, England",Belfast,B,,0,0,0,1,Second Officer
+Pitman, Mr. Herbert John  RNR,,34,M,"Castle Cary, Somerset, England",Belfast,5,,0,0,0,1,Third Officer
+Boxhall, Sub-Lieutenant Joseph Groves  RNR,,28,M,"Hull, Yorkshire, England",Belfast,2,,0,0,0,1,Fourth Officer
+Lowe, Sub-Lieutenant Harold Godfrey  RNR,,29,M,"Barmouth, Merionethshire, Wales",Belfast,14,,0,0,0,1,Fifth Officer
+Moody, Mr. James Paul,,24,M,"Grimsby, Lincolnshire, England",Belfast,,,0,1,0,1,Sixth Officer
+Anderson, Mr. James,,40,M,"Southampton, Hampshire, England",Southampton,16,,0,0,0,1,Able Seaman
+Anderson, Mr. John,,41,M,"Southampton, Hampshire, England",Southampton,16,,0,0,0,1,Able Seaman
+Archer, Mr. Ernest Edward,,36,M,"Southampton, Hampshire, England",Southampton,3,,0,0,0,1,Able Seaman
+Bailey, Mr. Joseph Henry,,43,M,"Southampton, Hampshire, England",Southampton,16,,0,0,0,1,Master-at-arms
+Bradley, Mr. T.,,29,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Able Seaman
+Brice, Mr. Walter T.,,42,M,"Southampton, Hampshire, England",Southampton,11,,0,0,0,1,Able Seaman
+Bright, Mr. Arthur John,,41,M,"Woolston, Hampshire, England",Southampton,D,,0,0,0,1,Quartermaster
+Buley, Mr. Edward John,,27,M,"Southampton, Hampshire, England",Southampton,10,,0,0,0,1,Able Seaman
+Clench, Mr. Frederick,,34,M,"Southampton, Hampshire, England",Southampton,12,,0,0,0,1,Able Seaman
+Clench, Mr. George James,,31,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Able Seaman
+Couch, Mr. Frank,,28,M,"Port Isaac, Cornwall",Southampton,,253MB,0,0,0,1,Able Seaman
+Davis, Mr. Stephen James,,39,M,"Landport, Hampshire, England",Southampton,,,0,1,0,1,Able Seaman
+Evans, Mr. Alfred Frank,,24,M,"Southampton, Hampshire, England",Southampton,15,,0,0,0,1,Lookout
+Evans, Mr. Frank Oliver,,24,M,"Southampton, Hampshire, England",Southampton,10,,0,0,0,1,Able Seaman
+Fleet, Mr. Frederick,,24,M,"Southampton, Hampshire, England",Belfast,6,,0,0,0,1,Lookout
+Foley, Mr. John,,44,M,"Southampton, Hampshire, England",Belfast,4,,0,0,0,1,Storekeeper
+Forward, Mr. James,,27,M,"Southampton, Hampshire, England",Southampton,16,,0,0,0,1,Able Seaman
+Haines, Mr. Albert M.,,31,M,"Southampton, Hampshire, England",Belfast,9,,0,0,0,1,Boatswain
+Harder, Mr. William,,39,M,"Southampton, Hampshire, England",Southampton,14,,0,0,0,1,Window Cleaner
+Hemming, Mr. Samuel Ernest,,43,M,"Southampton, Hampshire, England",Belfast,4,,0,0,0,1,Lamp Trimmer
+Hichens, Mr. Robert,,29,M,"Southampton, Hampshire, England",Southampton,6,,0,0,0,1,Quartermaster
+Hogg, Mr. George Alfred,,29,M,"Southampton, Hampshire, England",Belfast,7,,0,0,0,1,Lookout
+Holman, Mr. Harry,,27,M,"Southampton, Hampshire, England",Belfast,7,,0,1,0,1,Able Seaman
+Hopkins, Mr. Robert John,,40,M,"Southampton, Hampshire, England",Southampton,13,,0,0,0,1,Able Seaman
+Horswill, Mr. Albert Edward James,,33,M,"Southampton, Hampshire, England",Southampton,1,,0,0,0,1,Able Seaman
+Humphreys, Mr. Sidney James,,48,M,"Southampton, Hampshire, England",Southampton,11,,0,0,0,1,Quartermaster
+Hutchinson, Mr. John Hall,,26,M,"Southampton, Hampshire, England",Belfast,,170MB,0,0,0,1,Carpenter/Joiner
+Jewell, Mr. Archie,,23,M,"Southampton, Hampshire, England",Belfast,7,,0,0,0,1,Lookout
+Jones, Mr. Thomas William,,32,M,"Liverpool, Lancashire, England",Southampton,8,,0,0,0,1,Able Seaman
+King, Mr. Thomas W.,,43,M,"Portsmouth, Hampshire, England",Southampton,,,0,1,0,1,Master-at-arms
+Lee, Mr. Reginald Robinson,,41,M,"Southampton, Hampshire, England",Southampton,13,,0,0,0,1,Lookout
+Lucas, Mr. William A.,,25,M,"Southampton, Hampshire, England",Southampton,D,,0,0,0,1,Able Seaman
+Lyons, Mr. William Henry,,26,M,"Southampton, Hampshire, England",Southampton,4,,0,1,0,1,Able Seaman
+Matherson, Mr. David,,30,M,"Southampton, Hampshire, England",Southampton,,192MB,0,0,0,1,Able Seaman
+Mathais, Mr. Montague Vincent,,27,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Mess Steward
+Maxwell, Mr. John,,31,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Carpenter/Joiner
+McCarthy, Mr. William,,47,M,"Cork, County Cork, Ireland",Southampton,4,,0,0,0,1,Able Seaman
+McGough, Mr. James R.,,25,M,"Southampton, Hampshire, England",Southampton,9,,0,0,0,1,Able Seaman
+Moore, Mr. George Alfred,,32,M,"Southampton, Hampshire, England",Southampton,3,,0,0,0,1,Able Seaman
+Nichols, Mr. Alfred,,42,M,"Shirley, Hampshire, England",Belfast,,,0,1,0,1,Boatswain
+O'Loughlin, Dr. William Francis Norman,,62,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Surgeon
+Olliver, Mr. Alfred,,27,M,"Southampton, Hampshire, England",Belfast,5,,0,0,0,1,Quartermaster
+Osman, Mr. Frank,,28,M,"Itchen, Hampshire, England",Southampton,2,,0,0,0,1,Able Seaman
+Pascoe, Mr. Charles H.,,43,M,"Southampton, Hampshire, England",Southampton,8,,0,0,0,1,Able Seaman
+Perkis, Mr. Walter John,,37,M,"Southampton, Hampshire, England",Belfast,4,,0,0,0,1,Quartermaster
+Peters, Mr. William Chapman,,26,M,"Woolston, Hampshire, England",Southampton,9,,0,0,0,1,Able Seaman
+Poingdestre, Mr. John Thomas,,33,M,"Southampton, Hampshire, England",Southampton,12,,0,0,0,1,Able Seaman
+Rowe, Mr. George Thomas,,32,M,"Gosport, Hampshire, England",Belfast,C,,0,0,0,1,Quartermaster
+Sawyer, Mr. Robert James,,30,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Window Cleaner
+Scarrott, Mr. Joseph George,,33,M,"Southampton, Hampshire, England",Southampton,14,,0,0,0,1,Able Seaman
+Simpson, Dr. John Edward,,37,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Assistant Surgeon
+Smith, Mr. William,,26,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Able Seaman
+Symons, Mr. George Thomas Macdonald,,24,M,"Southampton, Hampshire, England",Southampton,1,,0,0,0,1,Lookout
+Tamlyn, Mr. Frederick,,23,M,"Southampton, Hampshire, England",Southampton,,123MB,0,0,0,1,Mess Steward
+Taylor, Mr. C.,,35,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Able Seaman
+Terrell, Mr. Bertram,,20,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Able Seaman
+Thorley, Mr. Jonathon,,15,M,"Brighton, Sussex, England",Southampton,13,,0,0,0,1,Lamp Trimmer
+Vigott, Mr. Philip Francis,,32,M,"Southampton, Hampshire, England",Southampton,13,,0,0,0,1,Able Seaman
+Weller, Mr. William Clifford,,30,M,"Southampton, Hampshire, England",Belfast,7,,0,0,0,1,Able Seaman
+Wynn, Mr. Walter,,41,M,"Shirley, Hampshire, England",Belfast,9,,0,0,0,1,Quartermaster
+Abrams, Mr. William,,33,F,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Adams, Mr. R.,,26,F,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Allen, Mr. Henry,,32,M,"Southampton, Hampshire, England",Southampton,,145MB,0,0,0,1,Fireman/Stoker
+Allen, Mr. Ernest Frederick,,24,M,"Southampton, Hampshire, England",Southampton,B,,0,0,0,1,Trimmer
+Allsop, Mr. Alfred Samuel,,34,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Electrician
+Avery, Mr. James Frank,,22,M,"Southampton, Hampshire, England",Southampton,15,,0,0,0,1,Trimmer
+Bailey, Mr. George W.,,46,M,"Woolston, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Baines, Mr. Richard,,24,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Greaser
+Bannon, Mr. John,,32,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Greaser
+Barlow, Mr. Charles,,30,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Barnes, Mr. Charles,,29,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Barnes, Mr. Frederick,,29,M,"Woolston, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Barrett, Mr. Frederick,,28,M,"Southampton, Hampshire, England",Southampton,13,,0,0,0,1,Leading Fireman
+Barrett, Mr. Frederick William,,33,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Beattie, Mr. Joseph,,34,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Greaser
+Beauchamp, Mr. George William,,24,M,"Southampton, Hampshire, England",Southampton,13,,0,0,0,1,Fireman/Stoker
+Bell, Mr. Joseph,,50,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Chief Engineer
+Bendell, Mr. F.,,24,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Bennett, Mr. George Alfred,,30,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Benville, Mr. E.,,42,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Bessant, Mr. William Edward,,39,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Bevis, Mr. Joseph Henry,,22,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+Biddlecombe, Mr. Charles,,33,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Biggs, Mr. Edward Charles,,21,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Billow, Mr. J.,,20,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+Binstead, Mr. Walter,,19,M,"Southampton, Hampshire, England",Southampton,3,,0,0,0,1,Trimmer
+Black, Mr. Alexander,,28,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Black, Mr. D.,,41,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Blackman, Mr. H.,,24,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Blake, Mr. Percival Albert,,22,M,"Southampton, Hampshire, England",Southampton,15,,0,0,0,1,Trimmer
+Blake, Mr. Seaton,,26,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Mess Steward
+Blake, Mr. Thomas,,36,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Blaney, Mr. James,,29,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Blann, Mr. Eustace Horatius,,21,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Bott, Mr. W.,,44,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Greaser
+Bradley, Mr. Patrick Joseph,,39,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Brewer," Mr. Henry ""Harry""",,30,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+Briant, Mr. Albert,,34,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Greaser
+Brooks, Mr. J.,,25,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+Brown, Mr. John,,25,M,"Southampton, Hampshire, England",Southampton,,267MB,0,0,0,1,Fireman/Stoker
+Brown, Mr. Joseph James,,25,M,"Eastleigh, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Burroughs, Mr. Arthur,,35,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Burton, Mr. Edward John,,32,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Butt, Mr. William John,,30,M,"Freemantle, Hampshire, England",Southampton,,77MB,0,0,0,1,Fireman/Stoker
+Calderwood, Mr. Hugh,,30,M,"Belfast, Ireland",Belfast,,,0,1,0,1,Trimmer
+Canner, Mr. J.,,40,M,"Woolston, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Carr, Mr. Richard Stephen,,37,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+Carter, Mr. James,,46,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Casey, Mr. T.,,28,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+Castleman, Mr. Edward,,37,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Greaser
+Cavell, Mr. George Henry,,22,M,"Sholing Hampshire, England",Southampton,15,,0,0,0,1,Trimmer
+Cherrett, Mr. William Victor,,24,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Chisnall, Mr. George Alexander,,35,M,"Itchen, Hampshire, England",Belfast,,111MB,0,0,0,1,Boilermaker
+Chorley, Mr. John,,25,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Clark, Mr. William,,39,M,"Southampton, Hampshire, England",Southampton,15,,0,0,0,1,Fireman/Stoker
+Coe, Mr. Harry,,21,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+Coleman, Mr. John,,57,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Mess Steward
+Collins, Mr. Samuel,,35,M,"Southampton, Hampshire, England",Southampton,1,,0,0,0,1,Fireman/Stoker
+Combes, Mr. George,,21,M,"Southampton, Hampshire, England",Southampton,3,,0,0,0,1,Fireman/Stoker
+Cooper, Mr. Harry,,26,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Cooper, Mr. James,,25,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+Copperthwaite, Mr. B.,,22,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+Corcoran, Mr. Dennis,,33,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Cotton, Mr. A.,,26,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+Couch, Mr. Joseph Henry,,45,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Greaser
+Couper, Mr. Robert,,30,M,"Southampton, Hampshire, England",Southampton,3,,0,0,0,1,Fireman/Stoker
+Coy, Mr. Francis Ernest George,,26,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Junior Assistant 3rd Engineer
+Crabb, Mr. H.,,23,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+Creese, Mr. Henry Philip,,44,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Deck Engineer
+Crimmins, Mr. James,,21,M,"Southampton, Hampshire, England",Southampton,13,,0,0,0,1,Fireman/Stoker
+Cross, Mr. W.,,39,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Cunningham, Mr. B.,,30,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Curtis, Mr. Arthur,,25,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Davies, Mr. Thomas,,33,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Leading Fireman
+Dawson, Mr. Joseph[16],,23,M,"Dublin, Ireland",Southampton,,227MB,0,0,0,1,Trimmer
+Diaper, Mr. J.,,25,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Fireman/Stoker
+Dickson, Mr. W.,,36,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+Dilley, Mr. John,,30,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Fireman/Stoker
+Dillon, Mr. Thomas Patrick,,25,M,"Southampton, Hampshire, England",Southampton,4,,0,0,0,1,Trimmer
+Dodd, Mr. Edward Charles,,38,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Junior 3rd Engineer
+Dodds, Mr. Henry Watson,,27,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Junior Assistant 4th Engineer
+Doel, Mr. Frederick,,22,M,"Southampton, Hampshire, England",Southampton,C,,0,0,0,1,Fireman/Stoker
+Dore, Mr. A.,,22,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Trimmer
+Doyle, Mr. Laurence,,27,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Duffy, Mr. William Luke,,28,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Writer/Engineer's Clerk
+Dyer, Mr. Henry Ryland,,24,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Senior Assistant 4th Engineer
+Dymond, Mr. Frank,,25,M,"Itchen, Hampshire, England",Southampton,15,,0,0,0,1,Fireman/Stoker
+Eagle, Mr. Alfred James,,22,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+Eastman, Mr. Charles,,44,M,"Millbrook, Hampshire, England",Southampton,,,0,1,0,1,Greaser
+Elliott, Mr. Everett Edward,,23,M,"Edmonton, London, England",London,,,0,1,0,1,Trimmer
+Ervine, Mr. Albert George,,18,M,"Belfast, Ireland",Belfast,,,0,1,0,1,Assistant Electrician
+Evans, Mr. Williams,,32,M,"Southampton, Hampshire, England",Southampton,,31MB,0,0,0,1,Trimmer
+Farquharson, Mr. William Edward,,39,M,"Belfast, Ireland,",Southampton,,,0,1,0,1,Senior 2nd Engineer
+Fay, Mr. Thomas,,30,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Greaser
+Ferrary, Mr. Anton,,33,M,"Southampton, Hampshire, England",Southampton,,308M{?}[17],0,0,0,1,Trimmer
+Ferris, Mr. William,,38,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Leading Fireman
+Fitzpatrick, Mr. Charles W.N.,,30,M,"Southampton, Hampshire, England",Southampton,B,-,0,0,0,1,Mess Steward
+Flarty, Mr. Edward,,52,M,"Southampton, Hampshire, England",Southampton,?,,0,0,0,1,Fireman/Stoker
+Ford. Mr. H.,,,22,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+Ford, Mr. Thomas,,30,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Leading Fireman
+Foster, Mr. A.,,37,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Engineering Storekeeper
+Fraser, Mr. James,,29,M,"Southampton, Hampshire, England","Belfast, Ireland",,,0,1,0,1,Junior Assistant Third Engineer
+Fraser, Mr. James,,29,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Fredricks, Mr. Walter Francis,,20,M,"Southampton, Hampshire, England",Southampton,15,,0,0,0,1,Trimmer
+Fryer, Mr. Albert Ernest,,26,M,"Southampton, Hampshire, England",Southampton,13,,0,0,0,1,Trimmer
+Geer, Mr. Alfred Ernest,,24,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Godley, Mr. George,,38,M,"Southampton, Hampshire, England",Southampton,?,,0,0,0,1,Fireman/Stoker
+Godwin, Mr. Frederick Charles,,36,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Greaser
+Golder, Mr. Martin W.,,32,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Gordon, Mr. J.,,29,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+Goree, Mr. Frank,,28,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Greaser
+Gosling, Mr. Bertram James,,22,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+Gosling, S.,,26,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+Gradidge, Mr. Ernest E.,,32,M,"Southampton, Hampshire, England",Southampton,,276MB,0,0,0,1,Fireman/Stoker
+Graham, Mr. Thomas Gibson,,28,M,"Belfast, Ireland",Belfast,,,0,0,0,1,Fireman/Stoker
+Green, Mr. George,,41,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+Gregory, Mr. David,,43,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Greaser
+Gumery, Mr. George,,24,M,"Birmingham, England",Southampton,,,0,1,0,1,Mess Steward
+Hagan, Mr. John,,30,M,"Southampton, Hampshire, England",Belfast,3,,0,0,0,1,Fireman/Stoker
+Hall, Mr. Joseph,,32,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Hallett, Mr. George,,23,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Hands, Mr. Bernard,,34,M,"Killeshandra, Cavan, Ireland",Southampton,,,0,1,0,1,Fireman/Stoker
+Hannam, Mr. George,,30,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Harris, Mr. Edward,,29,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Harris, Mr. Frederick,,34,M,"Southampton, Hampshire, England",Southampton,14,,0,0,0,1,Fireman/Stoker
+Harrison, Mr. Norman,,39,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Assistant Second Engineer
+Harvey, Mr. Herbert Gifford,,34,M,"Belfast, Ireland",Southampton,,,0,1,0,1,Junior Assistant Second Engineer
+Haslin, Mr. James,,45,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+Hart, Mr. James,,58,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Head, Mr. Arthur,,24,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Hebb, Mr. A.,,20,M,"Southampton, Hampshire, England",Southampton,B,,0,0,0,1,Trimmer
+Hendrickson, Mr. Charles Osker,,29,M,"Northam, Southampton, Hampshire, England",Southampton,1,,0,0,0,1,Leading Fireman
+Hesketh, Mr. John Henry,,33,M,"Kirkdale, Liverpool, England",Belfast,,,0,1,0,1,Junior Second Engineer
+Hill, Mr. James,,25,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+Hinton, Mr. Steven William,,31,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+Hosking, Mr. George Fox,,36,M,"Southampton, England",Southampton,,,0,1,0,1,Senior Third Engineer
+Hunt, Mr. Albert,,22,M,"Southampton, Hampshire, England",Southampton,C,,0,0,0,1,Trimmer
+Hunt, Mr. T.,,28,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Hurst, Mr. Charles,,41,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Hurst, Walter,,27,M,"Southampton, Hampshire, England",Southampton,B,,0,0,0,1,Fireman/Stoker
+Ingram, Mr. Charles,,20,M,"Southampton, Hampshire, England",Southampton,,204MB[18],0,0,0,1,Trimmer
+Instance, T.,,33,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Jackopson, Mr. John Henry,,30,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Jago, Mr. Joseph,,59,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Greaser
+James, Mr. Thomas,,27,M,"Cardiff, Glamorgan, Wales",Southampton,,,0,1,0,1,Fireman/Stoker
+Jarvis, Mr. William,,37,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Joas, Mr. N.,,38,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Judd, Mr. Charles E.,,32,M,"Southampton, Hampshire, England",Southampton,B,,0,0,0,1,Fireman/Stoker
+Jukes, Mr. James,,35,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Greaser
+Jupe, Mr. Herbert,,31,M,"Southampton, Hampshire, England",Southampton,,73MB,0,0,0,1,Assistant Electrician
+Kaspar, Mr. Franz V.,,40,M,"Southampton, Hampshire, England",Southampton,9,,0,0,0,1,Fireman/Stoker
+Kearl, Mr. Charles H.,,44,M,"Ventnor, Isle of Wight, Hampshire, England",Southampton,,,0,1,0,1,Greaser
+Kearl, Mr. G.,,24,M,"Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+Keegan, Mr. James,,38,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Leading Fireman
+Kelly, Mr. James,,44,M,"Co. Meath, Ireland",Southampton,,,0,1,0,1,Greaser
+Kelly, Mr. William,,23,M,"Dublin, Ireland",Belfast,,,0,1,0,1,Assistant Electrician
+Kemish, Mr. George,,22,M,"Shirley, Southampton, Hampshire, England",Southampton,9,,0,0,0,1,Fireman/Stoker
+Kemp, Mr. Thomas Hulman,,43,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Assistant Fourth Engineer
+Kenchenten, Mr. Frederick,,37,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Greaser
+Kerr, Mr. Thomas,,26,M,"Glasgow, Scotland",Southampton,,,0,1,0,1,Fireman/Stoker
+Kinsella, Mr. Louis,,30,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Kirkham, Mr. James,,43,M,"Whittingham, Liverpool, Lancashire, England",Southampton,,,0,1,0,1,Greaser
+Knowles, Mr. Thomas,,39,M,"Lymington, England",Southampton,C,,0,0,0,1,Fireman's Messman
+Lahy, Mr. Thomas E.,,32,M,"London, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Lee, Mr. Henry,,18,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+Light, Mr. Charles,,23,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Light, Mr. W.,,47,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Lindsay, Mr. William Charles,,30,M,"Bristol, Avon, England",Southampton,B,,0,0,0,1,Fireman/Stoker
+Loyd, Mr. W.,,29,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Long, Mr. Frank,,28,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+Long, Mr. William,,36,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+Mackie, Mr. William Dickson,,32,M,"London, England",Belfast,,,0,1,0,1,Junior Fifth Engineer
+Major, Mr. William,,32,M,"Southampton, Hampshire, England",Southampton,13,,0,0,0,1,Fireman/Stoker
+Marett, Mr. George John,,27,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Marsh, Mr. Frederick Charles,,28,M,"Southampton, Hampshire, England",Southampton,,268MB,0,0,0,1,Fireman/Stoker
+Maskell, Mr. L.A.,,25,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+Mason, Mr. Frank Archibald Robert,,32,M,"Southampton, Hampshire, England",Southampton,B,,0,0,0,1,Fireman/Stoker
+Mason, Mr. James,,39,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Leading Fireman
+May Jr., Mr. Arthur William,,23,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+May Sr., Mr. Arthur William,,60,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman's Messman
+Mayo, Mr. William Peter,,27,M,"Southampton, Hampshire, England",Southampton,,117MB,0,0,0,1,Leading Fireman
+Mayzes, Mr. Thomas,,25,M,"Southampton, Hampshire, England",Southampton,3,,0,0,0,1,Fireman/Stoker
+McAndrew, Mr. Thomas Patrick,,38,M,"Liverpool, Merseyside, England",Southampton,,,0,1,0,1,Fireman/Stoker
+McAndrews, Mr. William,,23,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+McCastlen, Mr. William,,38,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+McCubbin, Mr. Lee,,0,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+McGann, Mr. James,,29,M,"Liverpool, Lancashire, England",Southampton,B,,0,0,0,1,Trimmer
+McGarvey, Mr. Edward Joseph,,34,M,"Liverpool, Lancashire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+McGaw, Mr. Errol Victor,,30,M,"Aldershot, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+McGregor, Mr. J.    ,(John Brown Niven),30,M,"Edinburgh, Midlothian, Scotland",Southampton,,,0,1,0,1,Fireman/Stoker
+McInerney, Mr. Thomas,,38,M,"Bootle, Lancashire, England",Southampton,,,0,1,0,1,Greaser
+McInytre, Mr. William,,22,M,"Southampton, Hampshire, England",Southampton,A,,0,0,0,1,Trimmer
+McQuillan, Mr. William,,32,M,"Belfast, Ireland",Belfast,,183MB,0,0,0,1,Fireman/Stoker
+McRae, Mr. William Alexander,,32,M,"Shirley, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+McReynolds, Mr. William,,22,M,"Belfast, Ireland",Belfast,,,0,1,0,1,Junior Sixth Engineer
+Middleton, Mr. Alfred Pirrie,,17,M,"Belfast, Ireland",Belfast,,,0,1,0,1,Assistant Electrician
+Milford, Mr. George,,28,M,"Ryde, Isle of Wight, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Millar, Mr. Robert,,27,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Extra Fifth Engineer
+Millar, Mr. Thomas,,33,M,"Belfast, Ireland",Belfast,,,0,1,0,1,Assistant Deck Engineer
+Mintram, Mr. William,,46,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Mitchell, Mr. Lawrence    ,(Lorenzo),19,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+Moore, Mr. John J.,,29,M,"Southampton, Hampshire, England",Southampton,3,,0,0,0,1,Fireman/Stoker
+Moore, Mr. Ralph,,21,M,"London, England",Southampton,,,0,1,0,1,Trimmer
+Moores, Mr. Richard Henry,,44,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Greaser
+Morgan, Mr. Arthur Herbert,,27,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+Morgan, Mr. Thomas A.,,26,M,"Southampton, Hampshire, England",Southampton,,302MB,0,0,0,1,Fireman/Stoker
+Morrell, Mr. R.    ,(Albert White),21,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+Morris, Mr. Arthur,,30,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Greaser
+Morris, Mr. William Edward,,23,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+Moyes, Mr. William Young,,23,M,"Stirling, Scotland",Belfast,,,0,1,0,1,Senior Sixth Engineer
+Murdock, Mr. William,,34,M,"Belfast, Ireland",Belfast,B,,0,0,0,1,Fireman/Stoker
+Nettleton, Mr. George Walter,,29,M,"St. Denys, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Newman, Mr. Charles Thomas,,32,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Engineering Storekeeper
+Noon, Mr. John,,35,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Norris, Mr. James,,22,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Noss, Mr. Bertram Arthur,,21,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Noss, Mr. Henry,,31,M,"Southampton, Hampshire, England",Southampton,15,,0,0,0,1,Fireman/Stoker
+Nutbean, Mr. William,,31,M,"Southampton, Hampshire, England",Southampton,3,,0,0,0,1,Fireman/Stoker
+O'Connor, Mr. John,,25,M,"Southampton, Hampshire, England",Southampton,B,,0,0,0,1,Trimmer
+Olive, Mr. Charles,,31,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Greaser
+Oliver, Mr. H.,,32,M,"Southampton, Hampshire, England",Southampton,3,,0,0,0,1,Fireman/Stoker
+Othen, Mr. Charles,,36,M,"Southampton, Hampshire, England",Southampton,11,,0,0,0,1,Fireman/Stoker
+Paice, Mr. Richard Charles John,,32,M,"Kingsclere, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Painter, Mr. Charles,,31,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Painter, Mr. Frank,,29,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Palles, Mr. Thomas Henry Michael,,45,M,"Liverpool, England",Southampton,,,0,1,0,1,Greaser
+Parsons, Mr. Frank Alfred,,27,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Senior Fifth Engineer
+Pearce, Mr. John,,28,M,"Southampton, Hampshire, England",Southampton,15,,0,0,0,1,Fireman/Stoker
+Pelham, Mr. George,,39,M,"Southampton, Hampshire, England",Southampton,16,,0,0,0,1,Trimmer
+Perry, Mr. Edgar Lionel,,19,M,"Southampton, Hampshire, England",Southampton,?,,0,0,0,1,Trimmer
+Perry, Mr. Henry Frederick,,23,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+Phillips, Mr. G.,,27,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Greaser
+Pitfield, Mr. William James,,25,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Greaser
+Podesta, Mr. John,,25,M,"Southampton, Hampshire, England",Southampton,3,,0,0,0,1,Fireman/Stoker
+Pond, Mr. George,,32,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Prangnell, Mr. George,,31,M,"Southampton, Hampshire, England",Southampton,B,,0,0,0,1,Greaser
+Preston, Mr. Thomas Charles Alfred,,20,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+Priest, Mr. Arthur J.,,23,M,"Southampton, Hampshire, England",Southampton,15,,0,0,0,1,Fireman/Stoker
+Proudfoot, Mr. Richard Royston,,22,M,"Plymouth, Devon, England",Southampton,,,0,1,0,1,Trimmer
+Pugh, Mr. Percy,,31,M,"Hampshire, England",Southampton,,,0,1,0,1,Leading Fireman
+Pusey, Mr. William Robert Holland,,24,M,"Hythe, Hampshire, England",Southampton,1,,0,0,0,1,Fireman/Stoker
+Ranger, Mr. Thomas G.,,29,M,"Southampton, Hampshire, England",Southampton,4,,0,0,0,1,Greaser
+Read, Mr. Joseph,,20,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+Reed, Mr. Robert,,30,M,"Gosport, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+Reeves, Mr. Robert,,30,M,"Southampton, Hampshire, England",Southampton,,280MB,0,0,0,1,Fireman/Stoker
+Rice, Mr. Charles,,32,M,"Southampton, Hampshire, England",Southampton,10,,0,0,0,1,Fireman/Stoker
+Richards, Mr. Joseph James,,30,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Rickman, Mr. George Albert,,36,M,"Milford, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Roberts, Mr. Robert George,,35,M,"Bransgore, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Rous, Mr. Arthur John,,26,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Plumber
+Rudd, Mr. Henry,,23,M,"Southampton, Hampshire, England",Southampton,,86MB,0,0,0,1,Engineering Storkeeper
+Rutter, Mr. Sidney,,27,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Sangster, Mr. Charles Edward,,30,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Saunders, Mr. Thomas,,n/a,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Saunders, Mr. W.,,30,M,"Southampton, Hampshire, England",Southampton,,184MB,0,0,0,1,Fireman/Stoker
+Saunders, Mr. W.,,23,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+Scott, Mr. Archibald,,40,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Scott, Mr. Frederick,,28,M,"Southampton, Hampshire, England",Southampton,4,,0,0,0,1,Greaser
+Self, Mr. Alfred Henry,,40,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Greaser
+Self, Mr. Edward,,25,M,"Southampton, Hampshire, England",Southampton,?,,0,0,0,1,Fireman/Stoker
+Senior, Mr. Henry,,31,M,"London, England",Southampton,B,,0,0,0,1,Fireman/Stoker
+Shea, Mr. Thomas,,29,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Sheath, Mr. Frederick,,20,M,"Southampton, Hampshire, England",Southampton,1,,0,0,0,1,Trimmer
+Shepherd, Mr. Johnathan,,32,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Junior Assistant Second Engineer
+Shiers, Mr. Alfred,,24,M,"Southampton, Hampshire, England",Southampton,5,,0,0,0,1,Fireman/Stoker
+Shillaber, Mr. Charles,,20,M,"Southampton, Hampshire, England",Southampton,,195MB,0,0,0,1,Trimmer
+Skeates, Mr. William,,26,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+Sloan, Mr. Peter,,31,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Chief Electrician
+Small, Mr. William,,40,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Leading Fireman
+Smith, Mr. Ernest George,,27,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+Smith, Mr. James Muil,,35,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Junior Fourth Engineer
+Smither, Mr. Harry James,,22,M,"Kilburn, Middlesex, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Snellgrove, Mr. George,,41,M,"Millbrook, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Snooks, Mr. W,,26,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+Snowberger, Mr. Eustace Philip,,21,M,"Southampton, Hampshire, England",Southampton,B,,0,0,0,1,Trimmer
+Sparkman, Mr. Henry,,36,M,"Southampton, Hampshire, England",Southampton,?,,0,0,0,1,Fireman/Stoker
+Stafford, Mr. Michael    ,(Albert Briant),34,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Greaser
+Stanbrook, Mr. Augustus,,30,M,"Southampton, Hampshire, England",Southampton,,316M,0,0,0,1,Fireman/Stoker
+Steel, Mr. Robert Edward,,30,M,"Guernsey, Channel Islands",Southampton,,,0,1,0,1,Trimmer
+Stocker, Mr. Henry Dorey,,20,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+Street, Mr. Henry Albert,,25,M,"Southampton, Hampshire, England",Southampton,9,,0,0,0,1,Fireman/Stoker
+Stubbs, Mr. James Henry,,28,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Sullivan , Mr. S.,,25,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Taylor, Mr. James,,25,M,"Southampton, Hampshire, England",Southampton,1,,0,0,0,1,Fireman/Stoker
+Taylor, Mr. John,,32,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Taylor, Mr. T.,,42,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Taylor, Mr. William Henry,,28,M,"Southampton, Hampshire, England",Southampton,15,,0,0,0,1,Fireman/Stoker
+Thomas, Mr. James,,27,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Thompson, Mr. John William,,42,M,"Liverpool, England",Southampton,A/14,,0,0,0,1,Fireman/Stoker
+Threlfall, Mr. Thomas,,38,M,"Liverpool, England",Southampton,14,,0,0,0,1,Leading Fireman
+Thresher, Mr. George,,25,M,"Southampton, Hampshire, England",Southampton,?,,0,0,0,1,Fireman/Stoker
+Tizard, Mr. Arthur Leopold,,31,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Tozer, Mr. James,,32,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Greaser
+Triggs, Mr. Robert,,41,M,"Southampton, Hampshire, England",Southampton,3,,0,0,0,1,Fireman/Stoker
+Turley, Mr. Richard,,37,M,"Newry, Down, Ireland",Southampton,,,0,1,0,1,Fireman/Stoker
+van der Brugge, Mr. Wessel Adrianus,,42,M,"Delfshaven, Rotterdam, Netherlands",Southampton,,,0,1,0,1,Fireman/Stoker
+Veal, Mr. Arthur,,36,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Greaser
+Vear, Mr. Henry,,32,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Vear, Mr. W.,,32,M,"Southampton, Hampshire, England",Southampton,,59MB,0,0,0,1,Fireman/Stoker
+Ward, Mr. Arthur,,24,M,"Romsey, England",Belfast,,,0,1,0,1,Junior Assistant Fourth Engineer
+Ward, Mr. Joseph,,31,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Leading Fireman
+Wardner, Mr. Frederick Albert,,39,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Wateridge, Mr. Edward Lewis,,25,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Watson, Mr. W.,,27,M,"Southampton, Hampshire, England",Southampton,,158MB,0,0,0,1,Fireman/Stoker
+Webb, Mr. Samuel Francis,,28,M,"Salford, Manchester, Lancashire, England",Southampton,,,0,1,0,1,Trimmer
+Webber, Mr. Francis Albert,,31,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Leading Fireman
+White, Mr. Alfred,,32,M,"Southampton, Hampshire, England",Southampton,4,,0,0,0,1,Greaser
+White, Mr. Frank Leonard,,27,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+White, Mr. William George,,23,M,"Salisbury, Wiltshire, England",Southampton,15,,0,0,0,1,Trimmer
+Williams, Mr. Samuel Solomon,,26,F,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Wilson, Mr. Bertie,,28,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Senior Assistant Second Engineer
+Wilton, Mr. William,,45,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+Witcher, Mr. Alfred,,40,M,"Lymington, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Witt, Mr. F.,,n/a,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+Witt, Mr. Henry Dennis,,40,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Woodford, Mr. Frederick,,41,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Greaser
+Wood, Mr. Henry,,31,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Trimmer
+Wyeth, Mr. James Robert,,26,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Young, Mr. Francis James,,30,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Fireman/Stoker
+Abbott, Mr. Ernest Owen,,21,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,First Class Lounge Pantry Steward
+Ahier, Mr. Percy Snowden,,20,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,First Class Saloon Steward
+Akerman, Mr. Albert,,28,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Third Class Steward
+Akerman, Mr. Joseph Francis,,35,M,"Southampton, Hampshire, England",Southampton,,205MB,0,0,0,1,Asst. Pantry Steward
+Allan, Mr. Robert Spencer,,36,M,"Shirley, Hampshire, England",Southampton,,,0,1,0,1,First Class Bedroom Steward
+Allen, Mr. George,,26,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Scullion
+Allen, Mr. Frederick,,17,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Lift Steward
+Allsop, Mr. Frank Richard,,41,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Bedroom Steward
+Anderson, Mr. Walter J.,,48,M,"Southampton, Hampshire, England",Southampton,,146MB,0,0,0,1,Bedroom Steward
+Andrews, Mr. Charles Edward,,19,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Assistant Second Class Saloon Steward
+Ashcroft, Mr. Austin Aloysius,,26,M,"Seacombe, Cheshire, England",Southampton,,,0,1,0,1,Clerk
+Ashe, Mr. Henry Wellesley,,32,M,"Liverpool, Lancashire, England",Southampton,,34MB,0,0,0,1,Glory Hole Steward
+Ayling, Mr. George Edwin,,22,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Assistant Vegetable Cook
+Back, Mr. Charles Frederick,,32,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Assistant Lounge Steward
+Baggott, Mr. Allen Marden,,28,M,"Itchen, Hampshire, England",Southampton,,,0,0,0,1,First Class Saloon Steward
+Bagley, Mr. Edward Ernest,,31,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,First Class Saloon Steward
+Bailey, Mr. George Francis,,36,M,"Shepperton, London, England",Belfast,,161MB,0,0,0,1,Second Class Saloon Steward
+Ball, Mr. Percy,,19,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,First Class Plate Steward
+Barker, Mr. Albert Vale,,19,M,"Winchester, Hampshire, England",Southampton,,,0,1,0,1,Assistant Baker
+Barker, Mr. Ernest T.,,37,M,"London, England",Southampton,,159MB,0,0,0,1,First Class Saloon Steward
+Barker, Mr. Reginald Lomond,,40,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Assistant Purser
+Barlow, Mr. George,,36,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Second Class Bedroom Steward
+Barnes, Mr. Frederick,,37,M,"Southampton, Hampshire, England",Southampton,,26{?}MB[19],0,0,0,1,Assistant Baker
+Barratt, Mr. Arthur,,15,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Bell Boy
+Barringer, Mr. Arthur William,,33,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,First Class Saloon Steward
+Barrow, Mr. Harry,,35,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Assistant Butcher
+Barrows, Mr. William,,32,M,"London, England",Southampton,,,0,1,0,1,First Class Saloon Steward
+Barton, Mr. Sidney John,,25,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Third Class Steward
+Baxter, Mr. Harry Ross,,51,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Third Class Steward
+Baxter, Mr. Thomas Ferguson,,48,M,"Southampton, Hampshire, England",Southampton,,235MB,0,0,0,1,Linen Steward
+Bedford, Mr. William Barnet,,31,M,"Itchen, Hampshire, England",Southampton,,,0,1,0,1,Assistant Roast Cook
+Beedem, Mr. George Arthur,,34,M,"London, England",Southampton,,,0,1,0,1,Second Class Bedroom Steward
+Beere, Mr. William,,19,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Kitchen Porter
+Benham, Mr. Frederick,,29,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Second Class Saloon Steward
+Bennett, Mrs Mabel,,30,F,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,First Class Stewardess
+Bessant, Mr. Edward William,,31,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Baggage Steward
+Best, Mr. Alfred,,38,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,First Class Saloon Steward
+Blake, Mr. Seaton,,26,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Mess Steward
+Bishop, Mr. Walter Alexander,,34,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,First Class Bedroom Steward
+Bliss, Mrs. Emma    ,(nee Junod),45,M,"London, England",Southampton,,,0,0,0,1,First Class Stewardess
+Bochatay, Mr. Alexis Joseph,,30,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Assistant Chef
+Bogie, Mr. Norman Leslie,,29,M,"Eastleigh, Hampshire, England",Southampton,,274MB,0,0,0,1,Second Class Bedroom Steward
+Bond, Mr. William John,,40,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,First Class Bedroom Steward
+Boothby, Mr. W.,,36,M,"Southampton, Hampshire, England",Southampton,,107MB,0,0,0,1,Second Class Bedroom Steward
+Boston, Mr. William John,,30,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Assistant Deck Steward
+Boughton, Mr. B.,,24,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,First Class Saloon Steward
+Boyd, Mr. John,,35,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,First Class Saloon Steward
+Boyes, Mr. John Henry,,36,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,First Class Saloon Steward
+Bradshaw, Mr. J.A.,,43,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,First Class Plate Steward
+Brewster, Mr. George H.,,48,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,First Class Bedroom Steward
+Bride, Mr. Harold Sydney,,22,M,"Southampton, Hampshire, England",Belfast,,,0,0,0,1,Assistant Telegraphist
+Bristow, Mr. Robert Charles,,31,M,"Southampton, Hampshire, England",Southampton,,290MB,0,1,0,1,Third Class Steward
+Bristow, Mr. Harry,,33,M,"Looe, Cornwall",Southampton,,,0,1,0,1,First Class Saloon Steward
+Brookman, Mr,,27,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Third Class Steward
+Broom, Mr. H.,,33,M,"Cowes, Isle of Wight, England",Belfast,,,0,1,0,1,Bath Steward
+Broome, Mr. Athol Frederick,,30,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Verandah Steward
+Brown, Mr. Edward,,34,M,"Southampton, Hampshire, England",Belfast,,,0,0,0,1,Saloon Steward
+Brown, Mr. Walter James,,28,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Saloon Steward
+Buckley, Mr. H.E.,,34,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Assistant Vegetable Cook
+Bull, Mr. W.,,30,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Scullion
+Bulley, Mr. Henry Ashburnham,,21,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Boots
+Bunnell, Mr. Wilfred,,20,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Plate Steward
+Burgess, Mr. Charles Reginald,,18,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Extra Third Baker
+Burke, Mr. Richard Edward,,30,M,"Chandler's Ford, Hampshire, England",Belfast,,,0,1,0,1,Lounge Steward
+Burke, Mr. William,,31,M,"Southampton, Hampshire, England",Belfast,,,0,0,0,1,Saloon Steward
+Burr, Mr. Ewart,,29,M,"Woolston, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+Burrage, Mr. Alfred,,20,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Plate Steward
+Butt, Mr. Robert Henry,,22,M,"Southampton, Hampshire, England",Southampton,,10MB,0,0,0,1,Saloon Steward
+Butterworth, Mr. John,,23,M,"Southampton, Hampshire, England",Southampton,,116MB,0,0,0,1,Saloon Steward
+Byrne, Mr. J.E.,,31,M,"Ilford, London, England",Southampton,,,0,1,0,1,Bedroom Steward
+Campbell, Mr. Donald S.,,25,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Third Class Clerk
+Carney, Mr. William,,31,M,"Liverpool, Lancashire, England",Southampton,,251MB,0,0,0,1,Lift Steward
+Cartwright, Mr. James Edward,,32,M,"Southampton, Hampshire, England",Belfast,,320M,0,0,0,1,Saloon Steward
+Casswill, Mr. Charles,,32,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+Caton, Miss Annie,,50,F,"London, England",Southampton,,,0,0,0,1,Turkish Bath Stewardess
+Caunt, Mr. William Ewart,,27,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Grill Cook
+Cave, Mr. Herbert,,34,M,"Southampton, Hampshire, England",Belfast,,218MB,0,0,0,1,Saloon Steward
+Cecil, Mr. C.,,20,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Steward
+Chapman, Mr. Joseph Charles,,32,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Boots
+Charman, Mr. John,,25,M,"Southampton, Hampshire, England",Southampton,,185{?}MB[20],0,0,0,1,Saloon Steward
+Cheverton, Mr. William Edward,,27,M,"Newport, Pembrokeshire, Wales",Belfast,,334I,0,0,0,1,Saloon Steward
+Chitty, Mr. Archibald George,,28,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Steward
+Chitty, Mr. George Henry,,52,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Baker
+Christmas, Mr. H.,,33,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Assistant Saloon Steward
+Coleman, Mr. Albert Edward,,28,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+Coleman, Mr. John,,57,M,"Itchen, Hampshire, England",Southampton,,112{?}MB[20],0,0,0,1,Mess Steward
+Colgan, Mr. E. Joseph,,33,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Scullion
+Collins, Mr. John,,17,M,"Belfast, Ireland",Southampton,,,0,0,0,1,Scullion
+Conway, Mr. P.W.,,25,M,"London, England",Belfast,,,0,1,0,1,Saloon Steward
+Cook, Mr. George,,42,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+Coombs, Mr. Augustus Charles,,38,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Cook
+Corben, Mr. Ernest Theodore,,27,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Assistant Printer Steward
+Coutin, Mr. Auguste Louis,,28,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Entree Cook
+Cox, Mr. William Denton,,29,M,"Southampton, Hampshire, England",Southampton,,300MB,0,0,0,1,Steward
+Crafter, Mr. Frederick,,27,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Saloon Steward
+Crawford, Mr. Alfred,,36,M,"Southampton, Hampshire, England",Belfast,,,0,0,0,1,Bedroom Steward
+Crisp, Mr. Albert Hector,,35,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Saloon Steward
+Crispin, Mr. William,,32,M,"Eastleigh, Hampshire, England",Southampton,,,0,1,0,1,Glory Hole Steward
+Crosby, Mr. J. Bertram,,42,M,"London, England",Southampton,,,0,1,0,1,Turkish Bath Attendant
+Crowe, Mr. George Frederick,,30,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Saloon Steward
+Crumplin, Mr. Charles,,35,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Bedroom Steward
+Cullen, Mr. Charles,,45,M,"Southampton, Hampshire, England",Belfast,,,0,0,0,1,Bedroom Steward
+Cunningham, Mr. Andrew,,35,M,"Southampton, Hampshire, England",Belfast,,,0,0,0,1,Bedroom Steward
+Daniels, Mr. Sidney Edward,,18,M,"Southsea, Hampshire, England",Southampton,,,0,0,0,1,Steward
+Dashwood, Mr. William George,,19,M,"Southampton, Hampshire, England",Southampton,,83MB,0,0,0,1,Saloon Steward
+Davies, Mr. Gordon Raleigh,,33,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Bedroom Steward
+Davies, Mr. John James,,27,M,"Southampton, Hampshire, England",Belfast,,200MB,0,0,0,1,Extra 2nd Baker
+Davies, Mr. Robert J.,,26,M,"Southampton, Hampshire, England",Belfast,,191MB,0,0,0,1,Saloon Steward
+Dean, Mr. George H.,,19,M,"Southampton, Hampshire, England",Southampton,,252MB,0,0,0,1,Assistant Saloon Steward
+Deeble, Mr. Alfred Arnold,,29,M,"Southampton, Hampshire, England",Belfast,,270MB,0,0,0,1,Saloon Steward
+Derrett, Mr. Albert,,26,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Saloon Steward
+Deslands, Mr. Percival Stainer,,36,M,"Southampton, Hampshire, England",Southampton,,212MB,0,0,0,1,Saloon Steward
+Desvernine, Mr. Louis Gabriel,,20,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Assistant Pastry Cook
+Dinenage, Mr. James Richard,,47,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+Dodd, Mr. George Charles,,44,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Steward
+Dolby, Mr. Joseph,,36,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Reception Room Steward
+Donoghue, Mr. Frank,,35,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Bedroom Steward
+Doughty, Mr. W.,,22,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+Dunford, Mr. William,,41,M,"Southampton, Hampshire, England",Southampton,,71MB,0,0,0,1,Hospital Steward
+Dyer, Mr. William,,31,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+Edbrooke, Mr. F.,,24,M,"Portsmouth, Hampshire, England",Southampton,,,0,1,0,1,Steward
+Ede, Mr. George B.,,22,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Steward
+Edge, Mr. Frederick William,,37,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Deck Steward
+Edwards, Mr. Clement,,38,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Assistant Pantryman Steward
+Egg, Mr. W.H.,,34,M,"London, England",Southampton,,,0,1,0,1,Steward
+Ellis, Mr. John Bertram,,30,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Assistant Vegetable Cook
+Ennis, Mr. Walter,,35,M,"Southport, Lancashire, England",Southampton,,,0,1,0,1,Turkish Bath Attendant
+Etches, Mr. Henry Samuel,,41,M,"Southampton, Hampshire, England",Belfast,,,0,0,0,1,Bedroom Steward
+Evans, Mr. George Richard,,32,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Saloon Steward
+Fairall, Mr. Henry,,38,M,"Ryde, Isle of Wight, England",Belfast,,,0,1,0,1,Saloon Steward
+Farrenden, Mr. Ernest John,,32,M,"Emsworth, Hampshire, England",Belfast,,,0,1,0,1,Confectioner
+Faulkner, Mr. William Stephen,,37,M,"Southampton, Hampshire, England",Belfast,,,0,0,0,1,Bedroom Steward
+Fellowes, Mr. Alfred J.,,29,M,"Southampton, Hampshire, England",Belfast,,138MB,0,0,0,1,Boots
+Feltham, Mr. G.,,36,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Vienna Baker
+Finch, Mr. Harry,,18,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Steward
+Fletcher, Mr. Peter W.,,26,M,"Sholing, Hampshire, England",Belfast,,,0,1,0,1,Bugler Steward
+Foley, Mr. William C.,,26,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Steward
+Ford, Mr. Ernest,,32,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Steward
+Ford, Mr. F.,,37,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Bedroom Steward
+Fox, Mr. William Thomas,,27,M,"Ealing, London, England",Southampton,,214{?}MB[20],0,0,0,1,Steward
+Franklin, Mr. Alan Vincent,,29,M,"Southampton, Hampshire, England",Southampton,,262MB,0,0,0,1,Saloon Steward
+Freeman, Mr. Ernest Edward Samuel,,43,M,"Southampton, Hampshire, England",Belfast,,239MB,0,0,0,1,Deck Steward
+Geddes, Mr. Richard Charles,,31,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Bedroom Steward
+Gibbons, Mr. Jacob William,,36,M,"Studland, Dorset, England",Southampton,,,0,0,0,1,Saloon Steward
+Giles, Mr. John Robert,,30,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Baker
+Gill, Mr. Joseph Stanley,,34,M,"Southampton, Hampshire, England",Belfast,,49MB,0,0,0,1,Bedroom Steward
+Gill, Mr. Patrick,,38,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Ship's Cook
+Gold, Mrs. Katherine    ,(nee Cook),42,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Stewardess
+Gollop, Mr. F.,,28,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Assistant Passage Cook
+Goshawk, Mr. Arthur James,,31,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Third Saloon Steward
+Gregson, Miss Mary,,44,F,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Stewardess
+Gunn, Mr. Joseph Alfred,,28,M,"Southampton, Hampshire, England",Southampton,,125{?}MB[20],0,0,0,1,Assistant Saloon Steward
+Guy, Mr. Edward John,,28,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Boots
+Halford, Mr. Richard,,22,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Steward
+Hall, Mr. F.A.J.,,38,M,"London, England",Southampton,,,0,1,0,1,Scullion
+Hamblyn, Mr. Ernest William,,41,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Bedroom Steward
+Hamilton, Mr. Ernest,,25,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Assistant Smoke Room Steward
+Harding, Mr. A.,,20,M,"Swaythling, Hampshire, England",Southampton,,,0,1,0,1,Assistant Pantry Steward
+Hardwick, Mr. Reginald,,21,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Kitchen Porter
+Hardy, Mr. John T.,,37,M,"Southampton, Hampshire, England",Belfast,,,0,0,0,1,Chief 2nd Class Steward
+Harris, Mr. Charles William,,19,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+Harris, Mr. Clifford Henry,,16,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Bell Boy
+Harris, Mr. Edward,,18,M,"Winchester, Hampshire, England",Southampton,,,0,1,0,1,Assistant Pantryman Steward
+Harrison, Mr. Aragon D.,,40,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Saloon Steward
+Hart, Mr. John Edward,,31,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Third Class Steward
+Hartnell, Mr. Frederick,,21,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Saloon Steward
+Hatch, Mr. Hugh,,22,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Scullion
+Hawkesworth, Mr. James,,38,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+Hawkesworth, Mr. William Walter,,38,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Deck Steward
+Hayter, Mr. Arthur,,44,M,"Southampton, Hampshire, England",Belfast,,25MB,0,0,0,1,Bedroom Steward
+Heinen, Mr. Joseph,,30,M,"Lewisham, London, England",Southampton,,,0,1,0,1,Saloon Steward
+Hendy, Mr. Edward Martin,,38,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Saloon Steward
+Hensford, Mr. Herbert George,,29,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Butcher
+Hewett, Mr. Thomas,,37,M,"Liverpool, Lancashire, England",Belfast,,168MB,0,0,0,1,Bedroom Steward
+Hill, Mr. H.P.,,36,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Steward
+Hill, Mr. James Colston,,38,M,"Southampton, Hampshire, England",Belfast,,152MB,0,0,0,1,Bedroom Steward
+Hinckley, Mr. George,,35,M,"Southampton, Hampshire, England",Southampton,,66MB,0,0,0,1,Bath Steward
+Hine, Mr. William Edward,,36,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Baker
+Hiscock, Mr. S.,,22,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Plate Steward
+Hoare, Mr. Leonard James,,21,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Saloon Steward
+Hogg, Mr. Charles William,,37,M,"Liverpool, Lancashire, England",Southampton,,,0,1,0,1,Bedroom Steward
+Hogue, Mr. E.,,22,M,"London, England",Southampton,,,0,1,0,1,Plate Steward
+Holland, Mr. Thomas,,28,M,"Liverpool, Lancashire, England",Belfast,,,0,1,0,1,Reception Steward
+Holloway, Mr. Sidney,,20,M,"Southampton, Hampshire, England",Southampton,,273MB,0,0,0,1,Clothes Presser
+Hopkins, Mr. F.,,16,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Plate Steward
+House, Mr. William,,38,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Saloon Steward
+Howell, Mr. Arthur Albert,,31,M,"Itchen, Hampshire, England",Belfast,,319M,0,0,0,1,Saloon Steward
+Hughes, Mr. William Thomas,,33,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Steward
+Humby, Mr. Frederick,,16,M,"Southampton, Hampshire, England",Southampton,,237[?]MB,0,0,0,1,Plate Steward
+Humphreys, Mr. Thomas Humphrey,,31,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Assistant Saloon Steward
+Hutchinson, Mr. James,,29,M,"Liverpool, Lancashire, England",Southampton,,250MB,0,0,0,1,Vegetable Cook
+Hyland, Mr. Leo James,,19,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Steward
+Ide, Mr. Harry John,,32,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Bedroom Steward
+Ingrouille, Mr. Henry,,21,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Steward
+Ings, Mr. William Ernest,,20,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Scullion
+Jackson, Mr. Cecil,,29,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Boots
+Janaway, Mr. William Frank,,35,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Bedroom Steward
+Jenner, Mr. Harry,,41,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Saloon Steward
+Jensen, Mr. Charles Valdemar,,25,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+Jessop, Miss Violet Constance,,24,F,"London, England",Southampton,,,0,0,0,1,Stewardess
+Johnson Thorne, Mr. Harry,,25,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Assistant Ship's Cook
+Johnston, Mr. James,,41,M,"Southampton, Hampshire, England",Belfast,,,0,0,0,1,Saloon Steward
+Jones, Mr. Albert,,17,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+Jones, Mr. Arthur Ernest,,38,M,"Woolston, Hampshire, England",Southampton,,,0,1,0,1,Plate Steward
+Jones, Mr. H.,,29,M,"Alresford, Essex, England",Southampton,,,0,1,0,1,Roast Cook
+Jones, Mr. Reginald V.,,20,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+Joughin, Mr. Charles John,,32,M,"Southampton, Hampshire, England",Belfast,,,0,0,0,1,Chief Baker
+Keen, Mr. Percy Edward,,28,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Saloon Steward
+Kelland, Mr. Thomas,,21,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Library Steward
+Kennell, Mr. Charles,,30,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Hebrew Cook
+Kerley, Mr. William Thomas,,28,M,"Salisbury, Wiltshire, England",Southampton,,333O,0,0,0,1,Assistant Saloon Steward
+Ketchley, Mr. Henry,,30,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Saloon Steward
+Kieran, Mr. James W.,,32,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Chief 3rd Class Steward
+Kieran, Mr. Michael,,31,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Storekeeper
+King, Mr. Alfred,,18,M,"Southampton, Hampshire, England",Southampton,,238MB,0,0,0,1,Lift Steward
+King, Mr. Ernest Waldron,,28,M,"Clones, Monaghan, Ireland",Southampton,,321M,0,1,0,1,Clerk
+King, Mr. G.,,20,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Scullion
+Kingscote, Mr. William Ford,,43,M,"Freemantle, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+Kirkaldy, Mr. Thomas,,37,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Bedroom Steward
+Kitching, Mr. Arthur Alfred,,30,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+Klein, Mr. Herbert,,33,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Second Class Barber
+Knight, Mr. George,,44,M,"Woolston, Hampshire, England",Southampton,,,0,0,0,1,Saloon Steward
+Knight, Mr. Leonard George,,21,M,"Bishopstoke, Hampshire, England",Southampton,,,0,1,0,1,Steward
+Lacey, Mr. Bert W.,,21,M,"Salisbury, Wiltshire, England",Southampton,,44{?}MB[21],0,0,0,1,Assistant Saloon Steward
+Lake, Mr. William,,35,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Saloon Steward
+Lane, Mr. Albert Edward,,34,M,"Woolston, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+Latimer, Mr. Andrew L.,,55,M,"Liverpool, Lancashire, England",Belfast,,,0,1,0,1,Chief First Class Steward
+Lavington, Miss Bessie,,39,F,"Winchester, Hampshire, England",Southampton,,,0,0,0,1,Stewardess
+Lawrence, Mr. Arthur,,25,M,"Rochford, Essex, England",Belfast,,90MB,0,0,0,1,Saloon Steward
+Leader, Mr. Archie,,22,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Confectioner
+Leather, Mrs Elizabeth May,,41,F,"Liverpool, Lancashire, England",Southampton,,,0,0,0,1,Stewardess
+Lefebvre, Mr. Paul Georges,,35,M,"Southampton, Hampshire, England",Southampton,,211v,0,0,0,1,Saloon Steward
+Leonard, Mr. Matthew,,26,M,"Belfast, Ireland",Belfast,,,0,1,0,1,Steward
+Levett, Mr. George Alfred,,21,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Assistant Pantryman
+Lewis, Mr. Arthur Ernest,,27,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Steward
+Light, Mr. C.,,23,M,"Christchurch, Dorset, England",Southampton,,,0,1,0,1,Plate Steward
+Littlejohn, Mr. Alexander James,,40,M,"Southampton, Hampshire, England",Belfast,,,0,0,0,1,Saloon Steward
+Lloyd, Mr. Humphrey,,32,M,"Southampton, Hampshire, England",Belfast,,57MB,0,0,0,1,Saloon Steward
+Locke, Mr. A.,,33,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Scullion
+Longmuir, Mr. John Dickson,,19,M,"Eastleigh, Hampshire, England",Southampton,,,0,1,0,1,Assistant Pantry Steward
+Lovell, Mr. John,,38,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Grill Cook
+Lucas, Mr. William,,34,M,"Southampton, Hampshire, England",Belfast,,,0,0,0,1,Saloon Steward
+Lydiatt, Mr. Charles,,38,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+Mabey, Mr. J.,,23,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Steward
+Mackay, Mr. Charles Donald,,34,M,"Southampton, Hampshire, England",Belfast,,,0,0,0,1,Saloon Steward
+Mackie, Mr. George William,,34,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Bedroom Steward
+Major, Mr. Thomas Edgar,,35,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Bath Steward
+Mantle, Mr. Roland Frederick,,36,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Steward
+Marks, Mr. J.,,26,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Assistant Pantryman Steward
+Marriott, Mr. J.W.,,20,M,"Southampton, Hampshire, England",Southampton,,2MB,0,0,0,1,Assistant Pantryman Steward
+Marsden, Miss Evelyn,,28,F,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Stewardess
+Martin, Mrs. Annie,,33,M,"Portsmouth, Hampshire, England",Southampton,,,0,0,0,1,Stewardess
+Martin, Mr. F.,,29,M,"Fareham, Hampshire, England",Southampton,,,0,0,0,1,Scullion
+Maynard, Mr. Isaac Hiram,,31,M,"Southampton, Hampshire, England",Belfast,,,0,0,0,1,Entre Cook
+Maytum, Mr. Alfred,,52,M,"Southampton, Hampshire, England",Belfast,,141MB,0,0,0,1,Chief Butcher
+McCarthy, Mr. Frederick,,36,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Bedroom Steward
+McCawley, Mr. Thomas W.,,36,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Gymnasium Steward
+McElroy, Mr. Hugh Walter,,37,M,"Southampton, Hampshire, England",Southampton,,157MB,0,0,0,1,Purser
+McGrady, Mr. James,,27,M,"Southampton, Hampshire, England",Southampton,,330A,0,0,0,1,Saloon Steward
+McLaren, Mrs.,,40,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Stewardess
+McMicken, Mr. Arthur,,23,M,"Southampton, Hampshire, England",Belfast,,,0,0,0,1,Saloon Steward
+McMicken, Mr. Benjamin Tucker,,21,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Second Pantry Steward
+McMullin, Mr. James,,31,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Saloon Steward
+McMurray, Mr. William Ernest,,43,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Bedroom Steward
+Mellor, Mr. Arthur,,34,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+Middleton, Mr. M.V.,,24,M,"London, England",Southampton,,,0,1,0,1,Saloon Steward
+Mills, Mr. Christopher,,51,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Butcher
+Mishellamy, Mr. Abraham,,52,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Printer Steward
+Moore, Mr. Alfred Ernest,,39,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+Morgan    #(Bird), Mr. Charles Frederick,,42,M,"Birkenhead, Cheshire, England",Southampton,,,0,1,0,1,Assistant Storekeeper
+Morris, Mr. Frank Herbert,,28,M,"Southampton, Hampshire, England",Belfast,,,0,0,0,1,Bathroom Steward
+Moss, Mr. William,,34,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,First Saloon Steward
+Mullen, Mr. Thomas A.,,20,M,"Maxwelltown, Dumfries, Scotland",Southampton,,323M,0,0,0,1,Steward
+Neal, Mr. Henry,,25,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Baker
+Nicholls, Mr. Sidney,,39,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+Nichols, Mr. A. D.,,34,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Steward
+Nichols, Mr. Walter Henry,,35,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Steward
+O'Connor, Mr. Thomas Peter,,39,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Bedroom Steward
+Olive, Mr. Ernest Roskelly,,28,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Clothes Presser Steward
+Orpet, Mr. Walter Hayward,,31,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+Orr, Mr. J.,,40,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Assistant Vegetable Cook
+Osbourne, Mr. William Edward,,32,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Saloon Steward
+Owen, Mr. Lewis,,49,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Assistant Saloon Steward
+Pacey, Mr. Reginald Ivan,,17,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Lift Steward
+Paintin, Mr. James Arthur,,29,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Captain's Steward
+Parsons, Mr. Edward,,35,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Chief Storekeeper
+Parsons, Mr. Richard,,18,M,"Ashbrittle, Somerset, England",Southampton,,,0,1,0,1,Saloon Steward
+Pearce, Mr. Alfred Ernest,,24,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Steward
+Pearcey, Mr. Albert Victor,,32,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Steward
+Pennal, Mr. Thomas Francis,,33,M,"Shirley, Hampshire, Hampshire, England",Southampton,,,0,1,0,1,Bath Steward
+Penny, Mr. William Far,,30,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Assistant Saloon Steward
+Penrose, Mr. John Poole,,49,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Bedroom Steward
+Perkins, Mr. Laurence Alexander,,22,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Telephone Steward
+Perrin, Mr. William Charles,,39,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Boots Steward
+Perriton, Mr. Hubert Prouse,,31,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+Petty, Mr. Edwin Henry,,25,M,"Southampton, Hampshire, England",Southampton,,82MB,0,0,0,1,Bedroom Steward
+Pfropper, Mr. Richard,,30,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Saloon Steward
+Phillimore, Mr. Harold Charles William,,23,M,"Southampton, Hampshire, England",Belfast,,,0,0,0,1,Saloon Steward
+Phillips," Mr. John George ""Jack""",,25,M,"Godalming, Surrey, England",Belfast,,,0,1,0,1,Telegraphist
+Platt, Mr. W.,,18,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Scullion
+Pook, Mr. P.,,34,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Assistant Pantry
+Port, Mr. Frank,,32,M,"Southampton, Hampshire, England",Belfast,,,0,0,0,1,Steward
+Porteus, Mr. Thomas,,32,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Butcher
+Prentice, Mr. Frank Winnold,,22,M,"Southampton, Hampshire, England",Belfast,,,0,0,0,1,Storekeeper
+Prichard, Mrs. Alice,,33,M,"Southampton, Hampshire, England",Belfast,,,0,0,0,1,Stewardess
+Prideaux," Mr. John Arthur ""Jack""",,23,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Steward
+Prior, Mr. Harold John,,21,M,"Southampton, Hampshire, England",Belfast,,,0,0,0,1,Steward
+Proctor, Mr. Charles,,40,M,"Liverpool, Lancashire, England",Belfast,,,0,1,0,1,Chef
+Pryce, Mr. Charles William,,22,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+Pugh, Mr. Alfred,,20,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Steward
+Puzey, Mr. John E.,,35,M,"Itchen, Hampshire, England",Belfast,,,0,1,0,1,Saloon Steward
+Randall, Mr. Frank Henry,,27,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+Ransom, Mr. James,,33,M,"Bristol, Avon, England",Belfast,,,0,1,0,1,Saloon Steward
+Rattonbury, Mr. William Henry,,36,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Assistant Boots Steward
+Ray, Mr. Frederick Dent,,32,M,"Southampton, Hampshire, England",Belfast,,,0,0,0,1,Saloon Steward
+Reed, Mr. Charles S.,,43,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Bedroom Steward
+Revell, Mr. William,,31,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Saloon Steward
+Rice, Mr. John Reginald,,25,M,"Crosby, Lancashire, England",Southampton,,64MB,0,0,0,1,Clerk
+Rice, Mr. John Reginald,,25,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Steward
+Ricks, Mr. Cyril G.,,23,M,"Southampton, Hampshire, England",Southampton,,100MB,0,0,0,1,Storekeeper
+Ridout, Mr. W.,,29,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+Rimmer, Mr. Gilbert,,27,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+Roberton, Mr. George Edward,,19,M,"Southampton, Hampshire, England",Southampton,,127MB,0,0,0,1,Assistant Saloon Steward
+Roberts, Mr. Frank John,,36,M,"Farnborough, Hampshire, England",Belfast,,231MB,0,0,0,1,Third Butcher
+Roberts, Mr. Hugh H.,,40,M,"Bootle, Lancashire, England",Southampton,,93MB,0,0,0,1,Bedroom Steward
+Roberts, Mrs. Mary Kezziah    ,(nee Humphrys),41,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Saloon Steward
+Robinson, Mrs. Annie,,40,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Stewardess
+Robinson, Mr. James William,,30,M,"Southampton, Hampshire, England",Southampton,,151MB,0,0,0,1,Saloon Steward
+Rogers, Mr. Edward James William,,32,M,"Southampton, Hampshire, England",Southampton,,282MB,0,0,0,1,Assistant Storekeeper
+Rogers, Mr. Michael,,27,M,"Winchester, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+Ross, Mr. Horace Leopold,,36,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Scullion
+Rowe, Mr. Edward M.,,31,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Saloon 1st Class Steward
+Rule, Mr. Samuel James,,58,M,"Southampton, Hampshire, England",Belfast,,,0,0,0,1,Bathroom Steward
+Russell, Mr. Boysie Richard,,17,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+Ryan, Mr. Tom,,27,M,"Southampton, Hampshire, England",Southampton,,264{?}MB[22],0,0,0,1,Third Class Steward
+Ryerson, Mr. William Edwy,,32,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Saloon Steward
+Samuel, Mr. Owen Wilmore,,41,M,"Southampton, Hampshire, England",Southampton,,217MB,0,0,0,1,Saloon Steward
+Saunders, Mr. D. E.,,26,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+Savage, Mr. Charles J.,,23,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Saloon Steward
+Scott, Mr. John,,21,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Boots Steward
+Scovell, Mr. Robert,,42,M,"Freemantle, Hampshire, England",Southampton,,,0,1,0,1,Saloon Steward
+Sedunary, Mr. Sidney Francis,,25,M,"Southampton, Hampshire, England",Southampton,,178MB,0,0,0,1,Third Class Steward
+Shea, Mr. John,,39,M,"Southampton, Hampshire, England",Belfast,,11MB,0,0,0,1,Saloon Steward
+Slight, Mr. Harry John,,35,M,"Southampton, Hampshire, England",Southampton,,21{?}MB[20],0,0,0,1,Steward
+Sloan, Miss Mary,,28,F,"Belfast, Northern Ireland",Southampton,,,0,0,0,1,Stewardess
+Slocombe, Mrs Maud    ,(nee Waldon),30,F,"London, England",Southampton,,,0,0,0,1,Turkish Bath Stewardess
+Smillie, Mr. John,,38,M,"Southampton, Hampshire, England",Belfast,,91MB,0,0,0,1,Saloon Steward
+Smith, Mr. Charles Edward,,38,M,"Southampton, Hampshire, England",Southampton,,329MM,0,0,0,1,Bed Room Steward
+Smith, Mr. F,,20,M,"Southampton, Hampshire, England",Southampton,,240{?}MBSee[20],0,0,0,1,Assistant Pantryman Steward
+Smith, Miss Katherine E.,,42,F,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Stewardess
+Snape, Mrs Lucy Violet,,22,F,"Witley, Surrey, England",Southampton,,,0,1,0,1,Stewardess
+Stap, Miss Sarah Agnes,,47,F,"Birkenhead, Cheshire, England, England",Southampton,,,0,0,0,1,Stewardess
+Stone, Mr. Edmond J.,,26,M,"Southampton, Hampshire, England",Southampton,,41MB[23],0,0,0,1,First class Bedroom Steward
+Stone, Mr. Edward Thomas,,30,M,"Southampton, Hampshire, England",Southampton,,243MB[23],0,0,0,1,First class Bedroom Steward
+Talbot, Mr. George Frederick Charles.,,27,M,"Southampton, Hampshire, England",Southampton,,150MB,0,0,0,1,Steward
+Taylor, Mr. William,,21,M,"Southampton, Hampshire, England",Southampton,,36{?}MB[20],0,0,0,1,Boots Steward
+Teuton, Mr. Thomas Moore,,32,M,"Southampton, Hampshire, England",Southampton,,226MB,0,0,0,1,Saloon Steward
+Turner, Mr. Leopold[24],,28,M,"Church Stretton, Shropshire, England",Belfast,,23MB,0,0,0,1,First Class Saloon Steward
+Veal, Mr. Thomas H.E.,,38,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,First Class Saloon Steward
+Wake, Mr. T.,,32,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Asst. Baker
+Wallis, Mrs Catherine Jane,,35,F,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Second Class Matron
+Walpole, Mr. James,,48,M,"Southampton, Hampshire, England",Belfast,,,0,1,0,1,Chief Pantryman
+Walsh, Miss Catherine,,32,F,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Stewardess
+Ward, Mr. Edward,,34,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,First Class Bedroom Steward
+Ward, Mr. Percy T.,,38,M,"Hampshire, England",Southampton,,,0,1,0,1,First Class Bedroom Steward
+Ward, Mr. William,,36,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,First Class Saloon Steward
+Wareham, Mr. Robert Arthur,,36,M,"Southampton, Hampshire, England",Southampton,,246MB,0,0,0,1,First Class Bedroom Steward
+Warwick, Mr. Thomas,,35,M,"Hampshire, England",Southampton,,,0,1,0,1,First Class Saloon Steward
+Weatherston, Mr. Thomas,,24,M,"Liverpool, Lancashire, England",Belfast,,,0,1,0,1,First Class Saloon Steward
+Weikman, Mr. Augustus Henry,,51,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,First Class Barber
+White, Mr. Arthur,,37,M,"Portsmouth, Hampshire, England",Southampton,,247MB,0,0,0,1,Third Class Barber
+White, Mr Edward Joseph,,27,M,"Southampton, Hampshire, England",Southampton,,272MB,0,0,0,1,Glory Hole Steward
+White, Mr. L.,,32,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,First Class Saloon Steward
+Whiteley, Mr. Thomas,,18,M,"London, England",Southampton,,,0,0,0,1,First Class Saloon Steward
+Whitford, Mr. A.H.,,37,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Second Class Saloon Steward
+Whittman, Mr. Henry,,34,M,"Southampton, Hampshire, England",Southampton,,315MB,0,0,0,1,First Class Bedroom Steward
+Widgery, Mr. James G.,,37,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Second Class Bath Steward
+Wildebank, Mr. Alfred E.,,39,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Asst. Cook
+Williams, Mr. Walter J.,,28,F,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Second Class Saloon Steward
+Willis, Mr. William,,66,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Third Class Steward
+Wiltshire, Mr. W.,,33,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Asst. Butcher
+Witter, Mr. James W.C.,,31,M,"Hampshire, England",Southampton,,,0,0,0,1,Second Class Smoking Room Steward
+Wood, Mr. J.T.,,40,M,"London, England",Southampton,,,0,1,0,1,Second Class Saloon Steward
+Wormald, Mr. Frederick William,,36,M,"Southampton, Hampshire, England",Southampton,,144MB,0,0,0,1,First Class Saloon Steward
+Wrapson, Mr. Frederick B.,,19,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Asst. Pantryman
+Wright, Mr. Frederick,,24,M,"London, England",Southampton,,,0,1,0,1,Squash Court Steward
+Wright, Mr. William,,40,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Glory Hole Steward
+Yearsley, Mr. Harry,,38,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,First Class Saloon Steward
+Yoshack, Mr. James A.,,31,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,First Class Saloon Steward
+Allaria, Mr. Battista Antonio,,30,M,"Southampton, Hampshire, England",Southampton,,221MB,0,0,0,1,Asst. Waiter
+Aspeslagh, Mr. Georges,,26,M,"London, England",Southampton,,,0,1,0,1,Asst. Plateman
+Banfi, Mr. Ugo,,24,M,"Finsbury, London, England",Southampton,,,0,1,0,1,Waiter
+Basilico, Mr. Giovanni,,27,M,"London, England",Southampton,,,0,1,0,1,Waiter
+Bazzi, Mr. Narciso,,33,M,"London, England",Southampton,,,0,1,0,1,Waiter
+Bernardi, Mr. Battista,,22,M,"Southampton, Hampshire, England",Southampton,,215MB,0,0,0,1,Asst. Waiter
+Beux, Mr. David,,26,M,"London, England",Southampton,,,0,1,0,1,Asst. Waiter
+Bietrix, Mr. George Baptiste,,28,M,"Lambeth, London, England",Southampton,,,0,1,0,1,Cook
+Blument, Mr. Jean Baptiste,,26,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Pantryman
+Bochet, Mr. Pierre Giuseppe,,43,M,"London, England",Southampton,,,0,1,0,1,Waiter
+Bolhuis," Mr. Hendrik ""Hennie""",,21,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Larder Cook
+Bowker, Miss Ruth,,27,F,"London, England",Southampton,,,0,0,0,1,Cashier
+Casali, Mr. Giulio,,27,M,"Soho, London, England",Southampton,,,0,1,0,1,Waiter
+Chaboisson, Mr. Adrien Finnin,,25,M,"London, England",Southampton,,,0,1,0,1,Roast Cook
+Cornaire, Mr. Marcel Raymond Andre,,19,M,"London, England",Southampton,,,0,1,0,1,Asst. Roast Cook
+Coutin, Mr. Auguste Louis,,28,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Entree Cook
+Crovella, Mr. Luigi,,17,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Asst. Waiter
+De Marsico, Mr. Giovanni,,20,M,"Soho, London, England",Southampton,,,0,1,0,1,Asst. Waiter
+Debreucq, Mr. Maurice Emile Victor,,22,M,"London, England",Southampton,,244MB,0,0,0,1,Asst. Waiter
+Desvernine, Mr. Louis Gabriel,,20,M,"London, England",Southampton,,,0,1,0,1,Asst. Pastry Cook
+Donati, Mr. Italo Francesco,,17,M,"London, England",Southampton,,311M,0,0,0,1,Asst. Waiter
+Dornier, Mr. Louis Auguste,,20,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Asst. Fish Cook
+Fey, Mr. Carlo,,30,M,"London, England",Southampton,,,0,,0,1,Scullion
+Fioravante, Mr. Giuseppe Bertoldo,,23,M,"London, England",Southampton,,,0,1,0,1,Asst. Scullion
+Gatti," Mr. Gaspare Antonio Pietro ""Luigi""",,37,M,"Southampton, Hampshire, England",Southampton,,313M,0,0,0,1,Restaurant Manager
+Gilardino, Mr. Vincenzo Pio,,31,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Waiter
+Grosclaude, Mr. Gerald,,24,M,"London, England",Southampton,,,0,1,0,1,Waiter
+Jaillet, Mr. Henri Marie,,28,M,"London, England",Southampton,,277MB,0,0,0,1,Pastry Cook
+Janin, Mr. Claude Marie,,29,M,"London, England",Southampton,,,0,1,0,1,Soup Cook
+Jeffery, Mr. William Alfred,,28,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Controller
+Jouannault, Mr. Georges Jules,,24,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Asst. Sauce Cook
+Martin," Miss Margaret Edwina ""Mabel""",,20,F,"London, England",Southampton,,,0,0,0,1,Cashier
+Mattmann, Mr. Adolf,,20,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Ice Man
+Mauge, Mr. Paul Achille Maurice Germain,,25,M,"Southampton, Hampshire, England",Southampton,,,0,0,0,1,Kitchen Clerk
+Monteverdi, Mr. Giovanni,,23,M,"London, England",Southampton,,,0,1,0,1,Cook
+Monrós, Mr. Joan Xavier,,20,M,"London, England",Southampton,,27MB,0,0,0,1,Asst. Waiter
+Nannini, Mr. Francesco Luigi,,42,M,"London, England",Southampton,,,0,1,0,1,Head Waiter
+Pachera, Mr. Jean Baptiste Stanislas,,19,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Asst. Larder Cook
+Pedrini, Mr. Alessandro,,21,M,"Southampton, Hampshire, England",Southampton,,104MB,0,0,0,1,Asst. Waiter
+Peracchio, Mr. Alberto,,20,M,"Soho, London, England",Southampton,,,0,1,0,1,Asst. Waiter
+Peracchio, Mr. Sebastiano,,17,M,"Soho, London, England",Southampton,,,0,1,0,1,Asst. Waiter
+Perotti, Mr. Alfonso,,20,M,"London, England",Southampton,,,0,1,0,1,Asst. Waiter
+Phillips, Mr. Walter John,,35,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Storekeeper
+Piatti, Mr. Luigi,,17,M,"London, England",Southampton,,,0,1,0,1,Asst. Waiter
+Piazza, Mr. Pompeo,,30,M,"London, England",Southampton,,266MB,0,0,0,1,Waiter
+Poggi, Mr. Emilio,,28,M,"Southampton, Hampshire, England",Southampton,,301MB,0,0,0,1,Waiter
+Price, Mr. Ernest,,17,M,"London, England",Southampton,,186MB,0,0,0,1,Barman
+Ratti, Mr. Enrico,,21,M,"London, England",Southampton,,,0,1,0,1,Waiter
+Ricaldone, Mr. Rinaldo Renato,,22,M,"London, England",Southampton,,,0,1,0,1,Asst. Waiter
+Rigozzi, Mr. Abele,,22,M,"London, England",Southampton,,115MB,0,0,0,1,Asst. Waiter
+Rotta, Mr. Angelo Mario,,23,M,"London, England",Southampton,,,0,1,0,1,Waiter
+Rousseau, Mr. Pierre,,49,M,"London, England",Southampton,,,0,1,0,1,Chef
+Saccaggi, Mr. Giovanni Giuseppe Emilio,,24,M,"London, England",Southampton,,,0,1,0,1,Asst. Waiter
+Salussolia, Mr. Giovanni,,25,M,"London, England",Southampton,,,0,1,0,1,Glass Man
+Sartori, Mr. Lazar,,24,M,"London, England",Southampton,,,0,1,0,1,Asst. Glass Man
+Scavino, Mr. Candido,,42,M,"London, England",Southampton,,,0,1,0,1,Carver
+Sesia, Mr. Giacomo,,24,M,"London, England",Southampton,,,0,1,0,1,Waiter
+Testoni, Mr. Ercole,,23,M,"London, England",Southampton,,,0,1,0,1,Asst. Glass Man
+Tietz, Mr. Karl,,27,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Kitchen Porter
+Turvey, Mr. Charles,,16,M,"London, England",Southampton,,,0,1,0,1,Page Boy
+Urbini, Mr. Roberto,,22,M,"London, England",Southampton,,,0,1,0,1,Waiter
+Valvassori, Mr. Ettore Luigi,,35,M,"London, England",Southampton,,,0,1,0,1,Waiter
+Vicat, Mr. Alphonse Jean Eugene,,21,M,"London, England",Southampton,,,0,1,0,1,Cook
+Villvarlange, Mr. Pierre Leon Gabriel,,19,M,"Paris, France",Southampton,,,0,1,0,1,Asst. Soup Cook
+Vine, Mr. H.,,18,M,"London, England",Southampton,,,0,1,0,1,Asst. Controller
+Vioni, Mr. Roberto,,31,M,"London, England",Southampton,,,0,1,0,1,Waiter
+Voegelin-Dubach, Mr. Johannes,,35,M,"London, England",Southampton,,,0,1,0,1,Coffee Maker
+Zanetti, Mr. Minio,,20,M,"London, England",Southampton,,,0,1,0,1,Asst. Waiter
+Zarracchi, Mr. L.,,26,M,"Southampton, Hampshire, England",Southampton,,,0,1,0,1,Wine Butler
+Gwinn, Mr. William Logan,,37,M,"New York City, USA",Southampton,,,0,1,0,1,Postal Clerk
+March, Mr. John Starr,,50,M,"Newark, New Jersey, USA",Southampton,,225MB,0,0,0,1,Postal Clerk
+Smith," Mr. John Richard ""Jago""",,35,M,"Truro, England",Southampton,,,0,1,0,1,Postal Clerk
+Williamson, Mr. James Bertram,,35,M,"Dublin, Ireland",Southampton,,,0,1,0,1,Postal Clerk
+Woody, Mr. Oscar Scott,,41,M,"Clifton, Virginia, USA",Southampton,,167MB,0,0,0,1,Postal Clerk
+Andrews, Mr. Thomas,,39,M,"Belfast, Ireland",Belfast,,,1,1,0,1,Shipbuilder
+Campbell, Mr. William Henry,,21,M,"Belfast, Ireland",Belfast,,,2,1,0,1,Joiner
+Chisholm, Mr. Roderick Robert Crispin,,40,M,"Belfast, Ireland",Belfast,,,1,1,0,1,Draughtsman
+Cunningham, Mr. Alfred Fleming,,21,M,"Belfast, Ireland",Belfast,,,2,1,0,1,Fitter
+Frost," Mr. Anthony Wood ""Artie""",,37,M,"Belfast, Ireland",Belfast,,,2,1,0,1,Fitter
+Knight, Mr. Robert J.,,39,M,"Belfast, Ireland",Belfast,,,2,1,0,1,Fitter
+Parkes," Mr. Francis ""Frank""",,21,M,"Belfast, Ireland",Belfast,,,2,1,0,1,Plumber
+Parr, Mr. William Henry Marsh,,29,M,"Belfast, Ireland",Belfast,,,1,1,0,1,Electrician
+Watson, Mr. Ennis Hastings,,15,M,"Belfast, Ireland",Belfast,,,2,1,0,1,Electrician's Apprentice
+Brailey, Theodore Ronald,,24,M,"London, England",,,,0,0,0,1,Pianist
+Bricoux, Roger Marie,,20,M,"Cosne-sur-Loire, France",,,,0,0,0,1,Cellist
+Clarke, John Frederick Preston,,30,M,"Liverpool, Lancashire, England",,,202MB,0,0,0,1,Bassist
+Hartley, Wallace,,33,M,"Colne, Lancashire, England",,,224MB,0,0,0,1,"Bandmaster, violinist"
+Hume, John Law,,21,M,"Dumfries, Scotland",,,193MB,0,0,0,1,Violinist
+Krins, Georges Alexandre,,23,M,"London, England",,,,0,0,0,1,Violinist
+Taylor, Percy Cornelius,,32,M,"London, England",,,,0,0,0,1,Cellist
+Woodward, John Wesley,,32,M,"Oxford, England",,,,0,0,0,1,Cellist
